@@ -23,3 +23,11 @@ dependencies = [
 [tool.uv]
 # earlier versions of numba require a python version < 3.11
 constraint-dependencies = ["numba>=0.56.0"]
+# botocore/boto3 are transitive deps of snowflake-connector-python but are not
+# needed inside Snowflake's container runtime and fail to download (401) from
+# the shared artifact repository.  The impossible marker makes the resolver
+# skip them entirely on Python 3.x.
+override-dependencies = [
+    "botocore; python_version < '3'",
+    "boto3; python_version < '3'",
+]

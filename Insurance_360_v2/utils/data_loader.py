@@ -4,17 +4,19 @@ All cached Snowpark queries for INSURANCE_C360 schema.
 Source: MDB_DATA | Enriched: SILVER | Analytics: GOLD
 
 Conventions in this module:
-  * The Snowflake session comes from st.connection (the supported pattern for
-    Streamlit in Snowflake / Workspace container runtime), cached as a resource.
+  * The Snowflake session comes from get_active_session() — the single
+    platform-provided session in Workspace / SiS runtimes.  Using
+    st.connection("snowflake") would create a SECOND Snowpark Session,
+    triggering error 1409 ("More than one active session").
   * Every value that originates from a widget is passed as a BOUND PARAMETER
     (`?` placeholders + params=[...]), never interpolated into the SQL string.
   * Every loader is memoized with an explicit ttl, and per-customer loaders
     also carry max_entries so the cache cannot grow unbounded.
 """
-import os
 
 import pandas as pd
 import streamlit as st
+from snowflake.snowpark.context import get_active_session
 
 DB = "INSURANCE_C360"
 SRC = "MDB_DATA"
@@ -48,15 +50,9 @@ _TTL_ROWS = 900      # per-customer and row-level reads
 _TTL_AGG = 1800      # aggregates that move slowly
 
 
-@st.cache_resource
-def _connection():
-    """Embedded Snowflake identity provided by the platform."""
-    return st.connection("snowflake", ttl=os.getenv("SNOWFLAKE_CONNECTION_TTL"))
-
-
 def get_session():
-    """Snowpark session, for callers that need the Snowpark/Root API."""
-    return _connection().session()
+    """Return the single platform-provided Snowpark session."""
+    return get_active_session()
 
 
 def _q(sql: str, params: list | None = None) -> pd.DataFrame:

@@ -363,16 +363,19 @@ def _build_customer_html(customer_row: dict, script_body: str) -> str:
 </html>"""
 
 
-def dispatch_emails(customer_row: dict, script_body: str) -> tuple:
-    """Send two HTML emails: internal team (full details) + customer (AI script only)."""
-    from snowflake.snowpark.context import get_active_session
-    session = get_active_session()
+def dispatch_emails(customer_row: dict, script_body: str, session) -> tuple:
+    """Send two HTML emails: internal team (full details) + customer (AI script only).
 
+    The caller MUST pass the Snowpark session it already holds (from
+    ``data_loader.get_session()``).  Obtaining a session inside this module
+    would create a second Snowpark Session when the module-reload guard in
+    ``_reload.py`` has refreshed ``data_loader``, triggering Snowpark error 1409.
+    """
     cust_name = customer_row['NAME']
     cust_id = customer_row['CUSTOMER_ID']
 
     # --- Email 1: Internal team — full details (rich HTML) ---
-    internal_recipients = "rajesh.ghote@merkle.com,nilesh.patil@merkle.com"
+    internal_recipients = "nilesh.patil@merkle.com"
     internal_subject = (
         f"[Insurance 360 - Internal] NBA Dispatch: {customer_row['NBA_ACTION']} "
         f"// {cust_id} - {cust_name}"

@@ -297,6 +297,7 @@ if conf_explain:
 
 
 from pages._email_helpers import dispatch_emails as _dispatch_emails
+from utils.data_loader import get_session as _get_session
 
 
 @st.fragment
@@ -328,7 +329,7 @@ def agent_script() -> None:
                 script_body = f"Action: {row['NBA_ACTION']}\nReason: {row['NBA_REASON']}"
             try:
                 with loading("Sending emails via Snowflake"):
-                    internal_to, customer_to = _dispatch_emails(row, script_body)
+                    internal_to, customer_to = _dispatch_emails(row, script_body, _get_session())
                 st.success(
                     f"2 emails dispatched:\n\n"
                     f"**Internal team** (full details) -> {internal_to}\n\n"

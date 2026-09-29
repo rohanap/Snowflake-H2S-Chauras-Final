@@ -261,6 +261,7 @@ def _outreach(page_df) -> None:
         if st.button("Dispatch Email", key="v2_dispatch", type="primary",
                      use_container_width=True):
             from pages._email_helpers import dispatch_emails
+            from utils.data_loader import get_session
             _script = pre if len(pre) > 20 else f"{row['NBA_ACTION']}: {row['NBA_REASON']}"
             full_row = load_customer_360(row["CUSTOMER_ID"])
             if full_row is None:
@@ -268,7 +269,7 @@ def _outreach(page_df) -> None:
             else:
                 try:
                     with loading("Sending emails via Snowflake"):
-                        internal_to, customer_to = dispatch_emails(full_row, _script)
+                        internal_to, customer_to = dispatch_emails(full_row, _script, get_session())
                     st.success(
                         f"2 emails dispatched:\n\n"
                         f"**Internal team** -> {internal_to}\n\n"

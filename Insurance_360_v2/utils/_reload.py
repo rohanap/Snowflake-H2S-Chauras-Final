@@ -33,8 +33,15 @@ import sys
 
 # Dependency order matters: rag_agent imports names from data_loader, so
 # data_loader must be refreshed first, and rag_agent must follow it.
-_HELPERS = ("utils.theme", "utils.data_loader", "utils.rag_agent")
-_DEPENDS_ON_DATA_LOADER = ("utils.rag_agent",)
+#
+# IMPORTANT: data_loader is EXCLUDED from the reload list because it holds a
+# @st.cache_resource connection whose .session() returns a Snowpark Session.
+# Reloading the module creates a new @st.cache_resource-decorated function,
+# which produces a SECOND Session on next call while the old one is still
+# alive — triggering Snowpark error 1409 ("More than one active session").
+# Theme and rag_agent are safe to reload (no session creation).
+_HELPERS = ("utils.theme", "utils.rag_agent")
+_DEPENDS_ON_DATA_LOADER = ()
 
 _STAMP_ATTR = "__source_mtime__"
 
