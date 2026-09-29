@@ -1,0 +1,25 @@
+# Streamlit in Snowflake apps run with a pre-installed version of the Streamlit library.
+# To use a different version of the Streamlit library, you must add an External Access Integration to allow package downloads from PyPI or from another repository.
+# Please visit the Streamlit in Snowflake docs (https://docs.snowflake.com/en/developer-guide/streamlit/features/external-access) to learn more on how to set up an External Access Integration.
+# If a package repository server is not reachable and the pyproject.toml file has not been modified, the app will fall back to the default version of the Streamlit library.
+
+[project]
+name = "streamlit-app"
+requires-python = ">= 3.11"
+version = "0.0.1"
+description = ""
+dependencies = [
+    "streamlit[snowflake]>=1.54.0",
+    # Charting for pages 3 and 5. Container runtimes ship no package index by
+    # default, so this ALSO requires an artifact repository attached to the app:
+    #   ALTER STREAMLIT <app> SET
+    #     ARTIFACT_REPOSITORIES = (snowflake.snowpark.pypi_shared_repository);
+    # Pinned to the same version the sibling Insurance_360 app uses, which is
+    # already proven to resolve on this account.
+    "plotly==5.18.0",
+    "python-dateutil>=2.8.2",
+]
+
+[tool.uv]
+# earlier versions of numba require a python version < 3.11
+constraint-dependencies = ["numba>=0.56.0"]

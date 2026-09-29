@@ -1,0 +1,100 @@
+# Bauhaus / Neo-Brutalist base theme for Insurance_360_v2.
+#
+# This file does the heavy lifting so utils/theme.py needs far fewer
+# !important overrides. Everything here applies from the FIRST painted frame,
+# which matters because the app is warm off-white rather than dark.
+#
+# Fonts are SELF-HOSTED from static/ rather than pulled from Google Fonts:
+# this runtime has no outbound network access, so a CDN <link> silently fails
+# and the design falls back to system faces. Space Grotesk is not available
+# offline, so display type is Fira Sans (geometric, condensed - the closest
+# match); utils/theme.py fakes the missing 900 weight with -webkit-text-stroke.
+# https://docs.streamlit.io/develop/concepts/configuration/theming
+
+[server]
+enableStaticServing = true
+
+[theme]
+base = "light"
+
+# Bauhaus palette
+primaryColor = "#ffcc00"            # accent yellow - CTAs, active states
+backgroundColor = "#f5f0e8"         # warm off-white, "aged paper"
+secondaryBackgroundColor = "#eee9e0"
+codeBackgroundColor = "#e2ddd4"
+textColor = "#1a1a1a"
+linkColor = "#0055ff"
+borderColor = "#1a1a1a"
+codeTextColor = "#1a1a1a"
+
+# "Form follows function": square corners, visible borders, no soft edges.
+baseRadius = "0px"
+buttonRadius = "0px"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = true
+
+font = "FiraSans"
+codeFont = "JetBrainsMono"
+codeFontSize = "0.78rem"
+baseFontSize = 14
+baseFontWeight = 400
+
+# Oversized display type against small functional body text.
+headingFontSizes = ["3.2rem", "2.1rem", "1.45rem", "1.05rem", "0.9rem", "0.8rem"]
+headingFontWeights = [700, 700, 700, 700, 700, 700]
+
+# Native + Plotly-adjacent chart categoricals in the Bauhaus palette.
+chartCategoricalColors = ["#1a1a1a", "#ffcc00", "#e63b2e", "#0055ff", "#4a4a4a", "#a8c6ff"]
+yellowColor = "#ffcc00"
+redColor = "#e63b2e"
+blueColor = "#0055ff"
+grayColor = "#4a4a4a"
+
+# Sidebar is the inverse block: near-black with paper text.
+# Setting it here (rather than a CSS `*` colour rule) is what keeps button
+# labels legible - an earlier CSS-only version made them white-on-white.
+[theme.sidebar]
+backgroundColor = "#1a1a1a"
+secondaryBackgroundColor = "#262626"
+codeBackgroundColor = "#262626"
+textColor = "#f5f0e8"
+primaryColor = "#ffcc00"
+linkColor = "#ffcc00"
+borderColor = "#f5f0e8"
+baseRadius = "0px"
+buttonRadius = "0px"
+
+# ── Self-hosted fonts (served from static/, listed in snowflake.yml) ──
+[[theme.fontFaces]]
+family = "FiraSans"
+url = "app/static/FiraSans-SemiBold.ttf"
+weight = 600
+
+[[theme.fontFaces]]
+family = "FiraSans"
+url = "app/static/FiraSans-Bold.ttf"
+weight = 700
+
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/Inter-Regular.ttf"
+weight = 400
+
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/Inter-SemiBold.ttf"
+weight = 600
+
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/Inter-Bold.ttf"
+weight = 700
+
+[[theme.fontFaces]]
+family = "JetBrainsMono"
+url = "app/static/JetBrainsMono-Medium.ttf"
+weight = 500
+
+[client]
+showErrorDetails = true
