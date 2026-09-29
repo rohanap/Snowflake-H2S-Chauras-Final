@@ -1,0 +1,234 @@
+CUSTOMER_ID,NAME,SEGMENT,STATE,NBA_PRIORITY,NBA_ACTION,NBA_REASON,NBA_CHANNEL,CHURN_RISK_PCT,FAILED_PAYMENT_COUNT,COMPLAINT_COUNT,OPEN_CLAIMS,ALERT_CREATED_AT
+CUST00722,Raymond Johnson,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (91.6%) with 1 failed payment(s),Agent Call,91.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00270,Patrick Thornton,High Net Worth,GA,Urgent,Retention call + payment recovery,High churn risk (90.3%) with 2 failed payment(s),Agent Call,90.3,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00248,Frank Cordova,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (89.9%) with 1 failed payment(s),Agent Call,89.9,1,0,2,2026-09-08 17:30:01.585000-07:00
+CUST00777,Tina Hall,High Net Worth,TX,Urgent,Retention call + payment recovery,High churn risk (89.7%) with 1 failed payment(s),Agent Call,89.7,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00898,Elizabeth Dean,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (89.5%) with 1 failed payment(s),Agent Call,89.5,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00182,Tina Sanders,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (89.4%) with 1 failed payment(s),Agent Call,89.4,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00107,Sharon Cherry,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (89.2%) with 2 failed payment(s),Agent Call,89.2,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00273,Jonathan Lawrence,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (89%) with 1 failed payment(s),Agent Call,89.0,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00410,Jesse Brown,Mass Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (89%) with 2 failed payment(s),Agent Call,89.0,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00497,Austin Osborne,Mass Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (88.7%) with 2 failed payment(s),Agent Call,88.7,2,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00525,Krista Martinez,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (88.7%) with 1 failed payment(s),Agent Call,88.7,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00387,Adam Burgess,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (88.6%) with 1 failed payment(s),Agent Call,88.6,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00667,David Harris,Affluent,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,88.2,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00080,Lisa Barnes,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (87.8%) with 3 failed payment(s),Agent Call,87.8,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00300,Amber Obrien,Mass Affluent,CA,Urgent,Retention call + payment recovery,High churn risk (87.7%) with 3 failed payment(s),Agent Call,87.7,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00017,Holly Wood,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (87.7%) with 1 failed payment(s),Agent Call,87.7,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00487,Monica Miller,High Net Worth,IL,Urgent,Retention call + payment recovery,High churn risk (87.5%) with 1 failed payment(s),Agent Call,87.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00863,Holly Vega,Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (87.4%) with 2 failed payment(s),Agent Call,87.4,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00435,Ashley Wise,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (87.4%) with 1 failed payment(s),Agent Call,87.4,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00070,William Baker,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (87.3%) with 1 failed payment(s),Agent Call,87.3,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00825,Aaron Schroeder,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (87.3%) with 4 failed payment(s),Agent Call,87.3,4,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00990,Karen Johnson,Mass Affluent,AZ,Urgent,Retention call + payment recovery,High churn risk (87.2%) with 1 failed payment(s),Agent Call,87.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00411,Angela Lin,Mass Market,PA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,87.2,0,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00646,Kim Morrow,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (87.2%) with 1 failed payment(s),Agent Call,87.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00935,Michael Thompson,Mass Affluent,CA,Urgent,Retention call + payment recovery,High churn risk (87.1%) with 1 failed payment(s),Agent Call,87.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00268,Colin Terry,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (87.1%) with 1 failed payment(s),Agent Call,87.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00677,Kristen Rowe,Mass Market,CA,Urgent,Retention call + payment recovery,High churn risk (86.9%) with 1 failed payment(s),Agent Call,86.9,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00200,Nathan Freeman,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (86.9%) with 1 failed payment(s),Agent Call,86.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00201,Melissa Brewer,Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (86.8%) with 1 failed payment(s),Agent Call,86.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00719,Kathryn Mccann,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (86.8%) with 4 failed payment(s),Agent Call,86.8,4,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00265,Yvonne Burns,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (86.8%) with 1 failed payment(s),Agent Call,86.8,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00657,Eric Thomas,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (86.6%) with 1 failed payment(s),Agent Call,86.6,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00987,Angela Jackson,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (86.4%) with 2 failed payment(s),Agent Call,86.4,2,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00242,Matthew Moon,Mass Affluent,NY,Urgent,Retention call + payment recovery,High churn risk (86.3%) with 1 failed payment(s),Agent Call,86.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00269,Cynthia Rowe,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (86.3%) with 1 failed payment(s),Agent Call,86.3,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00851,Shannon Miller,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (86%) with 1 failed payment(s),Agent Call,86.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00923,Megan Green,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (85.9%) with 5 failed payment(s),Agent Call,85.9,5,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00254,Barbara Dudley,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (85.9%) with 1 failed payment(s),Agent Call,85.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00117,William Herrera,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (85.8%) with 3 failed payment(s),Agent Call,85.8,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00391,Thomas Atkins,Mass Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (85.8%) with 1 failed payment(s),Agent Call,85.8,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00088,Christopher Bass,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (85.8%) with 1 failed payment(s),Agent Call,85.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00187,Jonathan Peterson,Mass Affluent,AZ,Urgent,Retention call + payment recovery,High churn risk (85.7%) with 1 failed payment(s),Agent Call,85.7,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00778,Cody Davidson,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (85.6%) with 1 failed payment(s),Agent Call,85.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00383,Douglas Gregory,Mass Market,NY,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,85.5,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00352,Kimberly Nguyen,Mass Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (85.4%) with 2 failed payment(s),Agent Call,85.4,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00838,Carol Sanders,Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (85.3%) with 1 failed payment(s),Agent Call,85.3,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00447,Brenda Wright,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (85.3%) with 1 failed payment(s),Agent Call,85.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00216,Anthony Everett,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (85.3%) with 1 failed payment(s),Agent Call,85.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00600,Susan Thompson,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (85.3%) with 2 failed payment(s),Agent Call,85.3,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00007,Abigail Shaffer,High Net Worth,NY,Urgent,Retention call + payment recovery,High churn risk (85.2%) with 1 failed payment(s),Agent Call,85.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00138,Courtney Gonzalez,Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (85.2%) with 1 failed payment(s),Agent Call,85.2,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00605,Mrs. Virginia Daniels,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (85.1%) with 1 failed payment(s),Agent Call,85.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00148,Stephanie Salazar,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (85%) with 1 failed payment(s),Agent Call,85.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00985,Carla Jones,Mass Market,GA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,85.0,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00097,Aaron Wise,Mass Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (84.9%) with 1 failed payment(s),Agent Call,84.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00521,Amy Martinez,Mass Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (84.8%) with 1 failed payment(s),Agent Call,84.8,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00425,Felicia Aguilar,Mass Affluent,OH,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,84.6,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00712,Stephanie Elliott,Mass Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (84.6%) with 1 failed payment(s),Agent Call,84.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00081,Kelly Donovan,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (84.5%) with 1 failed payment(s),Agent Call,84.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00167,Alyssa Long,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (84.5%) with 1 failed payment(s),Agent Call,84.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00303,Megan Le,Mass Affluent,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,84.4,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00550,Pamela Diaz,Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (84.3%) with 1 failed payment(s),Agent Call,84.3,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00822,Mark Beard,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (84.2%) with 1 failed payment(s),Agent Call,84.2,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00694,Jonathan Brooks,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (84.1%) with 3 failed payment(s),Agent Call,84.1,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00125,Helen Jones,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (84.1%) with 3 failed payment(s),Agent Call,84.1,3,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00576,Kelly Edwards,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (84%) with 1 failed payment(s),Agent Call,84.0,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00294,Margaret Coleman,High Net Worth,GA,Urgent,Retention call + payment recovery,High churn risk (84%) with 3 failed payment(s),Agent Call,84.0,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00911,Keith Graham,Mass Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (83.9%) with 1 failed payment(s),Agent Call,83.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00483,Evelyn Martinez,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (83.9%) with 1 failed payment(s),Agent Call,83.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00984,Sean Curtis,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (83.9%) with 1 failed payment(s),Agent Call,83.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00731,Jerry Peters,Mass Market,NC,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,83.8,0,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00336,Andrea Hubbard,Mass Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (83.8%) with 1 failed payment(s),Agent Call,83.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00616,Matthew Schwartz,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (83.6%) with 1 failed payment(s),Agent Call,83.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00124,Michelle Harmon,Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (83.4%) with 1 failed payment(s),Agent Call,83.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00466,Jeffrey Mendez,Mass Market,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,83.4,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00476,Julie Dominguez,Mass Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (83.3%) with 1 failed payment(s),Agent Call,83.3,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00163,Lindsey Walker,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (83.3%) with 1 failed payment(s),Agent Call,83.3,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00995,Anthony Armstrong,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (83.3%) with 3 failed payment(s),Agent Call,83.3,3,1,2,2026-09-08 17:30:01.585000-07:00
+CUST00963,Shannon Yu,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (83.2%) with 1 failed payment(s),Agent Call,83.2,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00374,Sergio Knight,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (83.2%) with 1 failed payment(s),Agent Call,83.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00833,Scott Alexander,Mass Affluent,NY,Urgent,Retention call + payment recovery,High churn risk (83%) with 1 failed payment(s),Agent Call,83.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00277,Wayne Morgan,Affluent,AZ,Urgent,Retention call + payment recovery,High churn risk (82.8%) with 1 failed payment(s),Agent Call,82.8,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00808,Robert Gonzales,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (82.5%) with 1 failed payment(s),Agent Call,82.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00032,James Ferrell,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (82.4%) with 1 failed payment(s),Agent Call,82.4,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00142,David Douglas Jr.,Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (82.4%) with 1 failed payment(s),Agent Call,82.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00800,Donald Medina,Affluent,CA,Urgent,Retention call + payment recovery,High churn risk (82.4%) with 1 failed payment(s),Agent Call,82.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00877,Michael Miles,Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (82.4%) with 1 failed payment(s),Agent Call,82.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00729,Aaron Parker,Affluent,CA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,82.4,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00298,William Barrett,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (82.3%) with 1 failed payment(s),Agent Call,82.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00857,Elizabeth Holmes,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (82.2%) with 1 failed payment(s),Agent Call,82.2,1,2,1,2026-09-08 17:30:01.585000-07:00
+CUST00261,Katie Suarez,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (82.2%) with 1 failed payment(s),Agent Call,82.2,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00506,Jodi Roach,Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (82.2%) with 1 failed payment(s),Agent Call,82.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00151,David Wright,Affluent,NY,Urgent,Retention call + payment recovery,High churn risk (82.1%) with 3 failed payment(s),Agent Call,82.1,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00157,Joshua Perry,Affluent,GA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,82.1,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00880,Richard Adams,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (82.1%) with 1 failed payment(s),Agent Call,82.1,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00738,Arthur Hamilton MD,Mass Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (81.8%) with 4 failed payment(s),Agent Call,81.8,4,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00520,Vincent Reynolds,Mass Market,NY,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,81.6,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00060,John Daniel,Mass Affluent,PA,Urgent,Retention call + payment recovery,High churn risk (81.6%) with 2 failed payment(s),Agent Call,81.6,2,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00492,Heather Bolton,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (81.6%) with 3 failed payment(s),Agent Call,81.6,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00928,Jacqueline Mccoy,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (81.6%) with 1 failed payment(s),Agent Call,81.6,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00807,Zachary Cole,Mass Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (81.5%) with 1 failed payment(s),Agent Call,81.5,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00437,Ralph Anderson,Affluent,AZ,Urgent,Retention call + payment recovery,High churn risk (81.5%) with 3 failed payment(s),Agent Call,81.5,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00316,Jordan Chambers,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (81.5%) with 2 failed payment(s),Agent Call,81.5,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00756,Rachel Jones,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (81.4%) with 2 failed payment(s),Agent Call,81.4,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00774,Samuel Wong,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (81.4%) with 1 failed payment(s),Agent Call,81.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00839,Michael Young,Mass Market,IL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,81.3,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00809,Patricia Young PhD,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (81.2%) with 3 failed payment(s),Agent Call,81.2,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00036,Jeffrey Chavez,High Net Worth,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,81.0,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00241,Andrew Avila,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (80.9%) with 1 failed payment(s),Agent Call,80.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00858,Nicole Phillips,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (80.8%) with 4 failed payment(s),Agent Call,80.8,4,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00721,Randy Friedman,Mass Market,PA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,80.8,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00841,Casey Perez,Mass Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (80.5%) with 1 failed payment(s),Agent Call,80.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00382,Paul Wilson,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (80.3%) with 1 failed payment(s),Agent Call,80.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00661,William David DDS,High Net Worth,CA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,80.3,0,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00221,Courtney Mills,High Net Worth,NC,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,80.3,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00560,Louis Martin,Mass Market,TX,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,80.2,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00957,Eric Henry Jr.,Mass Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (80%) with 1 failed payment(s),Agent Call,80.0,1,0,2,2026-09-08 17:30:01.585000-07:00
+CUST00927,Vickie Anderson,Mass Market,AZ,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,80.0,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00044,Anthony Humphrey,Mass Affluent,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,79.9,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00799,Bradley Johnson DDS,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (79.9%) with 1 failed payment(s),Agent Call,79.9,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00423,Michael Mitchell,Affluent,OH,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,79.7,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00330,Ariana Jennings,Mass Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (79.3%) with 2 failed payment(s),Agent Call,79.3,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00119,Victor Baker,High Net Worth,NY,Urgent,Retention call + payment recovery,High churn risk (79.1%) with 1 failed payment(s),Agent Call,79.1,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00551,Kelly Lee,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (79.1%) with 1 failed payment(s),Agent Call,79.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00932,Sandra Rivera,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (79%) with 1 failed payment(s),Agent Call,79.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00971,Nicholas Rush,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (78.9%) with 1 failed payment(s),Agent Call,78.9,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00788,Elizabeth Mendez,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (78.4%) with 1 failed payment(s),Agent Call,78.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00866,Antonio Mccormick,Mass Market,TX,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,78.3,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00890,Kristen Sloan,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (78.2%) with 1 failed payment(s),Agent Call,78.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00071,Jordan Henderson,Mass Affluent,OH,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,77.8,0,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00755,Dana Hopkins,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (77.5%) with 1 failed payment(s),Agent Call,77.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00199,Adam Vaughan,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (77.3%) with 2 failed payment(s),Agent Call,77.3,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00845,Ashley Edwards,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (77.1%) with 1 failed payment(s),Agent Call,77.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00561,Nancy Evans MD,Mass Market,AZ,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,76.6,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00493,William Gould,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (76.6%) with 1 failed payment(s),Agent Call,76.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00246,Donna Landry,Mass Market,CA,Urgent,Retention call + payment recovery,High churn risk (76.5%) with 3 failed payment(s),Agent Call,76.5,3,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00860,Brian Porter MD,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (76.4%) with 1 failed payment(s),Agent Call,76.4,1,0,2,2026-09-08 17:30:01.585000-07:00
+CUST00443,Robert Harrison,High Net Worth,PA,Urgent,Retention call + payment recovery,High churn risk (76%) with 1 failed payment(s),Agent Call,76.0,1,0,2,2026-09-08 17:30:01.585000-07:00
+CUST00878,Troy Mills,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (75.6%) with 1 failed payment(s),Agent Call,75.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00093,Denise Jacobs,Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (75.5%) with 2 failed payment(s),Agent Call,75.5,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00709,Joseph Williams,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (75.3%) with 4 failed payment(s),Agent Call,75.3,4,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00759,Heather Woodard,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (75%) with 2 failed payment(s),Agent Call,75.0,2,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00786,Laurie Bailey,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (74.8%) with 1 failed payment(s),Agent Call,74.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00177,Michael Elliott,High Net Worth,PA,Urgent,Retention call + payment recovery,High churn risk (74.7%) with 1 failed payment(s),Agent Call,74.7,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00061,Victoria Garcia,Mass Market,CA,Urgent,Retention call + payment recovery,High churn risk (74.7%) with 1 failed payment(s),Agent Call,74.7,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00292,Stephanie Byrd,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (74.2%) with 1 failed payment(s),Agent Call,74.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00415,Erica Alvarez,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (74.2%) with 2 failed payment(s),Agent Call,74.2,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00384,Mr. Andrew Foster,Mass Market,IL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,74.2,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00315,Richard Smith,Mass Affluent,OH,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,73.9,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00517,William Day,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (73.5%) with 2 failed payment(s),Agent Call,73.5,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00627,Amy Kelley,Mass Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (73.5%) with 2 failed payment(s),Agent Call,73.5,2,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00348,Victor Brown,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (73.4%) with 1 failed payment(s),Agent Call,73.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00908,Kelly Haynes,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (73.3%) with 1 failed payment(s),Agent Call,73.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00870,Jorge Harris,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (73.1%) with 1 failed payment(s),Agent Call,73.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00844,Benjamin Reyes,Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (73%) with 3 failed payment(s),Agent Call,73.0,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00219,Justin Torres,Mass Affluent,NY,Urgent,Retention call + payment recovery,High churn risk (72.7%) with 2 failed payment(s),Agent Call,72.7,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00893,Jake Shaw,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (72.4%) with 1 failed payment(s),Agent Call,72.4,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00879,Michelle Jackson,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (72.4%) with 1 failed payment(s),Agent Call,72.4,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00305,Maria Parker,Mass Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (72.3%) with 1 failed payment(s),Agent Call,72.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00572,Christian Vaughn,Mass Market,AZ,Urgent,Retention call + payment recovery,High churn risk (72.2%) with 1 failed payment(s),Agent Call,72.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00208,Cathy Robinson,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (71.9%) with 1 failed payment(s),Agent Call,71.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00607,Brian Martin,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (71.3%) with 2 failed payment(s),Agent Call,71.3,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00637,Timothy Johnson,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (70.8%) with 1 failed payment(s),Agent Call,70.8,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00252,Olivia Harris,Mass Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (69.9%) with 1 failed payment(s),Agent Call,69.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00225,Matthew Moore,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (69.7%) with 1 failed payment(s),Agent Call,69.7,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00132,Dustin Jordan,Mass Market,CA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,69.6,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00356,Jesse Perez,Mass Market,GA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,69.5,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00393,Brian Smith,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (69.5%) with 1 failed payment(s),Agent Call,69.5,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00406,Madison Weber,Affluent,OH,Urgent,Retention call + payment recovery,High churn risk (68.3%) with 1 failed payment(s),Agent Call,68.3,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00723,Willie Henry,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (68.2%) with 1 failed payment(s),Agent Call,68.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00015,Dylan Miller,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (67.9%) with 2 failed payment(s),Agent Call,67.9,2,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00285,Stephanie Williams,Mass Affluent,GA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,67.8,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00244,Brandon Bailey MD,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (67.4%) with 2 failed payment(s),Agent Call,67.4,2,0,2,2026-09-08 17:30:01.585000-07:00
+CUST00027,Justin Baker,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (67.1%) with 2 failed payment(s),Agent Call,67.1,2,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00022,Patty Perez,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (66.9%) with 2 failed payment(s),Agent Call,66.9,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00534,Dr. Michael Evans,Mass Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (66.9%) with 2 failed payment(s),Agent Call,66.9,2,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00155,Brenda Hall,High Net Worth,OH,Urgent,Retention call + payment recovery,High churn risk (66.8%) with 1 failed payment(s),Agent Call,66.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00214,Katherine Salas,Mass Affluent,OH,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,66.8,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00757,Karen Morales DDS,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (66.5%) with 1 failed payment(s),Agent Call,66.5,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00328,Trevor Johnson,High Net Worth,GA,Urgent,Retention call + payment recovery,High churn risk (66.4%) with 1 failed payment(s),Agent Call,66.4,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00791,Jennifer Taylor,Mass Affluent,NY,Urgent,Retention call + payment recovery,High churn risk (66.2%) with 1 failed payment(s),Agent Call,66.2,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00913,Robert Haynes,High Net Worth,GA,Urgent,Retention call + payment recovery,High churn risk (66.1%) with 1 failed payment(s),Agent Call,66.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00960,Mitchell Sellers,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (66%) with 2 failed payment(s),Agent Call,66.0,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00313,Shannon Ramsey,Mass Market,NY,Urgent,Retention call + payment recovery,High churn risk (65.1%) with 3 failed payment(s),Agent Call,65.1,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00018,Derek Zuniga,Affluent,NY,Urgent,Retention call + payment recovery,High churn risk (65.1%) with 1 failed payment(s),Agent Call,65.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00771,Jesse Clark,Mass Affluent,PA,Urgent,Retention call + payment recovery,High churn risk (65%) with 1 failed payment(s),Agent Call,65.0,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00638,Randy Cannon,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (65%) with 3 failed payment(s),Agent Call,65.0,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00604,Keith Rodriguez,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (64.7%) with 1 failed payment(s),Agent Call,64.7,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00416,Antonio Garcia,Mass Market,NC,Urgent,Retention call + payment recovery,High churn risk (64.7%) with 1 failed payment(s),Agent Call,64.7,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00587,Dwayne Klein,Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (64.2%) with 1 failed payment(s),Agent Call,64.2,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00024,Tommy Walter,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (63.5%) with 1 failed payment(s),Agent Call,63.5,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00872,Sandra Becker,Mass Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (63.4%) with 1 failed payment(s),Agent Call,63.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00730,Derrick Anderson,Mass Affluent,FL,Urgent,Retention call + payment recovery,High churn risk (62.6%) with 2 failed payment(s),Agent Call,62.6,2,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00236,Kathryn Snyder,Mass Market,PA,Urgent,Retention call + payment recovery,High churn risk (62.6%) with 1 failed payment(s),Agent Call,62.6,1,0,1,2026-09-08 17:30:01.585000-07:00
+CUST00431,Maria Henderson,Affluent,PA,Urgent,Retention call + payment recovery,High churn risk (62.6%) with 1 failed payment(s),Agent Call,62.6,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00882,Denise Brown,Mass Market,FL,Urgent,Retention call + payment recovery,High churn risk (61.2%) with 1 failed payment(s),Agent Call,61.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00429,Robin Santiago,Mass Market,IL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,61.1,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00419,Jeffrey Mills,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (61.1%) with 1 failed payment(s),Agent Call,61.1,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00441,Jeremy Mitchell,Mass Market,CA,Urgent,Retention call + payment recovery,High churn risk (60.9%) with 1 failed payment(s),Agent Call,60.9,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00195,John Bishop,High Net Worth,PA,Urgent,Retention call + payment recovery,High churn risk (60.8%) with 1 failed payment(s),Agent Call,60.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00362,Laurie Hoffman,Mass Affluent,IL,Urgent,Retention call + payment recovery,High churn risk (60.4%) with 3 failed payment(s),Agent Call,60.4,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00427,Jenna Larson,Mass Market,NC,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,59.8,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00745,Travis Harris,Mass Affluent,CA,Urgent,Retention call + payment recovery,High churn risk (59.8%) with 1 failed payment(s),Agent Call,59.8,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00784,Dennis Huffman,Mass Market,CA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,58.6,0,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00430,Nancy Jennings,Mass Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (58.6%) with 1 failed payment(s),Agent Call,58.6,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00333,Jordan Bates,Mass Affluent,AZ,Urgent,Retention call + payment recovery,High churn risk (58.4%) with 1 failed payment(s),Agent Call,58.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00001,Allison Hill,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (57.7%) with 2 failed payment(s),Agent Call,57.7,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00390,Scott Williams,Mass Affluent,AZ,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,57.6,0,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00031,Rebecca Henderson,High Net Worth,FL,Urgent,Retention call + payment recovery,High churn risk (57.4%) with 1 failed payment(s),Agent Call,57.4,1,0,2,2026-09-08 17:30:01.585000-07:00
+CUST00837,Danielle Watson,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (57.4%) with 3 failed payment(s),Agent Call,57.4,3,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00193,Debra Christian,Affluent,GA,Urgent,Retention call + payment recovery,High churn risk (56.7%) with 1 failed payment(s),Agent Call,56.7,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00185,Lindsay Martinez,Mass Market,CA,Urgent,Retention call + payment recovery,High churn risk (56.4%) with 1 failed payment(s),Agent Call,56.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00136,Jose Schultz,Mass Market,GA,Urgent,Retention call + payment recovery,High churn risk (56.3%) with 3 failed payment(s),Agent Call,56.3,3,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00203,Elizabeth Perkins,Mass Affluent,TX,Urgent,Retention call + payment recovery,High churn risk (56.1%) with 2 failed payment(s),Agent Call,56.1,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00909,William Miller,Affluent,NC,Urgent,Retention call + payment recovery,High churn risk (56%) with 2 failed payment(s),Agent Call,56.0,2,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00537,Morgan Valencia,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (56%) with 1 failed payment(s),Agent Call,56.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00912,Cynthia Green,Mass Market,OH,Urgent,Retention call + payment recovery,High churn risk (55.9%) with 1 failed payment(s),Agent Call,55.9,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00656,Kyle Chambers,Mass Market,TX,Urgent,Retention call + payment recovery,High churn risk (55.8%) with 1 failed payment(s),Agent Call,55.8,1,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00041,Paula Moreno,Affluent,NY,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,55.6,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00239,Sara Johnston,Mass Market,IL,Urgent,Retention call + payment recovery,High churn risk (54%) with 1 failed payment(s),Agent Call,54.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00038,Cassandra Gaines,Mass Affluent,PA,Urgent,Retention call + payment recovery,High churn risk (54%) with 1 failed payment(s),Agent Call,54.0,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00174,Matthew Harrington,Affluent,AZ,Urgent,Retention call + payment recovery,High churn risk (53.4%) with 1 failed payment(s),Agent Call,53.4,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00471,Veronica King,Mass Affluent,CA,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,53.4,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00901,Danielle Smith,Mass Affluent,TX,High,Service recovery outreach,Elevated churn risk with 2 complaint interaction(s) on record,Agent Call,52.3,0,2,3,2026-09-08 17:30:01.585000-07:00
+CUST00181,Alexander Collins,High Net Worth,TX,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,51.5,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00626,Michael Miller,Mass Market,CA,Urgent,Retention call + payment recovery,High churn risk (50.2%) with 1 failed payment(s),Agent Call,50.2,1,0,0,2026-09-08 17:30:01.585000-07:00
+CUST00192,Karen Graham,Mass Affluent,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,48.4,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00283,Jessica Garcia,Mass Affluent,FL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,46.1,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00672,Kristin Mendoza,Affluent,TX,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,45.0,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00746,Vincent Novak,Mass Affluent,IL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,44.1,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00548,Julie Herrera,Mass Market,AZ,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,43.8,0,1,0,2026-09-08 17:30:01.585000-07:00
+CUST00251,Isaiah Avila,Mass Affluent,IL,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,43.5,1,1,1,2026-09-08 17:30:01.585000-07:00
+CUST00769,Jason Nixon,Mass Market,NC,High,Service recovery outreach,Elevated churn risk with 1 complaint interaction(s) on record,Agent Call,42.7,0,1,0,2026-09-08 17:30:01.585000-07:00

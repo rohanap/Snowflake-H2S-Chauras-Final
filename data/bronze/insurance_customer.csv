@@ -1,0 +1,1001 @@
+"CUSTOMER_ID","NAME","AGE","CITY","STATE","INCOME_BAND","CUSTOMER_SINCE","SEGMENT","LIFETIME_VALUE","CHURN_RISK"
+"CUST00001","Allison Hill",65,"Houston","TX","<30K","2021-03-03","Mass Market",653.74,0.394
+"CUST00002","Noah Rhodes",32,"Dallas","TX","60K-100K","2026-05-02","Mass Affluent",4864.08,0.412
+"CUST00003","Angie Henderson",62,"San Diego","CA","30K-60K","2024-06-24","Mass Market",1935.82,0.363
+"CUST00004","Daniel Wagner",69,"Tucson","AZ","60K-100K","2015-12-22","Mass Affluent",5892.46,0.151
+"CUST00005","Cristian Santos",30,"Allentown","PA","30K-60K","2016-07-23","Mass Market",934.08,0.168
+"CUST00006","Connie Lawrence",41,"Philadelphia","PA","30K-60K","2022-12-20","Mass Market",1904.98,0.49
+"CUST00007","Abigail Shaffer",42,"Rochester","NY","60K-100K","2021-01-20","High Net Worth",28923.74,0.293
+"CUST00008","Gina Moore",43,"San Francisco","CA","100K-150K","2021-01-02","Mass Market",1350.77,0.407
+"CUST00009","Gabrielle Davis",34,"Atlanta","GA","60K-100K","2018-02-17","Mass Market",894.11,0.358
+"CUST00010","Ryan Munoz",23,"Rochester","NY","30K-60K","2016-01-21","Affluent",7439.84,0.42
+"CUST00011","Monica Herrera",34,"Augusta","GA","<30K","2015-04-05","Mass Affluent",5539.15,0.485
+"CUST00012","Jamie Arnold",18,"Rochester","NY","100K-150K","2020-11-27","High Net Worth",27692.04,0.063
+"CUST00013","Lisa Hensley",41,"Orlando","FL","100K-150K","2018-08-16","Mass Affluent",4121.41,0.021
+"CUST00014","Michele Williams",21,"Chicago","IL","150K+","2020-05-27","Affluent",6770.88,0.209
+"CUST00015","Dylan Miller",78,"Rochester","NY","100K-150K","2018-09-14","Mass Market",1134.71,0.119
+"CUST00016","Brian Ramirez",60,"Springfield","IL","60K-100K","2023-05-18","Mass Market",681.51,0.148
+"CUST00017","Holly Wood",22,"Miami","FL","100K-150K","2016-04-27","Mass Market",1789.45,0.067
+"CUST00018","Derek Zuniga",33,"Rochester","NY","30K-60K","2025-08-10","Affluent",6872.38,0.263
+"CUST00019","Lisa Jackson",43,"Houston","TX","<30K","2022-08-11","Affluent",7724.31,0.417
+"CUST00020","Carla Gray",69,"San Antonio","TX","150K+","2017-03-13","Mass Market",1754.04,0.307
+"CUST00021","Margaret Hawkins DDS",42,"Columbus","OH","100K-150K","2020-12-12","Affluent",8567.24,0.296
+"CUST00022","Patty Perez",30,"Atlanta","GA","<30K","2021-08-27","Mass Market",1603.61,0.18
+"CUST00023","Ethan Adams",21,"Charlotte","NC","30K-60K","2026-05-23","Mass Market",1392.55,0.543
+"CUST00024","Tommy Walter",57,"Miami","FL","60K-100K","2016-11-02","Mass Market",1284.17,0.44
+"CUST00025","Matthew Foster",38,"Springfield","IL","60K-100K","2016-08-17","Mass Market",1344.49,0.1
+"CUST00026","Judy Baker",74,"Philadelphia","PA","30K-60K","2020-06-24","Mass Market",1750.62,0.768
+"CUST00027","Justin Baker",24,"Naperville","IL","100K-150K","2018-01-05","Mass Market",1613.63,0.19
+"CUST00028","Stephanie Ross",49,"Naperville","IL","100K-150K","2020-08-19","Affluent",6830.69,0.687
+"CUST00029","Zachary Hicks",65,"Chicago","IL","30K-60K","2024-11-28","Mass Affluent",2038.68,0.043
+"CUST00030","Anthony Rodriguez",53,"Allentown","PA","<30K","2018-04-28","Mass Market",1046.98,0.841
+"CUST00031","Rebecca Henderson",40,"Miami","FL","60K-100K","2024-02-12","High Net Worth",38144.10,0.114
+"CUST00032","James Ferrell",29,"Columbus","OH","30K-60K","2022-06-14","Affluent",12029.16,0.557
+"CUST00033","Tricia Valencia",72,"Columbus","OH","100K-150K","2025-07-22","Mass Market",1190.45,0.272
+"CUST00034","Nathan Maldonado",39,"Jacksonville","FL","150K+","2021-04-01","Affluent",8512.12,0.53
+"CUST00035","Debra Davidson",56,"Pittsburgh","PA","100K-150K","2026-06-21","Mass Market",785.12,0.062
+"CUST00036","Jeffrey Chavez",45,"Tampa","FL","150K+","2016-07-27","High Net Worth",30578.89,0.32
+"CUST00037","Sherri Baker",26,"Naperville","IL","150K+","2019-04-21","Mass Market",1515.98,0.213
+"CUST00038","Cassandra Gaines",46,"Pittsburgh","PA","60K-100K","2024-12-01","Mass Affluent",5174.94,0.318
+"CUST00039","Elizabeth Fowler",61,"Dallas","TX","30K-60K","2021-12-17","Mass Market",536.64,0.19
+"CUST00040","Brittany Farmer",49,"Jacksonville","FL","60K-100K","2023-12-18","Mass Market",508.32,0.606
+"CUST00041","Paula Moreno",21,"Rochester","NY","<30K","2020-08-03","Affluent",7200.05,0.254
+"CUST00042","Fred Smith",70,"Augusta","GA","100K-150K","2026-04-28","Mass Market",1168.87,0.141
+"CUST00043","Sherry Decker",49,"Naperville","IL","<30K","2020-05-13","Mass Market",928.59,0.177
+"CUST00044","Anthony Humphrey",62,"Jacksonville","FL","<30K","2018-06-05","Mass Affluent",3630.40,0.409
+"CUST00045","Angelica Tucker",19,"Mesa","AZ","150K+","2023-07-14","Mass Affluent",3194.45,0.152
+"CUST00046","Philip Cannon",75,"Durham","NC","30K-60K","2019-12-12","Mass Affluent",3942.57,0.163
+"CUST00047","John Pierce",80,"Atlanta","GA","60K-100K","2015-08-09","Affluent",11967.00,0.125
+"CUST00048","Shane Henderson",39,"Savannah","GA","150K+","2023-07-03","Mass Market",1132.35,0.709
+"CUST00049","Joshua Blair",78,"Los Angeles","CA","<30K","2020-07-18","Mass Market",728.57,0.107
+"CUST00050","Eric Carney",28,"Springfield","IL","30K-60K","2017-07-27","Affluent",8799.35,0.303
+"CUST00051","Jessica Holmes",78,"Cleveland","OH","60K-100K","2019-06-13","Mass Market",1440.86,0.06
+"CUST00052","Danny Morgan",40,"Houston","TX","<30K","2024-08-10","Mass Affluent",4590.17,0.032
+"CUST00053","Crystal Robinson",75,"Allentown","PA","30K-60K","2025-04-24","Mass Affluent",4935.18,0.484
+"CUST00054","Mark Perez",38,"Tucson","AZ","<30K","2020-07-04","Affluent",13934.68,0.152
+"CUST00055","Shannon Jones",72,"Sacramento","CA","30K-60K","2022-04-16","Mass Market",1696.75,0.17
+"CUST00056","Michael Lewis",23,"San Diego","CA","60K-100K","2020-05-31","Mass Affluent",5032.66,0.392
+"CUST00057","Timothy Duncan",32,"Austin","TX","30K-60K","2024-01-26","Mass Affluent",4326.22,0.294
+"CUST00058","Richard Aguirre",62,"Pittsburgh","PA","30K-60K","2025-03-06","Mass Market",680.98,0.143
+"CUST00059","Brent Jordan",31,"Buffalo","NY","60K-100K","2025-11-10","Mass Market",1640.31,0.227
+"CUST00060","John Daniel",37,"Philadelphia","PA","<30K","2015-04-26","Mass Affluent",2182.06,0.05
+"CUST00061","Victoria Garcia",48,"San Francisco","CA","30K-60K","2025-09-26","Mass Market",577.07,0.195
+"CUST00062","Gerald Hensley",23,"Tucson","AZ","100K-150K","2020-07-26","Mass Market",1409.48,0.313
+"CUST00063","Connor West",54,"Cleveland","OH","60K-100K","2016-05-08","Mass Affluent",5790.36,0.129
+"CUST00064","Donald Wright",28,"New York","NY","60K-100K","2015-01-22","Mass Market",1204.87,0.072
+"CUST00065","Jessica Callahan",77,"Dallas","TX","60K-100K","2020-12-07","Affluent",11950.65,0.171
+"CUST00066","Amber Kidd",28,"Houston","TX","100K-150K","2021-11-24","Mass Affluent",5684.77,0.314
+"CUST00067","Tracy House",52,"Naperville","IL","60K-100K","2026-01-28","Mass Market",1834.13,0.707
+"CUST00068","Carol Tucker",78,"Mesa","AZ","60K-100K","2015-06-19","High Net Worth",21737.78,0.062
+"CUST00069","James Brown",55,"Chicago","IL","60K-100K","2024-10-10","Mass Affluent",2364.97,0.18
+"CUST00070","William Baker",62,"Pittsburgh","PA","150K+","2026-02-10","Mass Market",1720.35,0.368
+"CUST00071","Jordan Henderson",70,"Cincinnati","OH","60K-100K","2015-01-10","Mass Affluent",3652.99,0.105
+"CUST00072","Whitney Peters",35,"San Diego","CA","30K-60K","2017-12-09","Affluent",12284.25,0.099
+"CUST00073","Brittney Phillips",53,"Albany","NY","<30K","2015-04-23","Mass Affluent",5969.03,0.111
+"CUST00074","Lauren Daniels",35,"Durham","NC","150K+","2024-04-26","Affluent",8193.58,0.189
+"CUST00075","Amy Silva",39,"Springfield","IL","<30K","2026-05-22","Mass Market",1589.08,0.452
+"CUST00076","Sarah Moore",48,"Augusta","GA","100K-150K","2022-09-28","Mass Market",1065.82,0.255
+"CUST00077","Angela Lopez",76,"Augusta","GA","60K-100K","2023-07-21","Mass Market",1731.12,0.051
+"CUST00078","Megan Young",51,"Atlanta","GA","<30K","2025-04-01","Mass Market",1806.40,0.547
+"CUST00079","Steve Sanchez",79,"Raleigh","NC","100K-150K","2022-02-07","Mass Affluent",3951.79,0.395
+"CUST00080","Lisa Barnes",65,"Chicago","IL","<30K","2017-01-10","Mass Market",1450.62,0.638
+"CUST00081","Kelly Donovan",41,"Springfield","IL","60K-100K","2024-08-29","Mass Market",1348.89,0.076
+"CUST00082","Mike Allen",32,"Phoenix","AZ","60K-100K","2025-05-05","Mass Affluent",4667.36,0.355
+"CUST00083","Michael Evans",58,"Tucson","AZ","60K-100K","2024-07-07","Mass Affluent",3208.49,0.125
+"CUST00084","Paul Jones",80,"Chicago","IL","60K-100K","2023-11-17","Mass Market",1528.70,0.245
+"CUST00085","Zachary Ferrell",58,"Philadelphia","PA","60K-100K","2019-04-07","Mass Affluent",4883.71,0.33
+"CUST00086","Daniel Baker",68,"San Francisco","CA","30K-60K","2024-11-20","Mass Market",697.12,0.175
+"CUST00087","Shirley Suarez",50,"Allentown","PA","30K-60K","2021-02-10","Affluent",13422.21,0.211
+"CUST00088","Christopher Bass",79,"San Antonio","TX","150K+","2016-09-08","Mass Market",1790.21,0.456
+"CUST00089","Lisa Archer",52,"San Francisco","CA","60K-100K","2017-10-09","Mass Affluent",4689.36,0.42
+"CUST00090","Aimee Montoya",76,"Raleigh","NC","60K-100K","2019-12-19","Mass Affluent",3857.07,0.562
+"CUST00091","Matthew Mcmillan",49,"San Francisco","CA","100K-150K","2017-08-09","Mass Market",703.50,0.201
+"CUST00092","Brian Rodriguez",65,"Cincinnati","OH","60K-100K","2018-06-19","Affluent",13503.24,0.418
+"CUST00093","Denise Jacobs",46,"Jacksonville","FL","<30K","2020-04-18","Affluent",12171.12,0.35
+"CUST00094","Christina Walters",78,"Miami","FL","30K-60K","2025-03-14","Mass Market",1459.24,0.148
+"CUST00095","John Whitehead",55,"Charlotte","NC","30K-60K","2019-11-05","Affluent",12969.32,0.541
+"CUST00096","Anna Henderson",69,"Albany","NY","100K-150K","2018-11-30","Mass Market",697.70,0.202
+"CUST00097","Aaron Wise",26,"Chicago","IL","60K-100K","2024-06-10","Mass Affluent",3904.98,0.624
+"CUST00098","Deborah Figueroa",64,"Phoenix","AZ","150K+","2021-10-06","Mass Affluent",2243.30,0.227
+"CUST00099","Jessica Smith",75,"Atlanta","GA","<30K","2016-10-23","Mass Market",689.29,0.284
+"CUST00100","Stephen Mckee",36,"Mesa","AZ","30K-60K","2025-03-05","Mass Affluent",5172.38,0.06
+"CUST00101","Sandra Aguilar",46,"Jacksonville","FL","100K-150K","2020-02-15","Mass Market",1098.10,0.48
+"CUST00102","Cameron Parker",22,"Rochester","NY","<30K","2017-01-17","Affluent",6869.08,0.403
+"CUST00103","Rebecca Valencia",39,"Durham","NC","100K-150K","2017-09-28","Mass Market",1911.69,0.469
+"CUST00104","Christine Wright",24,"Springfield","IL","60K-100K","2026-05-19","Mass Market",836.37,0.124
+"CUST00105","Richard Henson",69,"Phoenix","AZ","150K+","2024-08-16","Affluent",13365.84,0.635
+"CUST00106","Marc Moore",29,"Chicago","IL","30K-60K","2021-02-16","Mass Affluent",3359.30,0.019
+"CUST00107","Sharon Cherry",23,"New York","NY","60K-100K","2019-10-29","Mass Market",736.11,0.362
+"CUST00108","Sierra Johnson",56,"Cleveland","OH","30K-60K","2024-11-30","Mass Market",1268.52,0.177
+"CUST00109","Evelyn Galvan",37,"Durham","NC","150K+","2016-01-08","Mass Market",582.17,0.109
+"CUST00110","Sharon Cochran",25,"Springfield","IL","30K-60K","2015-03-05","Mass Affluent",2516.74,0.285
+"CUST00111","Richard Rodriguez",43,"Philadelphia","PA","60K-100K","2015-12-13","Mass Market",616.79,0.224
+"CUST00112","Shannon Walker",43,"Chicago","IL","30K-60K","2015-06-20","High Net Worth",38690.36,0.306
+"CUST00113","Julia Torres",45,"Dallas","TX","30K-60K","2023-12-25","Mass Affluent",3241.10,0.317
+"CUST00114","Crystal Johnson",75,"Dallas","TX","150K+","2022-11-02","Mass Market",1468.16,0.172
+"CUST00115","Garrett Lin",29,"New York","NY","60K-100K","2026-01-30","Mass Affluent",4317.87,0.338
+"CUST00116","Diana May",38,"Allentown","PA","60K-100K","2018-05-21","Mass Market",1447.08,0.519
+"CUST00117","William Herrera",20,"Savannah","GA","30K-60K","2016-04-11","Mass Market",1467.00,0.309
+"CUST00118","Ashley Waller",76,"Sacramento","CA","60K-100K","2019-03-23","Mass Market",726.29,0.058
+"CUST00119","Victor Baker",33,"New York","NY","60K-100K","2024-10-26","High Net Worth",30245.14,0.252
+"CUST00120","Jeffrey Chandler",68,"Phoenix","AZ","<30K","2022-07-04","Mass Market",1517.57,0.159
+"CUST00121","Larry Dixon",23,"Albany","NY","30K-60K","2018-03-04","Affluent",11904.49,0.305
+"CUST00122","Kenneth Scott",59,"Raleigh","NC","60K-100K","2022-05-14","Affluent",13460.63,0.413
+"CUST00123","April Frost",41,"Cincinnati","OH","30K-60K","2015-05-30","Mass Market",821.29,0.31
+"CUST00124","Michelle Harmon",60,"Houston","TX","60K-100K","2022-07-21","Affluent",11375.22,0.102
+"CUST00125","Helen Jones",20,"Rochester","NY","60K-100K","2024-03-19","Mass Market",1954.38,0.252
+"CUST00126","Erin Edwards",79,"Tampa","FL","30K-60K","2025-07-09","Affluent",12104.76,0.24
+"CUST00127","Michelle Evans",44,"Durham","NC","100K-150K","2018-08-20","Affluent",7245.59,0.1
+"CUST00128","Jason Powell",36,"Houston","TX","30K-60K","2016-11-18","Affluent",14147.76,0.134
+"CUST00129","Cameron Fisher",21,"Sacramento","CA","30K-60K","2023-11-22","Mass Affluent",5978.10,0.111
+"CUST00130","Megan Orr",26,"Philadelphia","PA","100K-150K","2015-11-10","Mass Market",1544.11,0.13
+"CUST00131","Elizabeth Kelley",34,"Houston","TX","60K-100K","2019-11-02","Affluent",12545.11,0.366
+"CUST00132","Dustin Jordan",44,"San Diego","CA","100K-150K","2025-04-02","Mass Market",1249.74,0.282
+"CUST00133","Mary Marshall",18,"Springfield","IL","30K-60K","2022-11-30","Mass Market",1496.56,0.196
+"CUST00134","Daniel Kennedy",53,"Durham","NC","60K-100K","2015-06-16","Mass Market",1453.51,0.044
+"CUST00135","Rebecca Jackson",26,"Austin","TX","30K-60K","2015-12-30","Mass Market",1464.19,0.623
+"CUST00136","Jose Schultz",36,"Atlanta","GA","30K-60K","2019-07-10","Mass Market",562.86,0.257
+"CUST00137","Robert Potter",35,"San Francisco","CA","30K-60K","2017-10-16","Affluent",9600.20,0.303
+"CUST00138","Courtney Gonzalez",77,"Savannah","GA","60K-100K","2020-12-24","Affluent",6710.34,0.324
+"CUST00139","David Alvarez",60,"Austin","TX","60K-100K","2021-08-18","Mass Market",1139.17,0.642
+"CUST00140","Angel Perry",45,"Allentown","PA","100K-150K","2021-02-27","Mass Affluent",2229.43,0.372
+"CUST00141","Cheyenne Horton",27,"New York","NY","<30K","2024-10-29","Mass Market",1667.77,0.21
+"CUST00142","David Douglas Jr.",41,"Savannah","GA","60K-100K","2024-12-15","Affluent",10765.14,0.313
+"CUST00143","Patricia Rodriguez",51,"Rochester","NY","<30K","2023-09-06","Affluent",12974.68,0.362
+"CUST00144","Christopher Rubio",25,"Atlanta","GA","60K-100K","2018-01-16","Affluent",14088.11,0.215
+"CUST00145","Amber Wright",40,"Allentown","PA","30K-60K","2016-06-15","Mass Affluent",3199.83,0.103
+"CUST00146","Joyce Solis",32,"Allentown","PA","100K-150K","2017-09-21","High Net Worth",20918.40,0.264
+"CUST00147","Victoria Larson",57,"Charlotte","NC","30K-60K","2016-12-07","Mass Market",1575.40,0.301
+"CUST00148","Stephanie Salazar",59,"Albany","NY","60K-100K","2016-08-30","Mass Market",1016.77,0.508
+"CUST00149","Kathy Rivas",50,"Rochester","NY","60K-100K","2016-03-29","Affluent",8737.12,0.189
+"CUST00150","Stephanie Manning",72,"Raleigh","NC","60K-100K","2016-10-08","Mass Market",1326.26,0.111
+"CUST00151","David Wright",28,"Buffalo","NY","60K-100K","2022-07-28","Affluent",13427.13,0.312
+"CUST00152","Pamela Boyd",58,"Cincinnati","OH","60K-100K","2015-09-06","Mass Affluent",3158.69,0.547
+"CUST00153","Denise Jones",46,"San Diego","CA","30K-60K","2024-04-27","Mass Affluent",4426.64,0.153
+"CUST00154","Devon Flores",66,"Columbus","OH","<30K","2023-04-24","Mass Affluent",2966.95,0.19
+"CUST00155","Brenda Hall",44,"Cincinnati","OH","100K-150K","2020-07-26","High Net Worth",35336.95,0.082
+"CUST00156","Michelle Brown",50,"San Antonio","TX","30K-60K","2025-04-03","High Net Worth",23822.38,0.036
+"CUST00157","Joshua Perry",52,"Savannah","GA","30K-60K","2015-03-08","Affluent",13942.10,0.459
+"CUST00158","Jason Stein",30,"Mesa","AZ","<30K","2023-02-17","Mass Affluent",4017.02,0.606
+"CUST00159","Melissa Gates",68,"Cleveland","OH","30K-60K","2022-08-09","Mass Affluent",2577.07,0.273
+"CUST00160","Jamie Smith",27,"Raleigh","NC","150K+","2026-07-25","Mass Market",977.80,0.151
+"CUST00161","Paul Castaneda",52,"Durham","NC","30K-60K","2025-12-26","Mass Affluent",5263.00,0.157
+"CUST00162","Jennifer Adkins",34,"Sacramento","CA","60K-100K","2020-02-08","Mass Affluent",2682.05,0.669
+"CUST00163","Lindsey Walker",62,"Rochester","NY","100K-150K","2019-07-29","Mass Market",1880.78,0.75
+"CUST00164","Jeffrey Johnson",60,"Tampa","FL","30K-60K","2025-09-23","Mass Affluent",2692.73,0.171
+"CUST00165","Michael Powell",48,"Naperville","IL","30K-60K","2019-04-25","High Net Worth",22462.48,0.57
+"CUST00166","John Anderson",48,"Savannah","GA","150K+","2022-10-28","Mass Affluent",4886.66,0.183
+"CUST00167","Alyssa Long",79,"Cleveland","OH","30K-60K","2018-04-14","Mass Market",1571.21,0.283
+"CUST00168","Alyssa Day",77,"Tampa","FL","60K-100K","2021-02-03","Mass Market",1380.25,0.166
+"CUST00169","Joel Williams",44,"Los Angeles","CA","<30K","2022-05-29","Mass Affluent",5083.06,0.008
+"CUST00170","Daniel Murphy",30,"Augusta","GA","60K-100K","2021-06-11","Mass Market",1861.91,0.091
+"CUST00171","Jamie Walton",44,"San Diego","CA","<30K","2018-12-11","High Net Worth",35905.08,0.504
+"CUST00172","Darlene Miller",56,"Naperville","IL","30K-60K","2017-05-29","Affluent",10089.14,0.357
+"CUST00173","Joshua Cooke",28,"Austin","TX","60K-100K","2025-04-17","Mass Affluent",2056.34,0.175
+"CUST00174","Matthew Harrington",75,"Mesa","AZ","60K-100K","2024-02-04","Affluent",6780.64,0.523
+"CUST00175","Nicole Herring",34,"Miami","FL","100K-150K","2023-08-09","Mass Market",1931.05,0.522
+"CUST00176","Alex Hernandez",60,"Miami","FL","30K-60K","2017-08-26","Mass Affluent",4744.29,0.399
+"CUST00177","Michael Elliott",32,"Allentown","PA","60K-100K","2019-12-01","High Net Worth",26374.47,0.31
+"CUST00178","Michael Wang",61,"Orlando","FL","60K-100K","2016-11-01","Mass Affluent",3447.14,0.611
+"CUST00179","Lawrence Adkins",72,"Albany","NY","30K-60K","2024-11-28","Mass Market",1374.72,0.061
+"CUST00180","Robert Oconnell",47,"Raleigh","NC","60K-100K","2016-04-17","Mass Affluent",3232.68,0.094
+"CUST00181","Alexander Collins",77,"Houston","TX","60K-100K","2016-07-19","High Net Worth",22177.27,0.121
+"CUST00182","Tina Sanders",75,"Cleveland","OH","100K-150K","2023-07-31","Mass Market",1066.24,0.157
+"CUST00183","Angela Vaughn",80,"Los Angeles","CA","60K-100K","2021-09-10","Mass Affluent",3696.51,0.241
+"CUST00184","Ashley Barton",20,"Miami","FL","150K+","2024-05-27","Mass Affluent",5556.17,0.154
+"CUST00185","Lindsay Martinez",65,"San Diego","CA","30K-60K","2015-12-29","Mass Market",825.90,0.197
+"CUST00186","Dr. Hannah Patterson",56,"Allentown","PA","100K-150K","2022-03-11","Mass Market",1978.54,0.367
+"CUST00187","Jonathan Peterson",76,"Mesa","AZ","30K-60K","2018-12-05","Mass Affluent",3982.48,0.438
+"CUST00188","Samantha Garcia",42,"Albany","NY","60K-100K","2019-02-15","Affluent",13644.07,0.133
+"CUST00189","Madison Poole",79,"Raleigh","NC","<30K","2024-05-05","Mass Affluent",2971.43,0.074
+"CUST00190","Jessica Gross",21,"Dallas","TX","60K-100K","2021-01-08","Mass Market",559.32,0.076
+"CUST00191","Debra Morton",31,"Jacksonville","FL","100K-150K","2022-06-20","Mass Market",817.71,0.108
+"CUST00192","Karen Graham",43,"Orlando","FL","100K-150K","2020-05-14","Mass Affluent",3522.65,0.379
+"CUST00193","Debra Christian",24,"Savannah","GA","30K-60K","2025-07-13","Affluent",7828.15,0.121
+"CUST00194","Angelica Keith",53,"San Francisco","CA","30K-60K","2024-05-13","Mass Market",845.03,0.305
+"CUST00195","John Bishop",66,"Pittsburgh","PA","60K-100K","2025-12-16","High Net Worth",27264.89,0.213
+"CUST00196","Allen Rosales",76,"Atlanta","GA","100K-150K","2016-04-26","Mass Affluent",2297.32,0.492
+"CUST00197","Daniel Salinas",21,"Savannah","GA","<30K","2025-11-02","Mass Affluent",4128.85,0.191
+"CUST00198","Spencer Haynes",50,"Chicago","IL","100K-150K","2024-08-28","Affluent",6963.15,0.151
+"CUST00199","Adam Vaughan",68,"Pittsburgh","PA","150K+","2023-11-26","Mass Market",1188.50,0.216
+"CUST00200","Nathan Freeman",23,"Houston","TX","60K-100K","2024-02-03","Mass Market",584.17,0.206
+"CUST00201","Melissa Brewer",32,"Houston","TX","60K-100K","2019-09-28","Affluent",11101.06,0.149
+"CUST00202","Ricky Davis II",60,"Durham","NC","100K-150K","2015-09-27","Mass Market",523.49,0.1
+"CUST00203","Elizabeth Perkins",28,"Austin","TX","100K-150K","2020-05-23","Mass Affluent",4708.14,0.237
+"CUST00204","Joseph Coleman",21,"Austin","TX","100K-150K","2017-03-11","Mass Market",1010.89,0.479
+"CUST00205","Erin Warner",68,"San Francisco","CA","30K-60K","2025-02-07","Mass Affluent",5764.57,0.215
+"CUST00206","David Martinez",69,"Tucson","AZ","<30K","2020-07-11","Mass Affluent",2616.88,0.322
+"CUST00207","Bryan Herrera",18,"Houston","TX","100K-150K","2021-11-30","Mass Market",653.35,0.087
+"CUST00208","Cathy Robinson",23,"Houston","TX","60K-100K","2022-12-09","Mass Affluent",5137.75,0.192
+"CUST00209","Dr. William Warren",61,"Orlando","FL","30K-60K","2023-07-16","Mass Market",902.61,0.166
+"CUST00210","Brian Lee",34,"Austin","TX","60K-100K","2020-07-13","Mass Affluent",4466.68,0.172
+"CUST00211","Christopher Smith",39,"Pittsburgh","PA","100K-150K","2024-08-28","Affluent",14768.03,0.151
+"CUST00212","Denise Mccann",65,"Pittsburgh","PA","100K-150K","2026-01-05","High Net Worth",23147.16,0.218
+"CUST00213","Melissa Martinez",61,"Orlando","FL","60K-100K","2015-08-09","High Net Worth",32709.18,0.209
+"CUST00214","Katherine Salas",49,"Cincinnati","OH","30K-60K","2018-02-14","Mass Affluent",4634.65,0.613
+"CUST00215","Julie Alexander",43,"Augusta","GA","100K-150K","2026-05-13","Affluent",9764.71,0.044
+"CUST00216","Anthony Everett",76,"Mesa","AZ","30K-60K","2016-11-27","Mass Market",1497.04,0.127
+"CUST00217","Rodney Morales",79,"Cleveland","OH","<30K","2024-08-27","Mass Market",833.00,0.365
+"CUST00218","Mark Brown",47,"Pittsburgh","PA","150K+","2026-03-23","Mass Market",1224.16,0.348
+"CUST00219","Justin Torres",37,"Albany","NY","30K-60K","2022-09-11","Mass Affluent",3931.70,0.223
+"CUST00220","Bailey Duran DDS",69,"Chicago","IL","30K-60K","2017-07-31","Mass Market",664.04,0.386
+"CUST00221","Courtney Mills",39,"Charlotte","NC","30K-60K","2024-07-24","High Net Worth",25126.19,0.157
+"CUST00222","Jeremy Dalton",46,"Phoenix","AZ","60K-100K","2024-08-19","Mass Market",808.68,0.652
+"CUST00223","Elizabeth Oliver DDS",41,"Charlotte","NC","<30K","2022-04-24","Mass Market",1506.05,0.336
+"CUST00224","Theresa Clark",25,"Cincinnati","OH","60K-100K","2022-10-21","Mass Market",758.79,0.324
+"CUST00225","Matthew Moore",25,"Tampa","FL","<30K","2019-02-08","Mass Market",1082.69,0.357
+"CUST00226","Benjamin Smith",76,"Durham","NC","60K-100K","2018-11-20","Mass Affluent",2561.19,0.399
+"CUST00227","Kirk Carter",26,"Sacramento","CA","150K+","2019-05-18","Affluent",10548.94,0.307
+"CUST00228","Michael Warner",23,"Atlanta","GA","30K-60K","2015-09-10","Affluent",6294.26,0.114
+"CUST00229","Michael Bradshaw",50,"Augusta","GA","30K-60K","2017-07-16","Mass Affluent",4172.42,0.455
+"CUST00230","Lori Guerrero",65,"Columbus","OH","150K+","2020-07-20","Mass Market",1174.60,0.232
+"CUST00231","Jessica Stephens",69,"Orlando","FL","60K-100K","2022-11-12","Affluent",9853.50,0.243
+"CUST00232","Susan Serrano",52,"Tucson","AZ","30K-60K","2021-04-21","Mass Affluent",5916.00,0.104
+"CUST00233","Christopher Parker",76,"Rochester","NY","100K-150K","2016-04-30","High Net Worth",18172.20,0.314
+"CUST00234","Laura Roberts",54,"Atlanta","GA","30K-60K","2021-01-10","Mass Affluent",2302.07,0.499
+"CUST00235","Michael Lyons",78,"Pittsburgh","PA","<30K","2025-12-12","Mass Market",1661.20,0.431
+"CUST00236","Kathryn Snyder",68,"Philadelphia","PA","30K-60K","2023-12-03","Mass Market",817.78,0.219
+"CUST00237","Andrew Reynolds",68,"Tucson","AZ","100K-150K","2022-09-16","Affluent",6413.49,0.679
+"CUST00238","David Davis",47,"Rochester","NY","30K-60K","2015-01-06","High Net Worth",39892.35,0.667
+"CUST00239","Sara Johnston",59,"Chicago","IL","30K-60K","2023-01-31","Mass Market",1855.70,0.171
+"CUST00240","Yvonne Chambers",59,"Jacksonville","FL","<30K","2017-01-17","Mass Affluent",3907.23,0.093
+"CUST00241","Andrew Avila",26,"Cincinnati","OH","30K-60K","2025-09-18","Mass Market",1596.15,0.071
+"CUST00242","Matthew Moon",22,"Buffalo","NY","30K-60K","2015-03-11","Mass Affluent",3404.75,0.169
+"CUST00243","Kevin Walters",66,"Dallas","TX","30K-60K","2017-10-05","Mass Affluent",5852.99,0.26
+"CUST00244","Brandon Bailey MD",56,"Durham","NC","60K-100K","2021-05-23","Affluent",13631.03,0.363
+"CUST00245","Shannon Rivera",59,"Cleveland","OH","100K-150K","2016-03-23","Affluent",8154.07,0.202
+"CUST00246","Donna Landry",77,"San Francisco","CA","100K-150K","2022-02-05","Mass Market",1352.57,0.165
+"CUST00247","Krista Gibson",55,"Houston","TX","30K-60K","2016-07-07","Mass Market",1883.87,0.137
+"CUST00248","Frank Cordova",58,"Columbus","OH","30K-60K","2018-06-04","Mass Market",1266.96,0.148
+"CUST00249","Jose Travis",62,"Austin","TX","100K-150K","2024-10-23","Mass Affluent",2231.62,0.098
+"CUST00250","Kimberly Gutierrez",65,"Naperville","IL","60K-100K","2018-12-09","Mass Market",1552.25,0.131
+"CUST00251","Isaiah Avila",41,"Chicago","IL","100K-150K","2017-11-05","Mass Affluent",4931.74,0.136
+"CUST00252","Olivia Harris",34,"Charlotte","NC","60K-100K","2016-09-23","Mass Affluent",2221.76,0.069
+"CUST00253","Tanya Kim",65,"Dallas","TX","100K-150K","2026-05-31","Mass Market",518.43,0.042
+"CUST00254","Barbara Dudley",38,"Columbus","OH","60K-100K","2020-07-26","Mass Market",906.89,0.087
+"CUST00255","Cynthia Moore",69,"Buffalo","NY","150K+","2026-07-27","High Net Worth",16723.16,0.173
+"CUST00256","Kristen Davis",18,"Raleigh","NC","60K-100K","2023-04-11","Mass Market",955.86,0.321
+"CUST00257","Susan Murray MD",27,"Orlando","FL","<30K","2015-02-22","High Net Worth",28538.63,0.274
+"CUST00258","Kathleen Moran",31,"Chicago","IL","150K+","2020-05-05","Mass Market",1958.84,0.284
+"CUST00259","Denise Davenport",62,"Raleigh","NC","60K-100K","2023-05-10","Mass Affluent",4323.08,0.318
+"CUST00260","Mrs. Kristen Reyes",60,"Sacramento","CA","30K-60K","2017-12-06","Mass Market",972.51,0.389
+"CUST00261","Katie Suarez",22,"Chicago","IL","100K-150K","2019-07-19","Mass Market",663.46,0.131
+"CUST00262","Desiree Tyler",46,"Philadelphia","PA","100K-150K","2021-11-30","Mass Affluent",2361.68,0.504
+"CUST00263","Timothy Romero",63,"New York","NY","30K-60K","2020-07-26","High Net Worth",16223.77,0.291
+"CUST00264","Diane Evans",65,"Augusta","GA","<30K","2020-08-08","Mass Market",1690.71,0.121
+"CUST00265","Yvonne Burns",76,"Austin","TX","<30K","2016-09-06","Mass Market",1853.74,0.142
+"CUST00266","Joshua Reed",20,"Philadelphia","PA","150K+","2025-05-04","Mass Market",1149.73,0.45
+"CUST00267","Kimberly Gibson",76,"Philadelphia","PA","30K-60K","2019-03-14","Mass Market",722.95,0.299
+"CUST00268","Colin Terry",21,"Raleigh","NC","<30K","2016-12-19","Mass Market",799.19,0.258
+"CUST00269","Cynthia Rowe",52,"Pittsburgh","PA","60K-100K","2025-11-14","Mass Market",982.41,0.236
+"CUST00270","Patrick Thornton",40,"Augusta","GA","<30K","2020-03-21","High Net Worth",31421.61,0.112
+"CUST00271","Jasmin Alvarado",29,"Philadelphia","PA","100K-150K","2020-04-21","Mass Affluent",4790.51,0.375
+"CUST00272","Veronica Simpson",52,"Jacksonville","FL","<30K","2021-12-06","Mass Market",584.25,0.343
+"CUST00273","Jonathan Lawrence",69,"Phoenix","AZ","30K-60K","2017-12-04","Mass Market",1703.64,0.21
+"CUST00274","Shelly Alexander",79,"Raleigh","NC","150K+","2016-08-17","Mass Market",1093.39,0.173
+"CUST00275","Joyce Bowen",79,"Cincinnati","OH","30K-60K","2025-12-05","Mass Affluent",5874.97,0.293
+"CUST00276","Matthew Moore",42,"Phoenix","AZ","30K-60K","2021-11-18","Mass Affluent",2710.83,0.009
+"CUST00277","Wayne Morgan",29,"Phoenix","AZ","150K+","2022-02-19","Affluent",7988.06,0.46
+"CUST00278","Marie Christian",80,"Tampa","FL","100K-150K","2022-03-02","Mass Market",633.09,0.252
+"CUST00279","Shannon James",33,"Chicago","IL","100K-150K","2016-07-09","Mass Market",1580.62,0.074
+"CUST00280","Nathan Malone",74,"Cleveland","OH","30K-60K","2023-06-30","Mass Market",1743.21,0.369
+"CUST00281","Amanda Jones",69,"Atlanta","GA","30K-60K","2015-10-01","Mass Market",1927.49,0.099
+"CUST00282","Tammie Bright",39,"Charlotte","NC","30K-60K","2025-10-29","Mass Affluent",4614.54,0.573
+"CUST00283","Jessica Garcia",62,"Jacksonville","FL","30K-60K","2020-12-13","Mass Affluent",2383.66,0.239
+"CUST00284","Shelia Wallace",23,"Sacramento","CA","60K-100K","2021-08-09","Affluent",10322.96,0.084
+"CUST00285","Stephanie Williams",37,"Atlanta","GA","100K-150K","2023-12-01","Mass Affluent",3060.02,0.4
+"CUST00286","Elaine Brooks",20,"Rochester","NY","30K-60K","2020-11-26","Mass Market",1755.62,0.26
+"CUST00287","Joseph Knight",44,"Allentown","PA","100K-150K","2020-02-07","Mass Affluent",5273.62,0.151
+"CUST00288","Carolyn Miller",37,"Jacksonville","FL","100K-150K","2016-10-08","Mass Market",552.09,0.3
+"CUST00289","Lisa Allen",78,"New York","NY","150K+","2025-01-26","Mass Market",1958.25,0.267
+"CUST00290","Briana Murray",38,"Albany","NY","60K-100K","2016-07-02","Mass Market",1328.08,0.538
+"CUST00291","David Smith",77,"Phoenix","AZ","<30K","2017-05-15","Mass Affluent",3144.37,0.329
+"CUST00292","Stephanie Byrd",56,"Augusta","GA","30K-60K","2025-08-11","Mass Market",715.78,0.601
+"CUST00293","Jeremy Reed",33,"Allentown","PA","150K+","2016-02-08","Mass Affluent",5588.13,0.053
+"CUST00294","Margaret Coleman",61,"Augusta","GA","30K-60K","2017-03-15","High Net Worth",22512.01,0.487
+"CUST00295","Ryan Gonzalez",23,"Mesa","AZ","100K-150K","2019-03-20","Mass Market",1110.76,0.314
+"CUST00296","John Young",37,"New York","NY","100K-150K","2026-05-14","Mass Market",1286.43,0.555
+"CUST00297","Laura Haney",41,"Tampa","FL","60K-100K","2025-05-30","Mass Affluent",2495.49,0.046
+"CUST00298","William Barrett",53,"Augusta","GA","100K-150K","2022-11-05","Mass Market",887.99,0.631
+"CUST00299","Keith Jennings",35,"Orlando","FL","100K-150K","2024-03-08","Mass Affluent",5868.55,0.538
+"CUST00300","Amber Obrien",34,"San Diego","CA","60K-100K","2021-11-07","Mass Affluent",3101.51,0.594
+"CUST00301","Tanner Mitchell DDS",51,"Naperville","IL","<30K","2023-11-28","Mass Affluent",5997.72,0.386
+"CUST00302","Heather Fields",39,"Atlanta","GA","100K-150K","2021-03-14","Mass Affluent",3044.59,0.472
+"CUST00303","Megan Le",69,"Miami","FL","60K-100K","2024-01-24","Mass Affluent",4885.13,0.451
+"CUST00304","Sara Fuller",20,"Cincinnati","OH","60K-100K","2019-04-05","Mass Market",1529.48,0.424
+"CUST00305","Maria Parker",36,"Charlotte","NC","60K-100K","2017-03-10","Mass Affluent",4900.75,0.149
+"CUST00306","Kevin Oconnor",40,"Dallas","TX","30K-60K","2020-01-04","Mass Affluent",5152.36,0.263
+"CUST00307","Edward Burgess",73,"Atlanta","GA","30K-60K","2016-08-06","Mass Affluent",2479.26,0.41
+"CUST00308","Carlos Ryan",30,"Buffalo","NY","60K-100K","2022-09-08","Mass Market",1859.93,0.21
+"CUST00309","Kiara Mcintyre",58,"Savannah","GA","<30K","2018-12-19","Mass Market",1178.08,0.144
+"CUST00310","Dawn Summers",57,"Dallas","TX","30K-60K","2024-09-22","Mass Affluent",5861.31,0.326
+"CUST00311","Dr. Paul Morgan",66,"San Francisco","CA","<30K","2019-04-11","Mass Market",1600.40,0.204
+"CUST00312","Victor Taylor",37,"Durham","NC","<30K","2018-09-30","Mass Market",1922.70,0.259
+"CUST00313","Shannon Ramsey",75,"Albany","NY","30K-60K","2025-12-29","Mass Market",1922.13,0.271
+"CUST00314","Tracy Ballard",28,"Mesa","AZ","60K-100K","2017-10-05","Mass Market",556.05,0.249
+"CUST00315","Richard Smith",53,"Columbus","OH","30K-60K","2020-09-01","Mass Affluent",4780.77,0.303
+"CUST00316","Jordan Chambers",56,"Naperville","IL","100K-150K","2018-01-28","Mass Market",1267.38,0.255
+"CUST00317","Lauren Carson",67,"Phoenix","AZ","150K+","2020-11-24","Affluent",9221.30,0.233
+"CUST00318","Ashley Hall",33,"Savannah","GA","<30K","2015-01-23","Mass Market",665.65,0.523
+"CUST00319","Stephen Hoffman",32,"Naperville","IL","30K-60K","2025-03-30","High Net Worth",26606.93,0.246
+"CUST00320","Connie Brown",65,"Pittsburgh","PA","100K-150K","2017-08-07","Mass Market",568.83,0.651
+"CUST00321","Susan Turner",35,"Augusta","GA","30K-60K","2017-01-31","Mass Market",670.75,0.156
+"CUST00322","Charles Shah",59,"Savannah","GA","60K-100K","2018-09-28","Mass Market",587.97,0.171
+"CUST00323","Johnathan Davis",67,"Rochester","NY","100K-150K","2023-01-16","Mass Affluent",5519.80,0.419
+"CUST00324","Brandy Chavez",20,"Cleveland","OH","30K-60K","2016-06-02","Mass Market",1556.85,0.357
+"CUST00325","Natalie Bautista",51,"Allentown","PA","60K-100K","2017-02-19","Mass Market",1222.89,0.514
+"CUST00326","Patrick Moore",18,"Phoenix","AZ","60K-100K","2018-07-09","Mass Affluent",3983.34,0.168
+"CUST00327","Brett Burns",50,"Chicago","IL","30K-60K","2019-12-30","Mass Affluent",5268.41,0.081
+"CUST00328","Trevor Johnson",38,"Savannah","GA","60K-100K","2017-08-30","High Net Worth",15444.23,0.23
+"CUST00329","Jeremy Sampson",58,"Mesa","AZ","60K-100K","2021-10-31","Affluent",11891.36,0.177
+"CUST00330","Ariana Jennings",53,"Savannah","GA","30K-60K","2025-08-11","Mass Affluent",3810.13,0.084
+"CUST00331","Vanessa Howard",41,"Durham","NC","30K-60K","2017-05-20","Mass Market",710.67,0.581
+"CUST00332","Colton Martinez",77,"Miami","FL","100K-150K","2023-10-24","Mass Market",785.87,0.426
+"CUST00333","Jordan Bates",67,"Phoenix","AZ","60K-100K","2025-02-07","Mass Affluent",4016.79,0.442
+"CUST00334","Linda Smith",62,"Charlotte","NC","<30K","2018-11-23","Mass Affluent",3549.62,0.335
+"CUST00335","Dana Martinez",66,"Mesa","AZ","150K+","2020-07-26","Mass Market",1955.74,0.287
+"CUST00336","Andrea Hubbard",71,"Raleigh","NC","150K+","2022-01-15","Mass Affluent",4530.33,0.195
+"CUST00337","Daniel Kane",50,"Buffalo","NY","100K-150K","2022-03-25","Mass Affluent",4249.12,0.265
+"CUST00338","Charles Lester",74,"Raleigh","NC","60K-100K","2024-06-22","Affluent",6227.45,0.186
+"CUST00339","Scott Thomas",61,"Albany","NY","<30K","2020-08-14","Mass Market",1676.54,0.181
+"CUST00340","David Thompson",65,"Mesa","AZ","60K-100K","2020-01-12","Mass Affluent",2950.38,0.533
+"CUST00341","Allison Smith",44,"Cleveland","OH","<30K","2022-01-05","High Net Worth",33591.75,0.09
+"CUST00342","Cynthia Morris",66,"Tampa","FL","150K+","2019-05-29","Affluent",8647.60,0.212
+"CUST00343","Anthony Harmon",42,"Charlotte","NC","60K-100K","2015-11-29","Mass Market",695.10,0.381
+"CUST00344","Nichole Alvarez",27,"New York","NY","100K-150K","2022-03-27","Mass Affluent",4501.47,0.667
+"CUST00345","Kayla Rodriguez",79,"Charlotte","NC","100K-150K","2019-02-15","Mass Affluent",2637.48,0.352
+"CUST00346","Theresa Williams",41,"Pittsburgh","PA","100K-150K","2021-08-01","Mass Market",1295.75,0.221
+"CUST00347","Sharon Boyd",79,"Phoenix","AZ","30K-60K","2015-11-23","Mass Affluent",5663.73,0.168
+"CUST00348","Victor Brown",69,"Allentown","PA","<30K","2026-05-30","Mass Market",1847.42,0.121
+"CUST00349","James Parks",31,"Columbus","OH","150K+","2024-10-05","Mass Affluent",4987.56,0.159
+"CUST00350","Theodore Jones Jr.",68,"San Diego","CA","60K-100K","2020-08-25","Mass Affluent",2910.58,0.154
+"CUST00351","Ana Hill",61,"Sacramento","CA","60K-100K","2017-08-27","Mass Affluent",4473.40,0.366
+"CUST00352","Kimberly Nguyen",36,"Charlotte","NC","30K-60K","2021-10-04","Mass Affluent",5706.76,0.316
+"CUST00353","Kerry Chavez DDS",79,"Raleigh","NC","100K-150K","2018-03-26","Mass Market",1948.05,0.77
+"CUST00354","Michael Farrell",53,"Cincinnati","OH","60K-100K","2016-11-28","Mass Market",1855.32,0.184
+"CUST00355","Patricia Le",32,"Buffalo","NY","30K-60K","2020-09-01","Mass Market",1699.49,0.315
+"CUST00356","Jesse Perez",53,"Augusta","GA","<30K","2016-08-22","Mass Market",647.30,0.47
+"CUST00357","Jesse Perry",36,"Miami","FL","30K-60K","2016-07-25","Affluent",10055.81,0.32
+"CUST00358","Jeffery Ortega",79,"Pittsburgh","PA","30K-60K","2024-08-09","Mass Market",1678.49,0.482
+"CUST00359","Christian Leblanc",47,"Pittsburgh","PA","30K-60K","2024-12-27","Mass Market",1327.51,0.086
+"CUST00360","Ronald Davis",34,"Buffalo","NY","100K-150K","2016-09-18","Mass Affluent",5398.35,0.329
+"CUST00361","Parker Cain",53,"Miami","FL","150K+","2020-11-04","Mass Affluent",3888.42,0.553
+"CUST00362","Laurie Hoffman",47,"Chicago","IL","30K-60K","2026-03-29","Mass Affluent",4008.67,0.268
+"CUST00363","Bryan Gomez",46,"Buffalo","NY","150K+","2018-07-28","Mass Market",1489.12,0.37
+"CUST00364","Nicole Parrish",41,"Austin","TX","30K-60K","2020-04-01","Mass Market",1861.59,0.234
+"CUST00365","Tracy Burke",63,"Philadelphia","PA","30K-60K","2021-02-18","Affluent",10899.15,0.164
+"CUST00366","Kenneth Lewis",42,"Austin","TX","30K-60K","2019-12-31","Mass Affluent",5470.88,0.252
+"CUST00367","Courtney Rodriguez",28,"Rochester","NY","60K-100K","2020-02-28","Mass Market",817.28,0.112
+"CUST00368","Holly Farmer",69,"Jacksonville","FL","60K-100K","2022-05-29","Mass Affluent",3915.26,0.344
+"CUST00369","Renee Bruce",58,"Buffalo","NY","60K-100K","2026-07-01","Mass Market",583.87,0.166
+"CUST00370","Sabrina Austin",31,"Chicago","IL","60K-100K","2025-01-27","Mass Affluent",3926.67,0.259
+"CUST00371","Allison Hickman",28,"Albany","NY","60K-100K","2022-09-08","Affluent",6619.59,0.539
+"CUST00372","Debra White",44,"Durham","NC","30K-60K","2018-05-10","Mass Affluent",5606.43,0.326
+"CUST00373","Ellen Morgan",60,"San Antonio","TX","60K-100K","2017-12-03","Affluent",6010.80,0.151
+"CUST00374","Sergio Knight",78,"Columbus","OH","30K-60K","2025-10-24","Affluent",11301.43,0.358
+"CUST00375","Charles Schultz",48,"Albany","NY","<30K","2020-03-19","Affluent",11384.63,0.715
+"CUST00376","Paul Lewis",51,"Los Angeles","CA","30K-60K","2015-02-28","Mass Market",1706.43,0.263
+"CUST00377","Glen Wood",45,"Naperville","IL","150K+","2023-03-15","Mass Affluent",3589.82,0.144
+"CUST00378","Paula Bradley",48,"Durham","NC","60K-100K","2020-09-09","High Net Worth",34354.86,0.32
+"CUST00379","Anthony Moore",31,"New York","NY","30K-60K","2026-05-27","Mass Market",1325.86,0.529
+"CUST00380","Megan Nelson",70,"Los Angeles","CA","60K-100K","2018-04-05","Mass Affluent",2352.56,0.16
+"CUST00381","Karla Ramos",59,"Cincinnati","OH","60K-100K","2021-06-04","Mass Affluent",5782.86,0.51
+"CUST00382","Paul Wilson",30,"Raleigh","NC","60K-100K","2015-10-03","Affluent",12286.05,0.389
+"CUST00383","Douglas Gregory",35,"New York","NY","30K-60K","2023-12-17","Mass Market",1379.12,0.499
+"CUST00384","Mr. Andrew Foster",71,"Naperville","IL","100K-150K","2022-10-22","Mass Market",839.44,0.131
+"CUST00385","Aimee Turner",69,"Philadelphia","PA","100K-150K","2026-07-06","High Net Worth",35328.68,0.241
+"CUST00386","Chad Scott",47,"Augusta","GA","30K-60K","2015-08-13","Mass Affluent",3530.69,0.424
+"CUST00387","Adam Burgess",62,"Charlotte","NC","<30K","2020-11-27","Mass Market",1510.55,0.283
+"CUST00388","James Padilla",65,"Jacksonville","FL","30K-60K","2019-06-24","Mass Market",898.11,0.103
+"CUST00389","Sandra Drake",76,"Houston","TX","60K-100K","2016-10-04","Mass Affluent",4455.31,0.691
+"CUST00390","Scott Williams",49,"Tucson","AZ","150K+","2021-02-28","Mass Affluent",5664.03,0.173
+"CUST00391","Thomas Atkins",78,"Cleveland","OH","30K-60K","2015-09-24","Mass Affluent",4745.35,0.11
+"CUST00392","Laura Mckinney",61,"Los Angeles","CA","<30K","2019-09-23","Mass Market",1042.40,0.266
+"CUST00393","Brian Smith",66,"Cincinnati","OH","30K-60K","2023-05-08","Mass Market",1176.09,0.267
+"CUST00394","Robert Montgomery",53,"Chicago","IL","30K-60K","2024-09-10","Affluent",13200.34,0.773
+"CUST00395","Tamara Davis",68,"Albany","NY","60K-100K","2025-11-30","Mass Market",1351.75,0.441
+"CUST00396","Dana Chapman",24,"Augusta","GA","30K-60K","2025-02-02","Mass Affluent",3441.23,0.362
+"CUST00397","Jennifer Collins",79,"Allentown","PA","60K-100K","2019-06-18","Mass Affluent",4153.75,0.148
+"CUST00398","Gary Jackson",57,"San Antonio","TX","150K+","2021-06-05","Mass Affluent",5473.03,0.383
+"CUST00399","Ashley Hicks",23,"Columbus","OH","30K-60K","2018-08-20","Mass Market",1479.52,0.436
+"CUST00400","Hannah Luna",55,"Allentown","PA","30K-60K","2025-02-05","Mass Market",534.65,0.614
+"CUST00401","Robin Young",22,"Houston","TX","<30K","2025-08-12","Mass Affluent",3588.05,0.151
+"CUST00402","Craig Morrison",33,"Chicago","IL","<30K","2021-05-16","Mass Market",1290.11,0.133
+"CUST00403","Mary Thompson",53,"Raleigh","NC","150K+","2024-12-23","Mass Market",1308.93,0.256
+"CUST00404","Kathleen Webster",58,"Cincinnati","OH","60K-100K","2021-12-11","Affluent",8044.16,0.106
+"CUST00405","Joann Glass",51,"Los Angeles","CA","60K-100K","2018-01-21","Mass Market",512.48,0.632
+"CUST00406","Madison Weber",56,"Cleveland","OH","60K-100K","2020-03-09","Affluent",7697.14,0.148
+"CUST00407","Lori Hernandez",23,"Tampa","FL","60K-100K","2024-06-20","Mass Affluent",5199.84,0.42
+"CUST00408","Jeremy Turner",44,"Raleigh","NC","30K-60K","2019-03-21","Affluent",8606.36,0.434
+"CUST00409","Anthony Romero",19,"Tampa","FL","60K-100K","2018-05-31","Mass Market",778.91,0.077
+"CUST00410","Jesse Brown",27,"Miami","FL","30K-60K","2015-05-01","Mass Affluent",3246.31,0.483
+"CUST00411","Angela Lin",71,"Philadelphia","PA","100K-150K","2018-04-11","Mass Market",607.08,0.176
+"CUST00412","Lisa Hunter",80,"Los Angeles","CA","150K+","2020-08-01","Mass Market",870.74,0.409
+"CUST00413","Julian Conner",58,"Philadelphia","PA","60K-100K","2015-12-12","Mass Affluent",2488.57,0.317
+"CUST00414","Joanna Pacheco",33,"Miami","FL","30K-60K","2024-09-26","Mass Market",914.15,0.076
+"CUST00415","Erica Alvarez",41,"Phoenix","AZ","60K-100K","2017-01-03","Mass Market",1528.92,0.249
+"CUST00416","Antonio Garcia",26,"Charlotte","NC","150K+","2025-12-10","Mass Market",1682.84,0.455
+"CUST00417","Gwendolyn Klein",64,"Cleveland","OH","<30K","2018-01-08","Mass Market",1559.94,0.317
+"CUST00418","Carrie Wright",38,"Raleigh","NC","100K-150K","2025-07-04","Mass Market",1871.71,0.444
+"CUST00419","Jeffrey Mills",41,"Naperville","IL","60K-100K","2025-03-08","Mass Market",1068.57,0.623
+"CUST00420","Jake Campbell",30,"Raleigh","NC","30K-60K","2026-02-27","Affluent",8548.16,0.406
+"CUST00421","George Harper",29,"San Diego","CA","60K-100K","2015-09-14","Mass Market",648.13,0.275
+"CUST00422","Maria Jones",21,"Tucson","AZ","60K-100K","2023-03-21","Mass Market",519.63,0.31
+"CUST00423","Michael Mitchell",68,"Cleveland","OH","30K-60K","2016-04-22","Affluent",6365.88,0.034
+"CUST00424","Mary Escobar",64,"Houston","TX","30K-60K","2020-03-07","Mass Affluent",4104.77,0.26
+"CUST00425","Felicia Aguilar",24,"Cincinnati","OH","60K-100K","2023-01-11","Mass Affluent",3708.30,0.097
+"CUST00426","Gregory Ponce",77,"Rochester","NY","60K-100K","2022-11-26","Affluent",14971.65,0.412
+"CUST00427","Jenna Larson",42,"Charlotte","NC","60K-100K","2020-09-12","Mass Market",1939.74,0.422
+"CUST00428","Emily Bennett",19,"Tampa","FL","60K-100K","2021-03-10","Affluent",11136.01,0.333
+"CUST00429","Robin Santiago",74,"Springfield","IL","100K-150K","2020-08-08","Mass Market",637.86,0.184
+"CUST00430","Nancy Jennings",49,"Atlanta","GA","30K-60K","2017-02-20","Mass Affluent",4923.16,0.551
+"CUST00431","Maria Henderson",44,"Pittsburgh","PA","30K-60K","2017-09-14","Affluent",11875.01,0.52
+"CUST00432","Jack White",27,"Durham","NC","30K-60K","2022-05-01","Mass Affluent",2202.08,0.434
+"CUST00433","Travis Tucker",32,"Charlotte","NC","30K-60K","2024-09-08","Mass Market",698.28,0.211
+"CUST00434","Chad Jones",50,"San Antonio","TX","<30K","2024-09-29","Affluent",7213.84,0.271
+"CUST00435","Ashley Wise",51,"Mesa","AZ","30K-60K","2020-07-10","Mass Market",1145.10,0.555
+"CUST00436","Sophia Johnson",30,"Pittsburgh","PA","60K-100K","2022-03-12","Mass Market",1654.52,0.088
+"CUST00437","Ralph Anderson",46,"Phoenix","AZ","30K-60K","2016-01-03","Affluent",12168.23,0.249
+"CUST00438","Christopher Guerra",73,"Orlando","FL","60K-100K","2021-06-14","Mass Market",666.92,0.357
+"CUST00439","Rhonda Martin",53,"Tampa","FL","150K+","2025-10-31","Mass Affluent",4780.28,0.461
+"CUST00440","Jason Rhodes",21,"Tampa","FL","<30K","2025-06-05","Mass Affluent",3554.58,0.153
+"CUST00441","Jeremy Mitchell",73,"San Francisco","CA","30K-60K","2023-09-02","Mass Market",1964.92,0.057
+"CUST00442","Joann Ferguson",50,"Buffalo","NY","60K-100K","2025-04-09","Mass Affluent",2159.01,0.595
+"CUST00443","Robert Harrison",37,"Allentown","PA","150K+","2020-04-18","High Net Worth",21896.96,0.089
+"CUST00444","Holly Valentine",32,"San Francisco","CA","30K-60K","2018-05-27","Mass Market",705.89,0.357
+"CUST00445","Mrs. Diane Reyes",33,"Jacksonville","FL","30K-60K","2018-06-05","Mass Market",1408.05,0.224
+"CUST00446","Tracy Montoya",37,"Orlando","FL","100K-150K","2018-01-12","Mass Market",1655.07,0.504
+"CUST00447","Brenda Wright",25,"Durham","NC","100K-150K","2019-02-17","Mass Market",1590.62,0.471
+"CUST00448","Shelly Spencer",77,"Augusta","GA","30K-60K","2021-02-20","Mass Market",697.32,0.041
+"CUST00449","Ryan Rosales",56,"Phoenix","AZ","<30K","2020-03-17","Mass Market",619.21,0.4
+"CUST00450","Phillip Nelson",32,"Buffalo","NY","150K+","2015-09-22","Mass Market",1888.15,0.487
+"CUST00451","Brittany Kim",49,"Augusta","GA","100K-150K","2022-04-15","Affluent",9848.00,0.329
+"CUST00452","Courtney Hayes",78,"Cincinnati","OH","60K-100K","2015-11-12","Mass Affluent",5308.04,0.061
+"CUST00453","Alexander Brown",51,"Sacramento","CA","30K-60K","2016-02-08","Mass Market",1826.60,0.582
+"CUST00454","Cynthia Vang",47,"San Diego","CA","60K-100K","2025-02-17","Mass Market",769.66,0.315
+"CUST00455","Alfred Galvan",19,"Pittsburgh","PA","100K-150K","2019-01-05","Mass Affluent",5583.18,0.162
+"CUST00456","Marie Moody",25,"Houston","TX","<30K","2025-01-29","Mass Affluent",4829.12,0.377
+"CUST00457","Dustin Gallegos",20,"Raleigh","NC","60K-100K","2018-10-31","Affluent",11935.77,0.196
+"CUST00458","Brenda Thornton",37,"Cleveland","OH","30K-60K","2025-01-03","Mass Market",1847.81,0.198
+"CUST00459","Aaron Miller",31,"Atlanta","GA","30K-60K","2025-09-02","Mass Affluent",4404.87,0.029
+"CUST00460","Ruben Dunn",29,"Miami","FL","30K-60K","2018-04-29","Mass Market",718.06,0.047
+"CUST00461","Kelsey Rodriguez",24,"Houston","TX","30K-60K","2024-05-08","High Net Worth",22109.51,0.348
+"CUST00462","Eric Williams",55,"Augusta","GA","<30K","2023-01-29","High Net Worth",22482.36,0.413
+"CUST00463","Riley Bryant",36,"Charlotte","NC","60K-100K","2025-07-23","Mass Market",911.63,0.244
+"CUST00464","Taylor Carlson",48,"Houston","TX","100K-150K","2021-06-10","Mass Market",889.49,0.324
+"CUST00465","Jose Allen",69,"Savannah","GA","30K-60K","2019-01-13","Affluent",8614.39,0.155
+"CUST00466","Jeffrey Mendez",44,"Jacksonville","FL","60K-100K","2016-01-08","Mass Market",1456.26,0.04
+"CUST00467","Jason Beck",50,"Springfield","IL","<30K","2022-04-07","Affluent",8999.55,0.335
+"CUST00468","William Jones",69,"Savannah","GA","60K-100K","2015-10-19","Mass Affluent",4508.80,0.232
+"CUST00469","Katie Mcneil",54,"Raleigh","NC","<30K","2022-01-28","Mass Affluent",4309.59,0.323
+"CUST00470","Jeanette Harrison",58,"Pittsburgh","PA","30K-60K","2018-09-21","Mass Affluent",4380.77,0.466
+"CUST00471","Veronica King",44,"San Francisco","CA","30K-60K","2016-12-12","Mass Affluent",3807.63,0.138
+"CUST00472","Richard Cooper",50,"San Antonio","TX","100K-150K","2015-07-24","Affluent",7386.70,0.258
+"CUST00473","Lori Ingram",31,"Dallas","TX","60K-100K","2015-10-27","Mass Affluent",4089.38,0.013
+"CUST00474","Evelyn Williams",47,"Austin","TX","100K-150K","2016-01-13","Mass Market",1618.33,0.036
+"CUST00475","Robin Thompson",36,"Orlando","FL","100K-150K","2021-03-16","Mass Affluent",4684.50,0.31
+"CUST00476","Julie Dominguez",24,"Durham","NC","60K-100K","2019-08-20","Mass Affluent",3084.21,0.382
+"CUST00477","Robin Brown",21,"Raleigh","NC","100K-150K","2017-12-01","Mass Market",575.68,0.26
+"CUST00478","Judith Carter",71,"Mesa","AZ","30K-60K","2024-12-31","Mass Affluent",5269.77,0.393
+"CUST00479","Curtis Williams",26,"Augusta","GA","100K-150K","2017-01-31","Affluent",10214.48,0.211
+"CUST00480","Kaylee Hays",27,"Orlando","FL","30K-60K","2020-10-14","Affluent",12296.53,0.233
+"CUST00481","Dawn Mullins",48,"Los Angeles","CA","60K-100K","2017-07-13","Mass Market",756.20,0.603
+"CUST00482","Howard Norman",53,"Austin","TX","60K-100K","2016-08-04","Affluent",9607.35,0.235
+"CUST00483","Evelyn Martinez",39,"Columbus","OH","60K-100K","2019-09-02","Affluent",13058.83,0.245
+"CUST00484","Steve Paul",25,"San Antonio","TX","<30K","2025-05-20","Mass Market",1167.82,0.18
+"CUST00485","Jasmine Beltran",38,"Tucson","AZ","<30K","2026-02-01","Mass Affluent",2870.45,0.087
+"CUST00486","Jonathan Glass MD",46,"Buffalo","NY","60K-100K","2021-07-15","Mass Market",793.50,0.361
+"CUST00487","Monica Miller",63,"Springfield","IL","60K-100K","2022-09-21","High Net Worth",30287.27,0.164
+"CUST00488","Samantha Gardner",25,"San Francisco","CA","30K-60K","2021-04-30","Affluent",12320.00,0.268
+"CUST00489","Bobby Guerrero",60,"Charlotte","NC","30K-60K","2018-11-21","Mass Affluent",3538.38,0.106
+"CUST00490","Lance Simmons",27,"Houston","TX","150K+","2025-12-01","Mass Affluent",2543.10,0.07
+"CUST00491","Heather Williams",57,"Tucson","AZ","30K-60K","2019-01-12","Mass Affluent",5280.29,0.252
+"CUST00492","Heather Bolton",33,"Augusta","GA","150K+","2026-04-03","Mass Market",1364.53,0.257
+"CUST00493","William Gould",64,"Dallas","TX","<30K","2021-04-08","Mass Affluent",5559.66,0.068
+"CUST00494","Mark Cox",57,"Austin","TX","60K-100K","2016-03-08","Affluent",6097.05,0.246
+"CUST00495","Meghan Cisneros",36,"Pittsburgh","PA","150K+","2018-10-04","Mass Market",1624.14,0.636
+"CUST00496","Lawrence Harrington",60,"New York","NY","60K-100K","2021-07-18","Affluent",8581.34,0.157
+"CUST00497","Austin Osborne",65,"Chicago","IL","100K-150K","2017-07-02","Mass Affluent",4955.87,0.495
+"CUST00498","James Bradley",29,"Jacksonville","FL","<30K","2015-09-29","Mass Market",717.61,0.209
+"CUST00499","Meghan Rush",58,"Augusta","GA","60K-100K","2018-10-02","Mass Market",1017.61,0.525
+"CUST00500","Phillip Berry",37,"Cleveland","OH","100K-150K","2025-09-06","Mass Affluent",4130.08,0.238
+"CUST00501","Jennifer Banks",36,"Columbus","OH","30K-60K","2025-01-24","Mass Market",1295.38,0.197
+"CUST00502","Brian Fitzgerald",35,"Springfield","IL","30K-60K","2020-12-27","Affluent",11257.59,0.349
+"CUST00503","Mr. Justin Green III",61,"Tampa","FL","<30K","2019-01-13","Mass Market",512.71,0.079
+"CUST00504","Zachary Mitchell",64,"Philadelphia","PA","<30K","2021-05-09","Mass Market",1429.10,0.065
+"CUST00505","Katherine Martinez",72,"Houston","TX","100K-150K","2017-11-30","Mass Market",1471.86,0.139
+"CUST00506","Jodi Roach",77,"San Antonio","TX","60K-100K","2021-03-14","Affluent",12008.21,0.345
+"CUST00507","Brandon Fleming",42,"Sacramento","CA","30K-60K","2022-06-18","High Net Worth",35320.02,0.161
+"CUST00508","Emma Reed",52,"Dallas","TX","60K-100K","2024-09-02","Mass Market",1868.91,0.117
+"CUST00509","Joshua Vance",59,"Atlanta","GA","60K-100K","2015-01-08","High Net Worth",21660.91,0.371
+"CUST00510","Michelle Ho",45,"Savannah","GA","100K-150K","2024-01-22","Affluent",13068.44,0.31
+"CUST00511","Rebecca Hicks",61,"Pittsburgh","PA","60K-100K","2021-10-16","Mass Market",1938.24,0.1
+"CUST00512","Curtis Taylor",53,"Orlando","FL","60K-100K","2015-11-19","High Net Worth",22471.76,0.192
+"CUST00513","Allison Spencer",30,"Augusta","GA","<30K","2018-02-20","Mass Market",1994.58,0.116
+"CUST00514","Robert Arnold",79,"Augusta","GA","<30K","2025-01-28","High Net Worth",23482.13,0.235
+"CUST00515","Angelica Parker",78,"Raleigh","NC","30K-60K","2018-05-05","Mass Affluent",2288.13,0.729
+"CUST00516","Dr. Kelly Hammond DVM",33,"Phoenix","AZ","60K-100K","2017-12-05","Mass Market",1856.99,0.56
+"CUST00517","William Day",56,"San Antonio","TX","30K-60K","2019-12-12","Mass Market",1006.01,0.539
+"CUST00518","Michael Cooper",26,"Mesa","AZ","100K-150K","2022-03-19","Affluent",12878.05,0.491
+"CUST00519","Penny Bowman",62,"Columbus","OH","30K-60K","2023-04-19","Mass Affluent",5702.70,0.523
+"CUST00520","Vincent Reynolds",63,"New York","NY","100K-150K","2021-05-13","Mass Market",1658.84,0.345
+"CUST00521","Amy Martinez",78,"Columbus","OH","<30K","2018-11-30","Mass Affluent",2720.00,0.252
+"CUST00522","Christopher Morris",18,"Pittsburgh","PA","150K+","2020-04-14","Mass Market",1965.19,0.357
+"CUST00523","Hannah Everett",21,"Tampa","FL","<30K","2019-05-06","Mass Market",1765.67,0.285
+"CUST00524","Sarah King",34,"Jacksonville","FL","100K-150K","2022-07-01","Mass Affluent",3812.59,0.584
+"CUST00525","Krista Martinez",64,"Dallas","TX","30K-60K","2024-12-22","Mass Affluent",2795.01,0.287
+"CUST00526","Joseph Shaw",65,"Dallas","TX","30K-60K","2024-04-02","Affluent",7985.96,0.304
+"CUST00527","Todd Moore",80,"Tampa","FL","<30K","2021-01-18","Mass Market",1538.32,0.043
+"CUST00528","Michelle Jacobs",32,"Albany","NY","100K-150K","2021-08-14","Mass Affluent",4552.00,0.533
+"CUST00529","Kristy Bryan",55,"Atlanta","GA","30K-60K","2025-08-14","Affluent",12570.16,0.479
+"CUST00530","Angel May",76,"Phoenix","AZ","<30K","2015-02-11","Mass Market",1986.91,0.442
+"CUST00531","Marilyn Wang",49,"San Antonio","TX","100K-150K","2020-05-24","Mass Market",1539.74,0.281
+"CUST00532","Mark Jimenez",48,"Houston","TX","60K-100K","2021-11-02","Mass Market",1355.57,0.338
+"CUST00533","Donna Frye",68,"Columbus","OH","60K-100K","2023-04-23","Mass Affluent",2005.45,0.292
+"CUST00534","Dr. Michael Evans",66,"Springfield","IL","60K-100K","2021-01-19","Mass Affluent",4300.92,0.135
+"CUST00535","Anthony Gonzales",74,"San Francisco","CA","30K-60K","2016-02-27","Mass Market",1428.70,0.212
+"CUST00536","Mr. Lawrence Edwards",80,"Orlando","FL","<30K","2022-07-06","Mass Market",1217.74,0.476
+"CUST00537","Morgan Valencia",21,"Cleveland","OH","60K-100K","2016-06-03","Mass Market",1252.18,0.489
+"CUST00538","Bianca Wood",57,"Springfield","IL","150K+","2023-04-04","Affluent",13279.16,0.117
+"CUST00539","Emma Owens",35,"Dallas","TX","60K-100K","2017-07-06","Mass Affluent",5499.97,0.36
+"CUST00540","David Davis",48,"Charlotte","NC","60K-100K","2022-10-11","Mass Market",532.22,0.466
+"CUST00541","James Gilbert",59,"Tucson","AZ","60K-100K","2022-04-27","Mass Affluent",4120.66,0.29
+"CUST00542","Sean Moore",68,"Chicago","IL","30K-60K","2020-10-30","Mass Market",932.22,0.167
+"CUST00543","Kenneth Edwards",29,"Raleigh","NC","60K-100K","2018-12-07","Affluent",11997.20,0.299
+"CUST00544","Kathleen Robertson",34,"Rochester","NY","60K-100K","2023-04-17","Mass Market",552.03,0.234
+"CUST00545","Mr. Alexander Landry MD",25,"Albany","NY","60K-100K","2015-07-24","Mass Market",718.08,0.69
+"CUST00546","Cindy Gomez",59,"Raleigh","NC","30K-60K","2021-08-18","Mass Affluent",5776.04,0.1
+"CUST00547","Johnny Khan",61,"San Diego","CA","30K-60K","2017-08-15","Mass Market",1761.32,0.477
+"CUST00548","Julie Herrera",32,"Mesa","AZ","<30K","2021-03-26","Mass Market",1774.18,0.383
+"CUST00549","Jessica Khan",76,"Charlotte","NC","60K-100K","2023-02-05","Mass Market",1141.46,0.229
+"CUST00550","Pamela Diaz",65,"Jacksonville","FL","30K-60K","2024-04-27","Affluent",13251.06,0.434
+"CUST00551","Kelly Lee",22,"Raleigh","NC","30K-60K","2023-06-06","Mass Market",1871.62,0.196
+"CUST00552","Angel Gordon",29,"Buffalo","NY","60K-100K","2023-07-25","Mass Market",1734.20,0.199
+"CUST00553","Diana Hays",68,"Miami","FL","30K-60K","2015-01-21","Mass Market",1460.83,0.305
+"CUST00554","Barbara Hester",76,"Rochester","NY","100K-150K","2020-06-27","Mass Market",1239.58,0.239
+"CUST00555","Robert Morgan",70,"Augusta","GA","60K-100K","2017-09-06","Mass Market",526.32,0.282
+"CUST00556","Nicole Gonzalez",28,"Albany","NY","30K-60K","2016-03-09","Mass Market",1868.16,0.214
+"CUST00557","Kathryn Williams",67,"Charlotte","NC","60K-100K","2019-02-10","Affluent",7504.22,0.129
+"CUST00558","Gary Wells",62,"Naperville","IL","60K-100K","2023-02-17","Mass Market",1734.97,0.037
+"CUST00559","Larry Robertson",24,"Philadelphia","PA","30K-60K","2019-11-20","Mass Market",782.63,0.491
+"CUST00560","Louis Martin",47,"San Antonio","TX","<30K","2016-09-17","Mass Market",526.07,0.338
+"CUST00561","Nancy Evans MD",66,"Mesa","AZ","30K-60K","2022-09-03","Mass Market",1616.69,0.087
+"CUST00562","Kim Erickson",31,"Chicago","IL","30K-60K","2017-12-02","High Net Worth",34075.59,0.382
+"CUST00563","Robert Richardson",21,"Durham","NC","30K-60K","2025-07-09","Mass Market",599.37,0.281
+"CUST00564","Veronica Silva",29,"Orlando","FL","<30K","2022-11-19","Mass Market",1619.30,0.22
+"CUST00565","Molly Watts",50,"Phoenix","AZ","60K-100K","2016-07-13","Mass Market",520.98,0.207
+"CUST00566","John Coffey",80,"Charlotte","NC","150K+","2017-03-19","Affluent",13661.67,0.382
+"CUST00567","Paula Lane",71,"Dallas","TX","30K-60K","2022-12-16","High Net Worth",27856.28,0.295
+"CUST00568","Lauren Jackson",49,"Charlotte","NC","60K-100K","2023-02-07","Mass Affluent",2162.43,0.265
+"CUST00569","Lisa Randall",80,"Naperville","IL","30K-60K","2024-12-15","Mass Market",1977.44,0.142
+"CUST00570","Michael Johnson",18,"Philadelphia","PA","30K-60K","2026-01-10","Mass Affluent",4090.65,0.414
+"CUST00571","Ashley Smith",22,"Dallas","TX","30K-60K","2023-02-27","High Net Worth",29874.02,0.587
+"CUST00572","Christian Vaughn",35,"Mesa","AZ","60K-100K","2023-12-23","Mass Market",1925.21,0.219
+"CUST00573","Reginald Knapp",19,"Orlando","FL","100K-150K","2017-03-26","Mass Affluent",3992.54,0.042
+"CUST00574","Nancy Brown",57,"Naperville","IL","60K-100K","2017-02-28","Affluent",10679.54,0.345
+"CUST00575","Daniel Nguyen",52,"Raleigh","NC","60K-100K","2022-09-15","Affluent",6159.03,0.457
+"CUST00576","Kelly Edwards",20,"Savannah","GA","60K-100K","2015-09-27","Mass Market",1669.07,0.284
+"CUST00577","Thomas Peterson",49,"Mesa","AZ","100K-150K","2025-07-15","Mass Affluent",4026.74,0.275
+"CUST00578","Raymond Le",19,"Philadelphia","PA","30K-60K","2016-01-05","Mass Market",1714.33,0.291
+"CUST00579","Melissa Bishop",40,"Cleveland","OH","60K-100K","2024-03-28","Mass Market",871.42,0.428
+"CUST00580","David Grant",20,"San Francisco","CA","30K-60K","2025-05-03","Mass Affluent",4059.04,0.257
+"CUST00581","William Evans",54,"Pittsburgh","PA","<30K","2023-10-03","Mass Market",1232.54,0.39
+"CUST00582","Daniel Bush",57,"Philadelphia","PA","30K-60K","2021-09-19","Mass Market",1245.43,0.382
+"CUST00583","Gregory Peck",21,"Springfield","IL","30K-60K","2021-09-01","High Net Worth",20647.15,0.145
+"CUST00584","Denise Martinez",68,"Tampa","FL","30K-60K","2016-09-20","Mass Affluent",5216.51,0.352
+"CUST00585","Jamie Baird",47,"Mesa","AZ","60K-100K","2019-01-19","Affluent",10646.02,0.12
+"CUST00586","Tina Ballard",77,"Savannah","GA","60K-100K","2024-09-23","High Net Worth",16497.04,0.209
+"CUST00587","Dwayne Klein",44,"Springfield","IL","100K-150K","2022-02-23","Affluent",11705.35,0.154
+"CUST00588","Jeremy Scott",27,"Miami","FL","100K-150K","2019-04-22","Mass Market",965.81,0.3
+"CUST00589","Dale Ryan",35,"Orlando","FL","100K-150K","2018-01-22","Mass Market",916.66,0.56
+"CUST00590","Melissa Taylor",73,"Los Angeles","CA","30K-60K","2016-11-18","Mass Market",595.37,0.41
+"CUST00591","Laurie Sanchez",25,"Buffalo","NY","60K-100K","2026-03-22","High Net Worth",35724.54,0.239
+"CUST00592","Kiara Little",71,"Pittsburgh","PA","60K-100K","2023-09-30","Affluent",14419.50,0.228
+"CUST00593","Jason Love",73,"Cleveland","OH","30K-60K","2016-04-03","Mass Affluent",5794.84,0.166
+"CUST00594","Randy Smith",48,"Albany","NY","<30K","2023-04-01","Affluent",14701.25,0.291
+"CUST00595","Tanya Russell",53,"Tampa","FL","150K+","2023-08-18","Mass Market",1044.28,0.579
+"CUST00596","Sherry Woods",37,"Cleveland","OH","100K-150K","2017-01-09","High Net Worth",22435.57,0.176
+"CUST00597","Victor Morris",73,"San Francisco","CA","150K+","2016-10-18","Affluent",10239.82,0.193
+"CUST00598","Susan Davis",62,"Dallas","TX","30K-60K","2020-11-07","Mass Affluent",4408.46,0.499
+"CUST00599","Kimberly Sharp",58,"San Diego","CA","<30K","2024-12-11","Affluent",9605.96,0.548
+"CUST00600","Susan Thompson",80,"Durham","NC","60K-100K","2017-12-01","Affluent",13133.78,0.155
+"CUST00601","Casey Gillespie",69,"Tucson","AZ","30K-60K","2021-04-27","Mass Market",772.83,0.32
+"CUST00602","Jennifer Simpson DVM",32,"Mesa","AZ","30K-60K","2016-12-29","High Net Worth",32531.53,0.149
+"CUST00603","Tammy Mcdowell",28,"Austin","TX","60K-100K","2017-08-19","Mass Market",1660.04,0.384
+"CUST00604","Keith Rodriguez",65,"Springfield","IL","30K-60K","2026-01-31","Mass Market",809.91,0.12
+"CUST00605","Mrs. Virginia Daniels",68,"Rochester","NY","150K+","2018-04-10","Mass Market",853.23,0.242
+"CUST00606","Todd Rosales MD",48,"Houston","TX","150K+","2017-12-27","Affluent",9577.99,0.172
+"CUST00607","Brian Martin",53,"Houston","TX","150K+","2016-04-26","Mass Market",1206.40,0.182
+"CUST00608","David Lopez",34,"Los Angeles","CA","30K-60K","2026-04-26","Mass Affluent",3578.79,0.214
+"CUST00609","Rachel Bradley",50,"Chicago","IL","100K-150K","2026-01-20","High Net Worth",18297.99,0.319
+"CUST00610","Casey Chase",49,"San Diego","CA","150K+","2021-04-20","Mass Affluent",3131.70,0.504
+"CUST00611","Samantha Robertson",49,"Allentown","PA","150K+","2018-05-24","Mass Affluent",4546.61,0.474
+"CUST00612","Michael Lopez",28,"Savannah","GA","150K+","2025-06-23","Mass Market",1890.81,0.046
+"CUST00613","Franklin Wright",72,"Atlanta","GA","<30K","2018-04-27","Mass Market",1802.26,0.142
+"CUST00614","David Molina",55,"Phoenix","AZ","60K-100K","2015-02-03","Mass Affluent",3665.68,0.069
+"CUST00615","Elizabeth Sharp",61,"San Francisco","CA","60K-100K","2017-09-26","Mass Market",1926.83,0.073
+"CUST00616","Matthew Schwartz",60,"Naperville","IL","<30K","2015-02-17","Mass Market",1433.55,0.163
+"CUST00617","Bryan Parker",69,"Springfield","IL","60K-100K","2016-03-30","Mass Affluent",4409.17,0.136
+"CUST00618","Jonathan Jacobson",19,"Columbus","OH","100K-150K","2019-09-02","Mass Market",927.40,0.596
+"CUST00619","Emily Wilson",69,"Cincinnati","OH","60K-100K","2021-12-15","Affluent",9231.40,0.148
+"CUST00620","Elizabeth Mendez",35,"Cleveland","OH","30K-60K","2024-06-27","Mass Market",1052.35,0.267
+"CUST00621","Casey Hernandez",32,"Augusta","GA","60K-100K","2018-06-24","High Net Worth",31180.63,0.186
+"CUST00622","Lisa Perry",80,"Chicago","IL","30K-60K","2017-11-12","Mass Affluent",2994.61,0.24
+"CUST00623","Kaitlin Medina",50,"Charlotte","NC","60K-100K","2024-07-12","Mass Market",1580.46,0.657
+"CUST00624","Colleen Wright",68,"Atlanta","GA","<30K","2019-02-01","Affluent",9746.26,0.324
+"CUST00625","Shelley Miller",69,"Augusta","GA","100K-150K","2020-12-11","Mass Market",1715.01,0.128
+"CUST00626","Michael Miller",43,"Los Angeles","CA","60K-100K","2017-08-13","Mass Market",1190.24,0.183
+"CUST00627","Amy Kelley",70,"Naperville","IL","150K+","2023-02-03","Mass Affluent",4700.41,0.077
+"CUST00628","Laura Hernandez",31,"Miami","FL","60K-100K","2025-10-16","Mass Affluent",3743.15,0.466
+"CUST00629","Joseph Wilson",48,"Atlanta","GA","30K-60K","2024-06-18","Mass Market",728.63,0.406
+"CUST00630","Kevin Davis",30,"Phoenix","AZ","100K-150K","2021-08-12","Mass Affluent",2203.69,0.018
+"CUST00631","Rhonda Chavez",55,"Augusta","GA","30K-60K","2021-07-10","Mass Market",1270.03,0.248
+"CUST00632","Joyce Brown",51,"Miami","FL","30K-60K","2015-06-05","Mass Market",595.27,0.337
+"CUST00633","Robert Cummings",32,"Pittsburgh","PA","100K-150K","2026-05-21","Mass Market",1008.73,0.29
+"CUST00634","Robert Reese",63,"Naperville","IL","100K-150K","2023-10-03","High Net Worth",31827.68,0.312
+"CUST00635","Amber Cooper",36,"Phoenix","AZ","<30K","2016-12-07","Mass Affluent",2797.94,0.365
+"CUST00636","Zachary Michael",31,"Chicago","IL","30K-60K","2016-01-21","High Net Worth",21520.20,0.251
+"CUST00637","Timothy Johnson",45,"Austin","TX","<30K","2017-07-22","Mass Affluent",2896.38,0.209
+"CUST00638","Randy Cannon",75,"Raleigh","NC","100K-150K","2018-05-23","Affluent",11438.61,0.517
+"CUST00639","Maria Fisher",28,"Charlotte","NC","100K-150K","2017-08-25","Affluent",7413.29,0.192
+"CUST00640","Janet Kane DVM",59,"Dallas","TX","<30K","2023-02-27","Mass Market",1772.89,0.189
+"CUST00641","Michael Stanley",36,"Savannah","GA","30K-60K","2026-04-30","Mass Market",1572.80,0.323
+"CUST00642","Martha Bailey",68,"Raleigh","NC","30K-60K","2020-02-13","Mass Market",1877.03,0.579
+"CUST00643","Joshua Rice",27,"Sacramento","CA","60K-100K","2015-03-23","Mass Affluent",2278.32,0.153
+"CUST00644","Courtney Smith",60,"Columbus","OH","<30K","2018-05-21","Affluent",11684.47,0.397
+"CUST00645","Edwin Nunez",62,"Cincinnati","OH","30K-60K","2021-10-29","Mass Affluent",3376.63,0.459
+"CUST00646","Kim Morrow",59,"Cleveland","OH","60K-100K","2019-08-08","Affluent",11563.69,0.177
+"CUST00647","Gregory Hill",23,"Tampa","FL","30K-60K","2015-10-30","Mass Affluent",4875.52,0.302
+"CUST00648","Molly Rodriguez",28,"Allentown","PA","100K-150K","2015-07-11","Mass Market",1388.76,0.13
+"CUST00649","Jennifer Miranda",71,"Houston","TX","60K-100K","2023-05-14","Mass Market",685.72,0.452
+"CUST00650","Alexis Harris",39,"Sacramento","CA","150K+","2020-04-18","Affluent",11090.38,0.347
+"CUST00651","Andrew Harper",26,"Mesa","AZ","30K-60K","2023-06-21","Mass Affluent",3311.39,0.369
+"CUST00652","Amber Yang",23,"Cleveland","OH","100K-150K","2017-01-25","Mass Market",1214.38,0.254
+"CUST00653","David Robinson",73,"Raleigh","NC","60K-100K","2020-11-30","Mass Affluent",5986.05,0.312
+"CUST00654","Amy Gordon",50,"Buffalo","NY","60K-100K","2017-11-07","Mass Affluent",5872.13,0.239
+"CUST00655","Robert Dennis",78,"San Diego","CA","<30K","2023-04-14","Affluent",13670.86,0.139
+"CUST00656","Kyle Chambers",37,"Austin","TX","60K-100K","2023-05-26","Mass Market",1686.81,0.276
+"CUST00657","Eric Thomas",29,"Chicago","IL","60K-100K","2025-12-18","Mass Market",601.35,0.082
+"CUST00658","Connie Turner",48,"Pittsburgh","PA","60K-100K","2017-12-23","Affluent",10148.43,0.183
+"CUST00659","Travis Hobbs",32,"Cleveland","OH","<30K","2023-11-14","Mass Market",1505.67,0.433
+"CUST00660","Lori Simmons",53,"San Francisco","CA","<30K","2017-10-11","Mass Affluent",5820.67,0.234
+"CUST00661","William David DDS",60,"Los Angeles","CA","30K-60K","2019-01-12","High Net Worth",20145.12,0.473
+"CUST00662","Emma Butler",38,"Durham","NC","60K-100K","2024-01-05","Mass Affluent",5735.40,0.484
+"CUST00663","James Webster",23,"Cleveland","OH","60K-100K","2017-07-28","High Net Worth",22133.79,0.229
+"CUST00664","Samuel Turner",57,"New York","NY","60K-100K","2022-04-18","Mass Market",947.04,0.042
+"CUST00665","Renee Melendez",33,"San Diego","CA","100K-150K","2020-04-21","Mass Affluent",3540.19,0.274
+"CUST00666","Tracy Grant",35,"Miami","FL","60K-100K","2017-04-11","Mass Market",1677.82,0.355
+"CUST00667","David Harris",41,"Orlando","FL","60K-100K","2018-10-09","Affluent",9813.77,0.004
+"CUST00668","Tammy Boone",21,"New York","NY","30K-60K","2025-10-25","Mass Market",1520.00,0.204
+"CUST00669","Nathaniel Lee",22,"Durham","NC","60K-100K","2021-09-28","Mass Market",1745.75,0.41
+"CUST00670","Michael Morrison",34,"Allentown","PA","60K-100K","2025-02-25","Mass Market",982.46,0.191
+"CUST00671","Chelsea Gill",56,"New York","NY","<30K","2025-09-08","Mass Market",760.30,0.316
+"CUST00672","Kristin Mendoza",52,"Houston","TX","100K-150K","2015-09-11","Affluent",10006.59,0.132
+"CUST00673","Felicia Krueger",71,"Columbus","OH","30K-60K","2015-03-11","Mass Market",789.49,0.018
+"CUST00674","Timothy Hayden",23,"Philadelphia","PA","30K-60K","2021-10-19","Affluent",14821.07,0.441
+"CUST00675","Zachary Mendoza",28,"Raleigh","NC","60K-100K","2019-05-07","Mass Affluent",4729.53,0.469
+"CUST00676","Larry Harris",72,"Naperville","IL","60K-100K","2020-02-11","Affluent",8468.95,0.366
+"CUST00677","Kristen Rowe",45,"San Francisco","CA","60K-100K","2024-02-16","Mass Market",1199.88,0.284
+"CUST00678","Joseph Howard",18,"Savannah","GA","<30K","2023-10-16","Mass Market",1357.73,0.101
+"CUST00679","Jose Crawford",37,"Albany","NY","<30K","2016-05-29","Mass Affluent",3919.87,0.436
+"CUST00680","William Harrison",24,"Chicago","IL","30K-60K","2025-08-15","Mass Market",581.65,0.186
+"CUST00681","Suzanne Wood",25,"Augusta","GA","100K-150K","2016-12-01","High Net Worth",24434.88,0.517
+"CUST00682","Justin Walker",72,"San Francisco","CA","60K-100K","2023-07-22","Mass Market",1116.66,0.496
+"CUST00683","Dean Donovan",74,"Savannah","GA","150K+","2017-04-09","Mass Market",1674.39,0.367
+"CUST00684","Jennifer Hernandez",22,"Mesa","AZ","<30K","2019-05-06","Affluent",10580.08,0.194
+"CUST00685","James Whitaker",21,"New York","NY","30K-60K","2017-11-11","Mass Market",1939.61,0.279
+"CUST00686","Mr. Michael Scott PhD",37,"Rochester","NY","150K+","2022-09-10","Mass Market",1276.52,0.462
+"CUST00687","Maria Henry",45,"Charlotte","NC","30K-60K","2022-09-17","Mass Market",1862.75,0.401
+"CUST00688","Robert Jackson",62,"Augusta","GA","60K-100K","2022-06-05","Affluent",9020.94,0.334
+"CUST00689","Katherine Stark",32,"Sacramento","CA","60K-100K","2015-01-31","Mass Affluent",3866.15,0.112
+"CUST00690","Maria Brown",43,"Columbus","OH","<30K","2019-02-18","Affluent",6089.03,0.342
+"CUST00691","Ryan Landry",20,"Tucson","AZ","30K-60K","2015-09-01","Mass Market",828.42,0.26
+"CUST00692","Pamela Gutierrez",19,"Chicago","IL","100K-150K","2018-01-29","Mass Market",666.45,0.141
+"CUST00693","Crystal Mann",74,"Tucson","AZ","100K-150K","2016-06-19","Mass Market",696.19,0.116
+"CUST00694","Jonathan Brooks",33,"Cincinnati","OH","60K-100K","2016-01-14","Affluent",13689.92,0.259
+"CUST00695","Mary Jensen",72,"Chicago","IL","100K-150K","2026-05-26","High Net Worth",20230.94,0.073
+"CUST00696","Mr. Aaron Arnold",66,"Raleigh","NC","60K-100K","2026-06-03","Mass Market",768.50,0.409
+"CUST00697","Joseph Hill",55,"Savannah","GA","100K-150K","2023-12-29","Mass Affluent",4598.95,0.164
+"CUST00698","Alicia Li",45,"Tampa","FL","150K+","2023-06-17","Mass Affluent",3496.43,0.499
+"CUST00699","Renee Browning",55,"Philadelphia","PA","60K-100K","2015-12-04","Mass Affluent",3704.41,0.188
+"CUST00700","Brent Hernandez",29,"Columbus","OH","60K-100K","2024-11-27","Mass Market",1038.64,0.089
+"CUST00701","Joseph Ochoa",24,"Chicago","IL","<30K","2017-08-29","Mass Market",800.46,0.19
+"CUST00702","James Watson",63,"Chicago","IL","100K-150K","2018-02-03","High Net Worth",33495.53,0.138
+"CUST00703","Karl Branch",66,"Cincinnati","OH","60K-100K","2015-04-08","Mass Affluent",5044.64,0.181
+"CUST00704","Michael Abbott",51,"Atlanta","GA","60K-100K","2025-07-06","Mass Affluent",5167.66,0.145
+"CUST00705","Shannon Malone",46,"Jacksonville","FL","60K-100K","2015-09-04","Mass Market",692.52,0.536
+"CUST00706","James Tran",52,"Cincinnati","OH","<30K","2021-09-20","Mass Market",1678.04,0.32
+"CUST00707","Adam Jackson",78,"Columbus","OH","30K-60K","2023-10-06","Mass Market",1212.17,0.18
+"CUST00708","Mr. Richard Knight PhD",61,"New York","NY","60K-100K","2018-12-26","Mass Market",1232.92,0.203
+"CUST00709","Joseph Williams",21,"San Antonio","TX","30K-60K","2023-04-08","Mass Affluent",5438.83,0.394
+"CUST00710","Sean Clay",22,"Augusta","GA","100K-150K","2023-09-22","High Net Worth",18248.31,0.12
+"CUST00711","Anthony Jones",78,"Mesa","AZ","60K-100K","2021-12-17","Mass Affluent",4739.34,0.14
+"CUST00712","Stephanie Elliott",76,"Raleigh","NC","60K-100K","2026-01-04","Mass Affluent",4949.16,0.201
+"CUST00713","Timothy Edwards",57,"Springfield","IL","30K-60K","2018-12-05","Mass Market",1426.60,0.215
+"CUST00714","Laurie Goodwin",62,"San Antonio","TX","100K-150K","2015-12-24","Mass Market",910.66,0.196
+"CUST00715","Jennifer Jones",44,"Jacksonville","FL","<30K","2017-09-20","High Net Worth",17630.61,0.459
+"CUST00716","David Davenport",47,"Charlotte","NC","60K-100K","2015-08-07","Mass Market",1624.60,0.143
+"CUST00717","Steven Rivera",25,"San Francisco","CA","60K-100K","2018-01-23","Mass Market",1227.14,0.115
+"CUST00718","Brenda Hinton",70,"Rochester","NY","30K-60K","2021-04-05","Affluent",6162.60,0.097
+"CUST00719","Kathryn Mccann",61,"Houston","TX","30K-60K","2021-02-16","Mass Market",825.01,0.082
+"CUST00720","Jeffrey Roberson",60,"Durham","NC","30K-60K","2017-04-22","Mass Market",578.62,0.012
+"CUST00721","Randy Friedman",30,"Philadelphia","PA","<30K","2017-01-18","Mass Market",521.84,0.703
+"CUST00722","Raymond Johnson",64,"Dallas","TX","60K-100K","2018-09-30","Mass Market",1723.44,0.18
+"CUST00723","Willie Henry",25,"Cleveland","OH","30K-60K","2020-03-18","Mass Market",760.43,0.27
+"CUST00724","Todd Reynolds",59,"Austin","TX","100K-150K","2023-04-11","Mass Market",1116.65,0.338
+"CUST00725","Mary Miller",34,"Phoenix","AZ","150K+","2017-02-15","Mass Affluent",4785.26,0.319
+"CUST00726","Rebecca Marquez",48,"Allentown","PA","60K-100K","2016-07-07","Mass Market",1377.56,0.311
+"CUST00727","Christian Dawson",19,"San Diego","CA","60K-100K","2017-10-13","Mass Market",1635.87,0.386
+"CUST00728","Nancy Stewart",31,"Rochester","NY","60K-100K","2015-11-07","Mass Market",1982.83,0.395
+"CUST00729","Aaron Parker",59,"Sacramento","CA","30K-60K","2021-06-21","Affluent",12595.86,0.416
+"CUST00730","Derrick Anderson",56,"Orlando","FL","30K-60K","2023-07-23","Mass Affluent",4519.13,0.14
+"CUST00731","Jerry Peters",33,"Charlotte","NC","60K-100K","2026-05-19","Mass Market",967.19,0.537
+"CUST00732","Alexander Gomez",46,"Naperville","IL","100K-150K","2019-07-08","Mass Market",620.02,0.136
+"CUST00733","Kyle Nguyen",19,"Rochester","NY","<30K","2023-07-22","Mass Market",1859.69,0.186
+"CUST00734","Edgar Hughes",37,"Cleveland","OH","60K-100K","2025-03-04","Mass Market",1221.27,0.3
+"CUST00735","Steven Stein",73,"Los Angeles","CA","30K-60K","2026-03-25","Mass Affluent",3618.22,0.188
+"CUST00736","Laura Jackson",55,"Naperville","IL","<30K","2016-08-06","Mass Market",1882.40,0.329
+"CUST00737","Charles Turner",40,"Naperville","IL","60K-100K","2026-06-06","Mass Affluent",3472.72,0.081
+"CUST00738","Arthur Hamilton MD",76,"Atlanta","GA","60K-100K","2023-02-08","Mass Affluent",4789.89,0.375
+"CUST00739","Mr. David Wright",56,"Chicago","IL","100K-150K","2018-08-15","Mass Market",1466.60,0.323
+"CUST00740","Linda Gonzalez",71,"Columbus","OH","30K-60K","2024-07-28","Mass Market",1951.53,0.434
+"CUST00741","Eric Rush",58,"Houston","TX","30K-60K","2022-09-22","Affluent",7885.73,0.431
+"CUST00742","Manuel Brock",44,"Cincinnati","OH","30K-60K","2021-06-20","Mass Affluent",3498.61,0.521
+"CUST00743","George Ochoa",70,"Augusta","GA","<30K","2019-10-08","Mass Market",774.09,0.395
+"CUST00744","Valerie Taylor",36,"New York","NY","30K-60K","2016-12-03","Mass Market",1013.23,0.278
+"CUST00745","Travis Harris",66,"San Francisco","CA","100K-150K","2015-03-01","Mass Affluent",2167.44,0.181
+"CUST00746","Vincent Novak",48,"Springfield","IL","30K-60K","2022-07-23","Mass Affluent",4727.44,0.288
+"CUST00747","Michael Henry",57,"Cleveland","OH","100K-150K","2016-04-13","High Net Worth",35156.76,0.016
+"CUST00748","Dana Bennett",56,"New York","NY","30K-60K","2017-10-03","Affluent",12293.38,0.353
+"CUST00749","Jenna Wilson",58,"Miami","FL","30K-60K","2022-03-24","Mass Market",568.63,0.287
+"CUST00750","Leslie Gardner",45,"Austin","TX","100K-150K","2025-09-05","High Net Worth",37630.07,0.536
+"CUST00751","Krista Benton",68,"Durham","NC","60K-100K","2026-04-26","Mass Market",630.63,0.329
+"CUST00752","Michael Gonzales",52,"Augusta","GA","30K-60K","2020-05-27","Mass Market",1916.31,0.433
+"CUST00753","Michael Fuentes",48,"Naperville","IL","150K+","2017-10-05","Mass Affluent",4534.19,0.331
+"CUST00754","Jennifer Porter",22,"Mesa","AZ","60K-100K","2022-09-12","Mass Market",1604.00,0.218
+"CUST00755","Dana Hopkins",34,"Orlando","FL","<30K","2017-08-05","Mass Market",1010.36,0.485
+"CUST00756","Rachel Jones",65,"Cincinnati","OH","60K-100K","2015-01-14","Mass Market",784.79,0.17
+"CUST00757","Karen Morales DDS",24,"Buffalo","NY","100K-150K","2023-11-13","Mass Market",973.89,0.256
+"CUST00758","Melissa Stephens",37,"San Francisco","CA","<30K","2026-04-08","High Net Worth",39921.22,0.282
+"CUST00759","Heather Woodard",80,"Columbus","OH","60K-100K","2022-06-22","Mass Market",1772.10,0.323
+"CUST00760","Margaret Miller",70,"Cleveland","OH","60K-100K","2018-07-28","High Net Worth",23435.25,0.296
+"CUST00761","Mary Kelly",36,"Durham","NC","30K-60K","2021-05-02","Mass Affluent",5425.01,0.177
+"CUST00762","Amanda Terrell",47,"San Francisco","CA","30K-60K","2018-09-02","Mass Affluent",3929.77,0.271
+"CUST00763","Jennifer Goodwin",61,"Cleveland","OH","<30K","2018-10-10","Affluent",14767.43,0.295
+"CUST00764","Jessica Smith",33,"Los Angeles","CA","60K-100K","2023-11-24","Mass Affluent",5818.22,0.305
+"CUST00765","Jorge Stone",73,"San Antonio","TX","60K-100K","2023-07-28","Mass Market",1050.98,0.114
+"CUST00766","Laura Griffin",19,"Charlotte","NC","60K-100K","2025-10-03","Mass Market",1691.52,0.121
+"CUST00767","Raymond Chapman",24,"Phoenix","AZ","100K-150K","2022-04-18","Mass Market",1692.84,0.384
+"CUST00768","Haley Johnson",49,"Durham","NC","60K-100K","2016-06-07","Mass Affluent",4855.00,0.4
+"CUST00769","Jason Nixon",69,"Raleigh","NC","<30K","2022-01-18","Mass Market",809.34,0.157
+"CUST00770","Todd Thomas",18,"Cincinnati","OH","150K+","2020-07-27","Mass Market",1279.16,0.474
+"CUST00771","Jesse Clark",76,"Allentown","PA","60K-100K","2022-11-24","Mass Affluent",4751.72,0.101
+"CUST00772","Mr. Jeffrey Horton",35,"Tucson","AZ","30K-60K","2017-11-18","Mass Affluent",4199.39,0.274
+"CUST00773","Eric Patrick",45,"Naperville","IL","<30K","2018-03-19","Mass Affluent",4930.70,0.123
+"CUST00774","Samuel Wong",44,"Phoenix","AZ","100K-150K","2018-06-11","Mass Market",1068.41,0.148
+"CUST00775","Carly Riggs",23,"Allentown","PA","100K-150K","2023-02-20","Affluent",7316.97,0.144
+"CUST00776","Christopher Moore",51,"Dallas","TX","100K-150K","2021-11-16","Mass Affluent",2382.16,0.276
+"CUST00777","Tina Hall",28,"Houston","TX","30K-60K","2022-02-18","High Net Worth",23629.32,0.413
+"CUST00778","Cody Davidson",55,"Cleveland","OH","60K-100K","2017-11-11","Mass Market",1569.83,0.347
+"CUST00779","Allen Mendez",67,"Allentown","PA","30K-60K","2020-08-02","Mass Affluent",3831.15,0.266
+"CUST00780","Kevin Price",78,"Cincinnati","OH","100K-150K","2020-02-18","Mass Market",1921.18,0.41
+"CUST00781","Christine Goodwin",28,"Miami","FL","30K-60K","2016-04-15","Mass Market",1894.38,0.237
+"CUST00782","Amy Garcia",18,"San Antonio","TX","60K-100K","2019-04-07","Affluent",12427.44,0.489
+"CUST00783","Chelsea Nguyen",56,"Durham","NC","150K+","2015-12-13","Mass Affluent",4698.09,0.101
+"CUST00784","Dennis Huffman",49,"Sacramento","CA","150K+","2023-07-03","Mass Market",1006.94,0.257
+"CUST00785","Margaret Harper",48,"Springfield","IL","<30K","2021-08-01","Mass Market",1446.76,0.117
+"CUST00786","Laurie Bailey",77,"Charlotte","NC","100K-150K","2025-05-21","Affluent",6517.47,0.027
+"CUST00787","Lisa Cervantes",29,"Allentown","PA","<30K","2024-01-07","Mass Market",1238.07,0.152
+"CUST00788","Elizabeth Mendez",27,"Atlanta","GA","30K-60K","2020-08-11","Mass Market",948.93,0.269
+"CUST00789","Cesar Wilson",40,"Buffalo","NY","100K-150K","2024-09-25","Mass Market",1563.83,0.183
+"CUST00790","Clayton Steele",28,"Philadelphia","PA","150K+","2019-06-19","High Net Worth",39573.22,0.112
+"CUST00791","Jennifer Taylor",66,"Albany","NY","150K+","2023-12-20","Mass Affluent",5372.25,0.351
+"CUST00792","Cody Reid",61,"Miami","FL","60K-100K","2022-09-03","Mass Market",512.04,0.46
+"CUST00793","Maria Cooke",64,"Phoenix","AZ","30K-60K","2026-06-20","Mass Market",672.53,0.149
+"CUST00794","Katherine Taylor",68,"Augusta","GA","60K-100K","2017-04-24","Mass Affluent",2724.75,0.507
+"CUST00795","Jerry Brown",45,"Orlando","FL","<30K","2015-05-25","Mass Affluent",2203.82,0.212
+"CUST00796","Adam Taylor",48,"Pittsburgh","PA","60K-100K","2016-05-17","Mass Affluent",3217.16,0.216
+"CUST00797","Tracey Wagner",29,"Philadelphia","PA","60K-100K","2015-12-01","Mass Market",982.46,0.169
+"CUST00798","Michael Perry PhD",41,"Springfield","IL","<30K","2022-07-01","Mass Market",520.49,0.363
+"CUST00799","Bradley Johnson DDS",67,"Allentown","PA","30K-60K","2023-05-03","Mass Market",1376.49,0.08
+"CUST00800","Donald Medina",30,"San Diego","CA","<30K","2024-12-30","Affluent",10919.21,0.307
+"CUST00801","Jim Newton",80,"Naperville","IL","30K-60K","2022-10-16","Affluent",12455.93,0.248
+"CUST00802","Krista Wilson",62,"Tucson","AZ","150K+","2017-11-22","Mass Market",591.19,0.474
+"CUST00803","Reginald Morrow",46,"Dallas","TX","100K-150K","2026-06-04","Mass Market",1101.27,0.282
+"CUST00804","Rodney Williams",50,"Sacramento","CA","30K-60K","2020-10-21","Mass Market",1562.38,0.554
+"CUST00805","Kimberly Fritz",78,"San Diego","CA","30K-60K","2021-03-25","Affluent",13115.59,0.251
+"CUST00806","Ronald Potter",58,"San Francisco","CA","150K+","2023-04-12","Mass Market",1825.98,0.137
+"CUST00807","Zachary Cole",52,"Chicago","IL","60K-100K","2017-05-21","Mass Affluent",5782.63,0.159
+"CUST00808","Robert Gonzales",38,"Atlanta","GA","60K-100K","2021-01-10","Mass Market",1787.33,0.184
+"CUST00809","Patricia Young PhD",23,"Rochester","NY","30K-60K","2026-02-14","Mass Market",1793.53,0.11
+"CUST00810","Heather Page",28,"San Francisco","CA","60K-100K","2018-12-26","Affluent",7690.63,0.132
+"CUST00811","Carol Taylor",64,"Columbus","OH","100K-150K","2018-01-29","Mass Affluent",4413.17,0.151
+"CUST00812","Daniel Brown",33,"San Diego","CA","150K+","2016-11-15","Mass Market",1399.46,0.344
+"CUST00813","Douglas Ryan",26,"Dallas","TX","100K-150K","2025-10-10","Affluent",13339.18,0.267
+"CUST00814","Michael Roberts",52,"Naperville","IL","<30K","2017-10-05","Mass Market",1316.96,0.147
+"CUST00815","Scott Duke",40,"Columbus","OH","100K-150K","2021-06-07","Mass Market",1077.12,0.72
+"CUST00816","Anna Estes",24,"Dallas","TX","60K-100K","2021-04-27","Mass Market",677.53,0.451
+"CUST00817","Tamara Riddle",51,"Rochester","NY","60K-100K","2022-07-06","Mass Affluent",2600.88,0.266
+"CUST00818","Beth Cline",76,"Austin","TX","150K+","2026-03-13","Mass Affluent",5242.88,0.02
+"CUST00819","Michael Poole",42,"Philadelphia","PA","100K-150K","2025-01-07","Mass Affluent",3913.73,0.159
+"CUST00820","Megan Burns",40,"Rochester","NY","60K-100K","2022-02-28","Mass Affluent",5891.40,0.483
+"CUST00821","Debra Perry",44,"Jacksonville","FL","60K-100K","2026-02-24","Mass Affluent",4144.85,0.128
+"CUST00822","Mark Beard",33,"Miami","FL","150K+","2023-02-11","Mass Market",525.73,0.36
+"CUST00823","Jose Ramirez",47,"Albany","NY","60K-100K","2018-03-26","Affluent",14382.08,0.335
+"CUST00824","Jackie Clements",42,"Dallas","TX","30K-60K","2015-08-04","Mass Affluent",2216.33,0.108
+"CUST00825","Aaron Schroeder",27,"New York","NY","30K-60K","2023-03-12","Mass Market",518.72,0.592
+"CUST00826","Monica Ellis",44,"Springfield","IL","60K-100K","2022-07-26","Mass Market",519.81,0.486
+"CUST00827","Heather Brown",61,"Cleveland","OH","100K-150K","2025-03-10","Mass Affluent",5676.60,0.308
+"CUST00828","Claudia Jordan",80,"San Antonio","TX","30K-60K","2017-10-22","Mass Affluent",2223.99,0.415
+"CUST00829","Derrick Clayton",59,"Savannah","GA","30K-60K","2024-02-01","Affluent",13230.05,0.534
+"CUST00830","Kenneth Knight",19,"Tucson","AZ","60K-100K","2020-05-16","Mass Market",597.98,0.396
+"CUST00831","Mr. Michael Williams",35,"San Diego","CA","60K-100K","2016-11-27","High Net Worth",29093.48,0.258
+"CUST00832","Richard Stevens",66,"Tampa","FL","150K+","2023-10-06","Mass Affluent",4810.63,0.072
+"CUST00833","Scott Alexander",55,"New York","NY","100K-150K","2023-07-28","Mass Affluent",2149.63,0.259
+"CUST00834","Tyler Harris",69,"Orlando","FL","30K-60K","2018-02-27","Affluent",14673.01,0.252
+"CUST00835","Bonnie Santos",68,"Pittsburgh","PA","30K-60K","2017-12-10","Mass Market",1783.93,0.184
+"CUST00836","Timothy Hill",79,"Miami","FL","150K+","2018-06-02","Mass Affluent",2389.62,0.044
+"CUST00837","Danielle Watson",24,"San Antonio","TX","150K+","2025-03-14","Mass Market",742.21,0.335
+"CUST00838","Carol Sanders",48,"Savannah","GA","30K-60K","2020-09-28","Affluent",14317.45,0.665
+"CUST00839","Michael Young",44,"Springfield","IL","60K-100K","2017-11-22","Mass Market",1436.95,0.222
+"CUST00840","Michele Smith",65,"Los Angeles","CA","60K-100K","2020-06-28","Mass Affluent",2618.25,0.096
+"CUST00841","Casey Perez",73,"Jacksonville","FL","30K-60K","2025-05-14","Mass Affluent",3873.95,0.466
+"CUST00842","Alexandra Dominguez",67,"San Antonio","TX","30K-60K","2024-09-18","Mass Market",975.93,0.474
+"CUST00843","Virginia Henderson",27,"Rochester","NY","<30K","2019-10-15","Mass Market",1401.62,0.267
+"CUST00844","Benjamin Reyes",21,"Atlanta","GA","150K+","2019-09-29","Affluent",12153.04,0.333
+"CUST00845","Ashley Edwards",37,"Columbus","OH","60K-100K","2025-02-15","Affluent",12026.80,0.319
+"CUST00846","Breanna Ayala",28,"Pittsburgh","PA","30K-60K","2019-06-15","Mass Market",1213.25,0.324
+"CUST00847","Brandi Haney",70,"Tucson","AZ","100K-150K","2015-03-23","Mass Affluent",2794.24,0.557
+"CUST00848","Joseph Smith",27,"Philadelphia","PA","60K-100K","2025-04-15","High Net Worth",22910.20,0.55
+"CUST00849","Jessica Bowen",58,"Atlanta","GA","60K-100K","2025-01-28","Mass Affluent",2145.94,0.361
+"CUST00850","Brittany Jenkins",31,"Tucson","AZ","30K-60K","2022-10-22","Mass Market",1519.44,0.275
+"CUST00851","Shannon Miller",59,"San Antonio","TX","30K-60K","2025-03-24","Mass Market",1742.28,0.297
+"CUST00852","Paul Lawrence",41,"Savannah","GA","30K-60K","2018-12-20","Mass Affluent",3743.50,0.155
+"CUST00853","Victor Edwards",23,"Phoenix","AZ","<30K","2017-04-30","Mass Market",1898.75,0.089
+"CUST00854","Donald Miller",55,"Augusta","GA","100K-150K","2015-09-25","Mass Affluent",2847.48,0.619
+"CUST00855","Lindsay Lawson",79,"Austin","TX","100K-150K","2025-05-28","Mass Market",1555.75,0.288
+"CUST00856","Melissa Abbott",71,"Springfield","IL","<30K","2024-04-20","Mass Affluent",5636.24,0.456
+"CUST00857","Elizabeth Holmes",28,"Pittsburgh","PA","150K+","2024-08-23","Mass Market",788.99,0.262
+"CUST00858","Nicole Phillips",80,"Rochester","NY","30K-60K","2018-11-24","Mass Market",737.67,0.276
+"CUST00859","Steven Blevins",71,"Tucson","AZ","30K-60K","2020-11-01","Affluent",8901.64,0.051
+"CUST00860","Brian Porter MD",54,"Charlotte","NC","60K-100K","2023-07-30","Mass Market",1975.12,0.473
+"CUST00861","Vanessa Hatfield",30,"Tampa","FL","100K-150K","2020-07-02","Mass Affluent",3512.43,0.328
+"CUST00862","Bonnie Valencia",25,"Los Angeles","CA","<30K","2025-04-19","Affluent",7276.52,0.334
+"CUST00863","Holly Vega",24,"Jacksonville","FL","30K-60K","2026-01-05","Affluent",10378.66,0.375
+"CUST00864","Tiffany Townsend",29,"Atlanta","GA","30K-60K","2021-09-13","Mass Market",1350.94,0.13
+"CUST00865","Austin Baker",56,"Augusta","GA","60K-100K","2015-02-11","Mass Market",1889.87,0.075
+"CUST00866","Antonio Mccormick",19,"Dallas","TX","<30K","2022-05-07","Mass Market",1537.40,0.173
+"CUST00867","Lori Mason",36,"Durham","NC","60K-100K","2025-06-23","Mass Affluent",4050.63,0.348
+"CUST00868","Michael Miller",24,"Springfield","IL","30K-60K","2021-12-27","Mass Market",1583.09,0.231
+"CUST00869","Lisa Ramirez",24,"Allentown","PA","60K-100K","2023-08-04","Mass Market",1060.94,0.483
+"CUST00870","Jorge Harris",55,"Raleigh","NC","100K-150K","2024-03-11","Mass Market",1467.65,0.064
+"CUST00871","Kimberly Myers",22,"Philadelphia","PA","30K-60K","2019-10-29","Mass Affluent",5118.06,0.118
+"CUST00872","Sandra Becker",42,"Miami","FL","60K-100K","2021-05-12","Mass Affluent",2411.68,0.105
+"CUST00873","Michael Blair",61,"San Antonio","TX","30K-60K","2024-10-05","Mass Market",795.68,0.633
+"CUST00874","Amy Miller",42,"Allentown","PA","30K-60K","2020-04-20","Mass Affluent",4574.67,0.391
+"CUST00875","Jesse Lynch",20,"Durham","NC","<30K","2022-07-26","Mass Affluent",2380.48,0.554
+"CUST00876","Patrick Yang",53,"Columbus","OH","<30K","2022-01-09","Mass Affluent",3193.78,0.242
+"CUST00877","Michael Miles",32,"Houston","TX","<30K","2016-01-27","Affluent",14941.86,0.634
+"CUST00878","Troy Mills",18,"Allentown","PA","100K-150K","2016-03-06","Mass Market",666.21,0.14
+"CUST00879","Michelle Jackson",55,"Buffalo","NY","30K-60K","2025-05-02","Mass Market",722.00,0.192
+"CUST00880","Richard Adams",54,"Dallas","TX","150K+","2025-09-20","Mass Affluent",3287.65,0.501
+"CUST00881","Patricia Johnson",53,"Austin","TX","60K-100K","2020-06-08","Mass Affluent",2823.56,0.129
+"CUST00882","Denise Brown",24,"Jacksonville","FL","60K-100K","2022-08-20","Mass Market",1291.47,0.596
+"CUST00883","Laura Jones",76,"New York","NY","30K-60K","2017-12-01","Mass Market",1962.60,0.232
+"CUST00884","Ian Porter",47,"Dallas","TX","30K-60K","2017-05-27","Mass Affluent",5576.39,0.453
+"CUST00885","Holly Scott",45,"Austin","TX","60K-100K","2019-10-04","Mass Market",1261.89,0.137
+"CUST00886","Kenneth Sharp",36,"Columbus","OH","60K-100K","2019-04-01","Mass Market",1294.34,0.234
+"CUST00887","Jordan Williams",25,"Dallas","TX","60K-100K","2016-03-11","Affluent",8148.90,0.18
+"CUST00888","Dana Ruiz",43,"Cleveland","OH","100K-150K","2017-04-09","Mass Market",1537.53,0.384
+"CUST00889","Chris Velazquez",64,"Tucson","AZ","60K-100K","2015-01-26","Mass Market",1550.71,0.329
+"CUST00890","Kristen Sloan",75,"Albany","NY","<30K","2025-03-18","Mass Market",1211.90,0.274
+"CUST00891","Jennifer Morris",80,"San Francisco","CA","60K-100K","2025-08-17","Mass Affluent",2990.04,0.098
+"CUST00892","Nathan Nelson",66,"Orlando","FL","<30K","2018-04-15","Affluent",13235.03,0.249
+"CUST00893","Jake Shaw",41,"Savannah","GA","30K-60K","2025-04-16","Mass Market",1565.24,0.426
+"CUST00894","Cassie Brock",25,"Tucson","AZ","60K-100K","2021-01-20","Mass Affluent",2082.91,0.37
+"CUST00895","Dr. Andrea Marshall",31,"Cleveland","OH","150K+","2017-01-01","Mass Market",1458.10,0.397
+"CUST00896","Ryan Murphy",34,"Charlotte","NC","30K-60K","2022-10-28","Affluent",9755.65,0.075
+"CUST00897","Aimee Gonzalez",54,"Cleveland","OH","150K+","2022-10-13","Mass Market",1248.39,0.528
+"CUST00898","Elizabeth Dean",60,"Mesa","AZ","30K-60K","2018-08-25","Mass Market",1699.68,0.379
+"CUST00899","Kevin Snyder",60,"Cleveland","OH","<30K","2015-01-06","Mass Market",1818.08,0.606
+"CUST00900","Christie Mccullough",76,"Cincinnati","OH","<30K","2016-10-23","Mass Market",1899.40,0.198
+"CUST00901","Danielle Smith",76,"Austin","TX","30K-60K","2021-10-10","Mass Affluent",3743.27,0.694
+"CUST00902","David Reed",44,"Chicago","IL","<30K","2019-06-23","Mass Market",1350.00,0.391
+"CUST00903","Sherry Tapia",26,"Columbus","OH","60K-100K","2024-11-29","Mass Affluent",4740.65,0.23
+"CUST00904","Matthew Sweeney",76,"Atlanta","GA","30K-60K","2015-08-05","High Net Worth",33896.41,0.434
+"CUST00905","Ashley Moreno",21,"Albany","NY","60K-100K","2023-10-22","Mass Market",1194.21,0.522
+"CUST00906","Johnathan Brown",56,"Austin","TX","60K-100K","2017-03-08","Affluent",12215.34,0.263
+"CUST00907","Michelle Davis DVM",53,"Charlotte","NC","100K-150K","2026-02-09","Mass Market",1459.50,0.099
+"CUST00908","Kelly Haynes",62,"Augusta","GA","<30K","2019-07-03","Mass Market",1405.69,0.167
+"CUST00909","William Miller",43,"Raleigh","NC","30K-60K","2016-03-31","Affluent",10353.48,0.127
+"CUST00910","Casey Wilkins",45,"Phoenix","AZ","30K-60K","2018-04-13","Mass Affluent",5274.20,0.291
+"CUST00911","Keith Graham",36,"Savannah","GA","150K+","2021-06-29","Mass Affluent",3971.86,0.312
+"CUST00912","Cynthia Green",27,"Cleveland","OH","<30K","2015-08-18","Mass Market",1084.14,0.282
+"CUST00913","Robert Haynes",76,"Atlanta","GA","60K-100K","2022-12-15","High Net Worth",33076.63,0.218
+"CUST00914","Emily Nelson",40,"Charlotte","NC","30K-60K","2023-10-05","Mass Affluent",2605.61,0.38
+"CUST00915","Dale Chan",68,"Albany","NY","<30K","2021-10-17","Affluent",13553.93,0.25
+"CUST00916","Brittney Martin",51,"Durham","NC","30K-60K","2020-10-24","Mass Market",1932.79,0.241
+"CUST00917","Jason Herrera",24,"Buffalo","NY","60K-100K","2017-05-20","Mass Affluent",3294.64,0.082
+"CUST00918","Christine Parker",64,"Dallas","TX","30K-60K","2023-08-13","Affluent",6579.33,0.26
+"CUST00919","Bryan Moore",38,"San Diego","CA","30K-60K","2017-05-31","Mass Affluent",5955.48,0.405
+"CUST00920","Samantha Terry",30,"Chicago","IL","60K-100K","2018-08-20","Mass Market",1685.01,0.247
+"CUST00921","Russell Murphy",73,"Mesa","AZ","60K-100K","2016-08-12","Mass Market",1936.62,0.534
+"CUST00922","David Kelly",40,"Augusta","GA","60K-100K","2022-12-30","Mass Affluent",2551.49,0.094
+"CUST00923","Megan Green",68,"Dallas","TX","<30K","2026-08-08","Mass Market",845.86,0.434
+"CUST00924","Amanda Sullivan MD",63,"Springfield","IL","100K-150K","2023-01-10","Mass Market",1952.17,0.049
+"CUST00925","Danielle Murray",43,"Raleigh","NC","100K-150K","2016-04-09","Mass Affluent",4331.09,0.606
+"CUST00926","Brenda Smith",30,"Cleveland","OH","<30K","2022-07-03","Affluent",7838.10,0.656
+"CUST00927","Vickie Anderson",62,"Mesa","AZ","<30K","2015-10-17","Mass Market",1124.36,0.268
+"CUST00928","Jacqueline Mccoy",64,"Albany","NY","60K-100K","2015-12-08","Mass Market",837.87,0.155
+"CUST00929","Lauren Green",77,"Miami","FL","100K-150K","2016-03-29","Mass Market",794.26,0.346
+"CUST00930","Alison Brown",26,"Cincinnati","OH","60K-100K","2024-08-21","Mass Affluent",2462.33,0.135
+"CUST00931","Jill Anderson",23,"Orlando","FL","60K-100K","2015-03-24","Mass Market",1832.50,0.388
+"CUST00932","Sandra Rivera",26,"Houston","TX","<30K","2024-11-01","Mass Market",1024.50,0.438
+"CUST00933","Joel Jackson",25,"Augusta","GA","150K+","2016-09-21","Mass Market",808.79,0.243
+"CUST00934","Samantha Foster",37,"Augusta","GA","30K-60K","2023-03-25","Affluent",11882.79,0.244
+"CUST00935","Michael Thompson",75,"San Francisco","CA","60K-100K","2024-03-19","Mass Affluent",3119.14,0.113
+"CUST00936","Cody Ramirez",70,"Allentown","PA","30K-60K","2018-03-08","Mass Market",1160.42,0.739
+"CUST00937","Amanda Harvey",55,"Springfield","IL","150K+","2023-08-14","Mass Market",589.58,0.042
+"CUST00938","Edward Jenkins",60,"Columbus","OH","60K-100K","2024-09-01","Mass Affluent",2125.22,0.266
+"CUST00939","Amy Ramirez",69,"Pittsburgh","PA","30K-60K","2019-11-09","Affluent",13463.16,0.198
+"CUST00940","Curtis Wilkerson",53,"Los Angeles","CA","150K+","2023-09-15","High Net Worth",22185.46,0.183
+"CUST00941","Lydia Pham",65,"Cleveland","OH","<30K","2020-05-05","Mass Market",1699.38,0.21
+"CUST00942","Virginia Casey",41,"Tucson","AZ","100K-150K","2021-01-10","Mass Affluent",5241.04,0.32
+"CUST00943","Joshua Washington",46,"Chicago","IL","<30K","2025-05-18","Mass Market",555.51,0.21
+"CUST00944","Kathryn Price",35,"Phoenix","AZ","30K-60K","2022-01-16","High Net Worth",21450.17,0.399
+"CUST00945","Francis Robinson",25,"San Diego","CA","60K-100K","2015-11-12","Mass Market",1160.46,0.278
+"CUST00946","Paula Brown",19,"Springfield","IL","<30K","2022-12-04","Mass Affluent",2938.79,0.191
+"CUST00947","Kendra Wang DVM",54,"Tampa","FL","60K-100K","2023-05-01","Affluent",6642.54,0.534
+"CUST00948","Ariel Sandoval",80,"Pittsburgh","PA","30K-60K","2024-02-26","Affluent",14482.32,0.224
+"CUST00949","Robert Stark",24,"New York","NY","60K-100K","2019-09-29","Affluent",13027.86,0.336
+"CUST00950","Zachary Robinson",60,"Phoenix","AZ","150K+","2018-05-14","Mass Market",617.67,0.126
+"CUST00951","Rebecca Kelly",53,"Mesa","AZ","<30K","2024-05-17","Mass Affluent",5513.92,0.415
+"CUST00952","Sarah Thompson",30,"Pittsburgh","PA","30K-60K","2021-07-28","Affluent",13191.05,0.163
+"CUST00953","Renee Wolfe",23,"Cleveland","OH","<30K","2022-11-23","Mass Affluent",3449.19,0.2
+"CUST00954","Alyssa Haynes",67,"Buffalo","NY","60K-100K","2024-02-22","Mass Affluent",4422.18,0.632
+"CUST00955","Kristy Hart",54,"Charlotte","NC","100K-150K","2026-01-31","Mass Affluent",5599.49,0.106
+"CUST00956","William Keith",73,"Dallas","TX","<30K","2015-10-07","Affluent",7502.42,0.081
+"CUST00957","Eric Henry Jr.",26,"Cleveland","OH","30K-60K","2024-01-09","Mass Affluent",3173.57,0.253
+"CUST00958","Daniel Fox",22,"Houston","TX","100K-150K","2022-12-17","High Net Worth",30770.80,0.334
+"CUST00959","Thomas Harris",27,"New York","NY","30K-60K","2015-03-05","Mass Affluent",4597.62,0.229
+"CUST00960","Mitchell Sellers",37,"Dallas","TX","60K-100K","2026-01-24","Mass Market",1845.95,0.347
+"CUST00961","Erica Johnson",79,"Philadelphia","PA","150K+","2018-03-19","Mass Market",1823.58,0.495
+"CUST00962","Sylvia Schroeder",40,"Philadelphia","PA","30K-60K","2021-05-22","Mass Market",1229.95,0.144
+"CUST00963","Shannon Yu",27,"Tampa","FL","100K-150K","2017-02-25","Mass Market",1632.30,0.074
+"CUST00964","Tom Foster",64,"Tucson","AZ","100K-150K","2024-12-23","Mass Affluent",3179.77,0.064
+"CUST00965","Eric Taylor",34,"Cleveland","OH","150K+","2016-12-12","Affluent",12584.70,0.22
+"CUST00966","Travis Conner",28,"Austin","TX","60K-100K","2026-05-16","Mass Market",1603.28,0.317
+"CUST00967","Marie Thompson",24,"Sacramento","CA","60K-100K","2022-02-14","Mass Market",1756.45,0.312
+"CUST00968","Melissa Mcfarland",73,"Tucson","AZ","30K-60K","2019-12-09","Mass Affluent",2605.73,0.561
+"CUST00969","Courtney Chapman",18,"Dallas","TX","60K-100K","2024-09-27","Mass Market",812.82,0.189
+"CUST00970","Eric Barker",58,"Phoenix","AZ","60K-100K","2022-10-27","Mass Affluent",2720.26,0.248
+"CUST00971","Nicholas Rush",40,"Cincinnati","OH","30K-60K","2025-10-15","Mass Market",1944.38,0.325
+"CUST00972","Jenna Gamble",79,"Rochester","NY","30K-60K","2022-02-25","Mass Affluent",3592.36,0.071
+"CUST00973","Amanda Guzman",61,"Tucson","AZ","30K-60K","2020-04-07","Mass Market",822.66,0.266
+"CUST00974","Tracy Walker",43,"Savannah","GA","30K-60K","2020-11-05","Affluent",12553.68,0.263
+"CUST00975","Taylor Taylor",52,"Phoenix","AZ","<30K","2019-08-17","Affluent",14714.30,0.33
+"CUST00976","Cynthia Haas",23,"Sacramento","CA","100K-150K","2022-06-23","Affluent",10976.05,0.412
+"CUST00977","Stephen Davis",73,"Rochester","NY","30K-60K","2020-02-22","Mass Market",1060.82,0.321
+"CUST00978","Margaret Tanner",50,"Los Angeles","CA","<30K","2023-12-04","Affluent",8547.81,0.032
+"CUST00979","Derek Wright",43,"Cincinnati","OH","100K-150K","2017-12-10","Affluent",13757.85,0.066
+"CUST00980","David Rodriguez",65,"Los Angeles","CA","60K-100K","2018-05-28","Mass Market",1086.69,0.395
+"CUST00981","James Oconnor",35,"San Francisco","CA","30K-60K","2025-04-17","Mass Market",1484.08,0.444
+"CUST00982","Stacey Snyder",48,"Raleigh","NC","60K-100K","2021-05-18","Affluent",8201.53,0.043
+"CUST00983","Joshua Garcia",24,"Durham","NC","150K+","2025-02-21","Mass Market",1096.02,0.156
+"CUST00984","Sean Curtis",69,"Philadelphia","PA","30K-60K","2016-11-16","Mass Market",1797.24,0.416
+"CUST00985","Carla Jones",64,"Augusta","GA","60K-100K","2020-03-19","Mass Market",1117.79,0.686
+"CUST00986","Elizabeth Flores",73,"Tucson","AZ","30K-60K","2015-02-15","Mass Market",1343.61,0.291
+"CUST00987","Angela Jackson",64,"Durham","NC","30K-60K","2016-10-29","Affluent",6697.54,0.401
+"CUST00988","Nicholas Payne",74,"Houston","TX","60K-100K","2024-07-06","Mass Affluent",4098.36,0.135
+"CUST00989","Anna Wheeler",36,"San Antonio","TX","60K-100K","2021-01-29","Mass Affluent",3486.53,0.357
+"CUST00990","Karen Johnson",41,"Mesa","AZ","30K-60K","2020-08-20","Mass Affluent",3320.71,0.355
+"CUST00991","Carmen Preston",29,"Pittsburgh","PA","150K+","2018-05-16","Mass Affluent",2022.41,0.582
+"CUST00992","Brian Harris",57,"Houston","TX","<30K","2025-07-06","Mass Affluent",4545.37,0.045
+"CUST00993","Michael Bowen",64,"Cincinnati","OH","100K-150K","2021-11-09","Mass Market",1901.46,0.421
+"CUST00994","Deborah Campbell",35,"Dallas","TX","<30K","2018-12-31","Mass Market",1695.33,0.383
+"CUST00995","Anthony Armstrong",35,"Mesa","AZ","<30K","2025-08-14","Mass Market",847.75,0.14
+"CUST00996","Brittany Ward",38,"Atlanta","GA","<30K","2016-09-29","Affluent",10605.35,0.307
+"CUST00997","Edward Stanley",53,"Dallas","TX","30K-60K","2023-10-27","Mass Market",1211.72,0.196
+"CUST00998","Christina Johnson",78,"Orlando","FL","100K-150K","2021-03-25","Mass Affluent",4241.94,0.232
+"CUST00999","Edgar Miller",40,"Cincinnati","OH","30K-60K","2018-12-29","Mass Market",1199.11,0.482
+"CUST01000","Elizabeth Sanders",41,"Jacksonville","FL","150K+","2019-01-06","High Net Worth",19895.90,0.204

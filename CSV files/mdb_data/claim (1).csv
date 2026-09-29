@@ -1,0 +1,754 @@
+CLAIM_ID,CUSTOMER_ID,POLICY_ID,CLAIM_DATE,CLAIM_TYPE,CLAIM_AMOUNT,CLAIM_STATUS,CLAIM_DESCRIPTION
+CLM00001,CUST00001,POL00001,2021-02-03,Death Benefit,150328.86,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00002,CUST00004,POL00009,2022-07-03,Hospitalization,70665.19,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00003,CUST00004,POL00010,2021-01-18,Fire Damage,133487.26,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00004,CUST00005,POL00011,2022-01-23,Collision,1653.45,Paid,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00005,CUST00006,POL00013,2025-01-18,Water Damage,3864.26,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00006,CUST00008,POL00015,2024-03-29,Storm Damage,102449.71,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00007,CUST00009,POL00016,2019-06-21,Theft,12482.70,Rejected,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00008,CUST00009,POL00016,2019-04-14,Collision,10582.27,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00009,CUST00010,POL00018,2024-01-05,Storm Damage,57371.42,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00010,CUST00010,POL00018,2021-01-15,Liability,25314.32,Approved,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00011,CUST00011,POL00019,2018-06-23,Windshield Damage,3649.55,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00012,CUST00011,POL00020,2022-06-21,Surgery,38406.83,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00013,CUST00013,POL00022,2019-01-25,Windshield Damage,5057.78,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00014,CUST00013,POL00022,2021-12-04,Vandalism,4047.76,Approved,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00015,CUST00015,POL00024,2023-01-06,Fire Damage,2941.10,Under Review,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00016,CUST00015,POL00025,2023-07-04,Storm Damage,14352.60,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00017,CUST00018,POL00029,2020-04-07,Outpatient Treatment,40250.16,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00018,CUST00021,POL00032,2023-11-03,Theft,121507.92,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00019,CUST00022,POL00034,2020-09-19,Diagnostic Test,34878.27,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00020,CUST00023,POL00035,2023-08-30,Vandalism,2659.64,Rejected,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00021,CUST00023,POL00036,2024-06-07,Outpatient Treatment,2139.71,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00022,CUST00024,POL00039,2020-01-08,Collision,735.67,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00023,CUST00026,POL00041,2025-05-01,Terminal Illness Rider,47428.01,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00024,CUST00027,POL00044,2021-08-03,Hit and Run,4848.40,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00025,CUST00028,POL00046,2020-09-17,Water Damage,14935.36,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00026,CUST00030,POL00048,2020-09-09,Hospitalization,65289.88,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00027,CUST00031,POL00049,2020-07-23,Hospitalization,48463.72,Pending Documents,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00028,CUST00031,POL00050,2023-10-21,Hit and Run,8571.25,Rejected,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00029,CUST00031,POL00050,2023-05-03,Hit and Run,9650.39,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00030,CUST00032,POL00051,2019-01-30,Terminal Illness Rider,17591.59,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00031,CUST00032,POL00052,2019-11-10,Storm Damage,65579.65,Pending Documents,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00032,CUST00035,POL00056,2025-07-22,Death Benefit,721.45,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00033,CUST00035,POL00056,2024-08-23,Terminal Illness Rider,16612.81,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00034,CUST00036,POL00057,2022-08-14,Water Damage,82686.88,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00035,CUST00037,POL00058,2024-12-25,Death Benefit,24150.34,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00036,CUST00037,POL00058,2023-04-28,Terminal Illness Rider,32363.25,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00037,CUST00038,POL00059,2023-07-14,Outpatient Treatment,13108.38,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00038,CUST00040,POL00063,2023-09-22,Theft,16767.83,Rejected,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00039,CUST00040,POL00063,2023-03-12,Liability,20685.20,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00040,CUST00041,POL00064,2025-10-20,Liability,13781.12,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00041,CUST00042,POL00065,2023-02-07,Theft,63105.59,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00042,CUST00049,POL00073,2020-04-25,Theft,6512.46,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00043,CUST00051,POL00076,2023-03-08,Liability,3387.21,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00044,CUST00052,POL00077,2022-04-05,Death Benefit,99113.87,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00045,CUST00053,POL00078,2020-12-28,Fire Damage,23405.57,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00046,CUST00058,POL00084,2022-10-10,Terminal Illness Rider,21413.51,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00047,CUST00059,POL00089,2024-03-27,Death Benefit,7222.91,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00048,CUST00059,POL00089,2025-08-12,Terminal Illness Rider,23487.14,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00049,CUST00060,POL00090,2018-03-24,Outpatient Treatment,43889.34,Under Review,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00050,CUST00061,POL00091,2025-03-31,Windshield Damage,4352.71,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00051,CUST00061,POL00091,2021-11-02,Windshield Damage,3117.03,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00052,CUST00064,POL00096,2022-10-23,Liability,5550.53,Under Review,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00053,CUST00065,POL00099,2021-08-08,Windshield Damage,7973.75,Under Review,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00054,CUST00070,POL00104,2021-03-04,Hospitalization,68455.46,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00055,CUST00071,POL00105,2025-06-25,Death Benefit,6127.31,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00056,CUST00071,POL00105,2024-08-28,Death Benefit,1744.74,Pending Documents,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00057,CUST00073,POL00108,2023-01-27,Theft,11068.82,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00058,CUST00073,POL00109,2026-05-05,Theft,5723.15,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00059,CUST00073,POL00109,2025-06-22,Hit and Run,3511.82,Paid,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00060,CUST00077,POL00114,2022-08-22,Diagnostic Test,55000.51,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00061,CUST00078,POL00117,2022-04-15,Windshield Damage,12459.10,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00062,CUST00079,POL00119,2020-02-07,Vandalism,4945.82,Approved,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00063,CUST00079,POL00119,2020-09-29,Collision,5545.26,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00064,CUST00080,POL00120,2023-11-23,Water Damage,554.46,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00065,CUST00081,POL00121,2025-09-18,Fire Damage,76335.17,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00066,CUST00082,POL00123,2022-06-08,Diagnostic Test,67143.99,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00067,CUST00082,POL00123,2021-06-26,Hospitalization,4662.32,Rejected,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00068,CUST00083,POL00124,2023-05-25,Surgery,42511.39,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00069,CUST00089,POL00132,2025-10-20,Fire Damage,17486.57,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00070,CUST00089,POL00132,2025-09-21,Water Damage,79095.25,Under Review,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00071,CUST00089,POL00133,2021-06-30,Outpatient Treatment,46386.45,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00072,CUST00092,POL00136,2019-10-07,Windshield Damage,2698.01,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00073,CUST00094,POL00143,2023-10-06,Windshield Damage,3023.65,Under Review,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00074,CUST00096,POL00148,2022-11-16,Liability,8374.52,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00075,CUST00097,POL00149,2022-07-03,Terminal Illness Rider,25961.39,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00076,CUST00097,POL00150,2023-08-27,Theft,1968.68,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00077,CUST00097,POL00150,2022-07-01,Theft,2785.89,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00078,CUST00101,POL00155,2026-01-01,Outpatient Treatment,41592.19,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00079,CUST00102,POL00157,2019-12-04,Theft,1252.28,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00080,CUST00103,POL00158,2026-01-24,Theft,1918.84,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00081,CUST00105,POL00162,2025-10-28,Liability,13709.32,Approved,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00082,CUST00106,POL00165,2025-06-11,Theft,41615.49,Under Review,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00083,CUST00108,POL00170,2023-01-24,Storm Damage,109500.73,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00084,CUST00112,POL00179,2026-04-17,Windshield Damage,11080.80,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00085,CUST00115,POL00183,2018-06-23,Surgery,40835.28,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00086,CUST00117,POL00186,2025-12-02,Diagnostic Test,114829.38,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00087,CUST00120,POL00193,2020-10-02,Terminal Illness Rider,4212.15,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00088,CUST00120,POL00193,2020-04-01,Terminal Illness Rider,33915.39,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00089,CUST00122,POL00195,2025-08-20,Terminal Illness Rider,172521.14,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00090,CUST00124,POL00197,2020-05-08,Water Damage,3831.70,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00091,CUST00124,POL00198,2024-11-15,Collision,861.33,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00092,CUST00124,POL00199,2019-05-25,Surgery,2856.71,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00093,CUST00125,POL00200,2020-03-11,Hospitalization,62596.14,Rejected,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00094,CUST00125,POL00200,2020-07-12,Diagnostic Test,53363.58,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00095,CUST00128,POL00205,2023-10-21,Death Benefit,8750.88,Pending Documents,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00096,CUST00129,POL00206,2024-02-19,Storm Damage,57700.47,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00097,CUST00131,POL00209,2022-10-26,Windshield Damage,3488.74,Under Review,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00098,CUST00131,POL00210,2024-02-25,Liability,12931.32,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00099,CUST00133,POL00213,2025-06-12,Hospitalization,57760.78,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00100,CUST00137,POL00222,2026-01-22,Storm Damage,73707.80,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00101,CUST00138,POL00223,2022-09-14,Outpatient Treatment,110228.36,Under Review,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00102,CUST00138,POL00223,2022-09-14,Surgery,25146.39,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00103,CUST00138,POL00225,2025-07-02,Liability,5366.39,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00104,CUST00139,POL00226,2022-02-26,Outpatient Treatment,82933.26,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00105,CUST00139,POL00226,2022-04-22,Hospitalization,44060.25,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00106,CUST00139,POL00227,2020-11-18,Vandalism,3150.96,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00107,CUST00139,POL00227,2020-01-24,Hit and Run,1629.04,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00108,CUST00143,POL00231,2024-11-23,Hospitalization,30154.15,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00109,CUST00144,POL00233,2022-10-06,Liability,2481.52,Pending Documents,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00110,CUST00146,POL00237,2026-04-10,Water Damage,5579.83,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00111,CUST00146,POL00237,2025-09-13,Liability,897.29,Under Review,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00112,CUST00147,POL00238,2018-06-22,Diagnostic Test,24849.22,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00113,CUST00148,POL00239,2022-06-04,Windshield Damage,3179.42,Rejected,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00114,CUST00150,POL00241,2018-12-13,Fire Damage,16753.51,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00115,CUST00151,POL00244,2019-01-29,Hospitalization,101611.34,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00116,CUST00153,POL00248,2024-10-27,Liability,4094.28,Rejected,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00117,CUST00153,POL00248,2024-05-27,Fire Damage,1357.70,Under Review,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00118,CUST00154,POL00249,2021-06-23,Terminal Illness Rider,39973.36,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00119,CUST00157,POL00254,2021-03-12,Fire Damage,43046.00,Rejected,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00120,CUST00161,POL00258,2025-01-23,Diagnostic Test,115445.25,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00121,CUST00163,POL00262,2024-02-15,Windshield Damage,3166.33,Pending Documents,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00122,CUST00163,POL00264,2020-04-17,Hospitalization,52938.12,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00123,CUST00165,POL00267,2018-09-12,Fire Damage,14122.94,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00124,CUST00165,POL00267,2018-01-13,Theft,96582.07,Under Review,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00125,CUST00166,POL00268,2024-01-30,Collision,4754.56,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00126,CUST00167,POL00269,2023-10-23,Fire Damage,12719.89,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00127,CUST00169,POL00272,2025-03-29,Vandalism,5329.11,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00128,CUST00169,POL00273,2019-08-02,Terminal Illness Rider,126286.44,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00129,CUST00171,POL00276,2022-10-28,Collision,4813.76,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00130,CUST00176,POL00286,2025-12-16,Collision,8949.97,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00131,CUST00176,POL00287,2020-08-12,Theft,2365.44,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00132,CUST00177,POL00289,2022-03-18,Theft,24291.72,Rejected,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00133,CUST00179,POL00291,2025-03-15,Outpatient Treatment,91580.47,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00134,CUST00180,POL00293,2024-08-16,Storm Damage,49993.05,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00135,CUST00180,POL00293,2024-08-07,Storm Damage,77238.05,Under Review,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00136,CUST00182,POL00296,2021-03-01,Water Damage,44727.71,Rejected,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00137,CUST00182,POL00297,2021-08-07,Terminal Illness Rider,61587.24,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00138,CUST00182,POL00298,2025-03-08,Theft,5221.64,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00139,CUST00184,POL00300,2025-04-24,Theft,3631.99,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00140,CUST00184,POL00301,2024-09-06,Diagnostic Test,57184.42,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00141,CUST00185,POL00302,2021-08-20,Windshield Damage,10112.21,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00142,CUST00185,POL00304,2023-12-23,Water Damage,12599.50,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00143,CUST00187,POL00307,2020-12-06,Windshield Damage,9612.39,Under Review,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00144,CUST00187,POL00309,2021-02-06,Theft,3698.73,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00145,CUST00188,POL00311,2021-12-08,Theft,33571.92,Rejected,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00146,CUST00190,POL00314,2019-08-23,Water Damage,10457.31,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00147,CUST00191,POL00315,2021-01-14,Water Damage,5376.85,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00148,CUST00196,POL00327,2025-04-16,Theft,3002.79,Pending Documents,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00149,CUST00197,POL00329,2023-03-05,Theft,12009.93,Rejected,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00150,CUST00198,POL00330,2023-05-29,Liability,85586.16,Under Review,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00151,CUST00200,POL00332,2023-06-12,Surgery,22988.09,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00152,CUST00200,POL00332,2023-05-19,Outpatient Treatment,49601.96,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00153,CUST00203,POL00336,2021-08-12,Windshield Damage,3810.04,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00154,CUST00204,POL00338,2024-12-03,Fire Damage,3094.98,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00155,CUST00206,POL00340,2018-12-17,Fire Damage,11476.74,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00156,CUST00207,POL00342,2024-07-20,Vandalism,9692.57,Rejected,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00157,CUST00208,POL00343,2019-12-04,Hit and Run,3041.35,Paid,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00158,CUST00211,POL00348,2024-08-31,Liability,79210.75,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00159,CUST00213,POL00351,2025-03-28,Diagnostic Test,11418.43,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00160,CUST00214,POL00352,2024-02-23,Theft,18268.89,Rejected,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00161,CUST00216,POL00354,2022-10-02,Water Damage,140154.19,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00162,CUST00216,POL00354,2022-08-11,Storm Damage,167273.72,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00163,CUST00222,POL00363,2023-11-15,Water Damage,161660.17,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00164,CUST00225,POL00367,2024-07-09,Water Damage,4839.33,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00165,CUST00226,POL00369,2018-04-03,Fire Damage,65060.64,Under Review,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00166,CUST00228,POL00373,2021-07-12,Windshield Damage,4253.68,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00167,CUST00229,POL00374,2019-09-24,Theft,2820.39,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00168,CUST00230,POL00375,2025-08-24,Fire Damage,9104.69,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00169,CUST00231,POL00377,2022-01-01,Death Benefit,126599.22,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00170,CUST00231,POL00377,2022-08-08,Death Benefit,104287.55,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00171,CUST00233,POL00379,2025-02-09,Terminal Illness Rider,121839.06,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00172,CUST00233,POL00380,2020-03-27,Collision,10077.03,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00173,CUST00236,POL00384,2021-04-16,Fire Damage,141380.20,Under Review,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00174,CUST00237,POL00386,2026-05-18,Theft,78073.00,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00175,CUST00240,POL00390,2021-02-16,Hit and Run,4297.16,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00176,CUST00240,POL00391,2019-12-16,Liability,29309.72,Rejected,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00177,CUST00242,POL00395,2022-06-14,Surgery,124950.56,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00178,CUST00243,POL00396,2018-08-06,Surgery,67022.58,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00179,CUST00243,POL00396,2019-03-09,Outpatient Treatment,57400.39,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00180,CUST00244,POL00397,2024-02-19,Liability,107662.60,Under Review,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00181,CUST00244,POL00397,2024-02-22,Liability,48249.47,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00182,CUST00244,POL00399,2019-01-14,Terminal Illness Rider,1432.90,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00183,CUST00244,POL00399,2019-02-05,Death Benefit,10784.87,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00184,CUST00245,POL00401,2024-06-19,Theft,4072.36,Approved,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00185,CUST00246,POL00404,2019-07-22,Death Benefit,32501.67,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00186,CUST00246,POL00405,2026-05-25,Diagnostic Test,3564.49,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00187,CUST00247,POL00406,2019-08-25,Fire Damage,3367.15,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00188,CUST00247,POL00406,2018-12-25,Fire Damage,8666.41,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00189,CUST00248,POL00407,2019-02-07,Death Benefit,27977.55,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00190,CUST00248,POL00407,2021-03-29,Death Benefit,11182.99,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00191,CUST00248,POL00408,2024-08-01,Fire Damage,10988.15,Under Review,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00192,CUST00248,POL00408,2023-08-22,Theft,18281.10,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00193,CUST00251,POL00413,2023-12-05,Terminal Illness Rider,186832.58,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00194,CUST00255,POL00420,2020-06-11,Liability,14319.71,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00195,CUST00257,POL00423,2021-02-21,Theft,4379.51,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00196,CUST00258,POL00425,2025-12-23,Diagnostic Test,1050.48,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00197,CUST00259,POL00426,2025-04-28,Collision,1049.68,Pending Documents,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00198,CUST00261,POL00429,2024-03-20,Collision,8353.13,Under Review,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00199,CUST00262,POL00430,2023-07-21,Terminal Illness Rider,215520.05,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00200,CUST00267,POL00439,2023-10-17,Hit and Run,7581.84,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00201,CUST00268,POL00440,2024-08-31,Water Damage,19100.46,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00202,CUST00269,POL00442,2021-03-29,Diagnostic Test,65301.98,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00203,CUST00270,POL00443,2019-01-23,Water Damage,65731.04,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00204,CUST00271,POL00445,2025-08-24,Liability,26428.83,Approved,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00205,CUST00271,POL00446,2024-07-19,Surgery,25577.16,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00206,CUST00272,POL00447,2025-11-01,Terminal Illness Rider,52107.59,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00207,CUST00273,POL00449,2025-03-05,Water Damage,48337.95,Pending Documents,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00208,CUST00273,POL00449,2024-02-19,Liability,52174.15,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00209,CUST00273,POL00450,2026-04-18,Death Benefit,14499.58,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00210,CUST00274,POL00452,2023-06-02,Surgery,14310.65,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00211,CUST00275,POL00455,2020-06-28,Hit and Run,562.16,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00212,CUST00276,POL00456,2024-08-16,Theft,7322.12,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00213,CUST00276,POL00457,2021-11-08,Surgery,71564.67,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00214,CUST00277,POL00459,2019-01-21,Fire Damage,2720.03,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00215,CUST00277,POL00460,2023-09-08,Outpatient Treatment,26573.27,Pending Documents,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00216,CUST00278,POL00461,2024-07-14,Fire Damage,772.88,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00217,CUST00284,POL00470,2021-10-03,Death Benefit,133180.06,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00218,CUST00286,POL00473,2020-06-13,Storm Damage,110393.87,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00219,CUST00288,POL00475,2019-05-08,Surgery,51478.94,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00220,CUST00288,POL00475,2019-04-26,Outpatient Treatment,3498.66,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00221,CUST00288,POL00476,2022-07-28,Liability,12675.84,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00222,CUST00288,POL00476,2022-02-28,Water Damage,8965.42,Under Review,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00223,CUST00292,POL00480,2021-04-03,Terminal Illness Rider,161432.67,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00224,CUST00293,POL00481,2021-05-23,Water Damage,15136.77,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00225,CUST00293,POL00481,2021-07-09,Liability,10493.90,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00226,CUST00294,POL00482,2021-07-16,Surgery,42206.09,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00227,CUST00295,POL00485,2021-03-29,Water Damage,61428.57,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00228,CUST00295,POL00485,2021-12-22,Water Damage,94322.43,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00229,CUST00295,POL00487,2025-07-15,Hit and Run,3144.66,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00230,CUST00297,POL00489,2022-02-17,Liability,85111.83,Approved,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00231,CUST00300,POL00494,2020-03-02,Fire Damage,5055.94,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00232,CUST00303,POL00497,2024-11-01,Theft,4067.22,Approved,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00233,CUST00306,POL00501,2021-01-05,Water Damage,101694.31,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00234,CUST00308,POL00504,2023-02-07,Death Benefit,38667.62,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00235,CUST00309,POL00505,2023-02-01,Surgery,4463.19,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00236,CUST00309,POL00505,2022-06-05,Diagnostic Test,49154.59,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00237,CUST00314,POL00514,2019-03-20,Hospitalization,72202.07,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00238,CUST00316,POL00519,2020-02-02,Fire Damage,45366.68,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00239,CUST00320,POL00524,2021-08-17,Hospitalization,65739.66,Under Review,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00240,CUST00320,POL00525,2025-06-05,Terminal Illness Rider,30007.82,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00241,CUST00321,POL00526,2024-06-07,Death Benefit,16593.02,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00242,CUST00321,POL00526,2024-01-27,Death Benefit,38187.01,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00243,CUST00323,POL00530,2020-10-30,Death Benefit,114583.54,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00244,CUST00323,POL00531,2024-02-13,Surgery,42927.81,Under Review,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00245,CUST00324,POL00532,2021-07-03,Storm Damage,170897.88,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00246,CUST00324,POL00532,2024-09-01,Fire Damage,73999.02,Rejected,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00247,CUST00324,POL00534,2019-06-01,Water Damage,19093.31,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00248,CUST00325,POL00535,2023-06-06,Theft,115874.50,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00249,CUST00326,POL00537,2020-04-16,Collision,1448.82,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00250,CUST00328,POL00542,2024-12-20,Theft,5531.24,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00251,CUST00331,POL00545,2024-08-15,Water Damage,19758.03,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00252,CUST00332,POL00547,2024-01-01,Surgery,11140.71,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00253,CUST00332,POL00548,2022-04-13,Death Benefit,124928.78,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00254,CUST00332,POL00548,2019-01-24,Death Benefit,135980.42,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00255,CUST00334,POL00551,2025-02-18,Death Benefit,146180.08,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00256,CUST00335,POL00553,2019-01-15,Diagnostic Test,3264.01,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00257,CUST00335,POL00553,2023-10-28,Diagnostic Test,4322.87,Pending Documents,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00258,CUST00337,POL00557,2023-03-06,Theft,34964.14,Under Review,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00259,CUST00338,POL00558,2019-01-10,Water Damage,1044.71,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00260,CUST00339,POL00563,2022-10-30,Terminal Illness Rider,9233.51,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00261,CUST00342,POL00568,2019-09-30,Liability,9016.67,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00262,CUST00344,POL00571,2022-12-06,Theft,6790.56,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00263,CUST00345,POL00572,2018-05-12,Water Damage,9077.93,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00264,CUST00346,POL00573,2021-10-06,Fire Damage,119869.09,Under Review,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00265,CUST00347,POL00575,2021-05-01,Fire Damage,9884.17,Pending Documents,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00266,CUST00348,POL00577,2026-05-10,Fire Damage,55687.78,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00267,CUST00349,POL00579,2025-04-15,Theft,3546.17,Pending Documents,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00268,CUST00350,POL00581,2021-12-31,Surgery,7427.00,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00269,CUST00351,POL00583,2024-11-05,Storm Damage,56159.94,Rejected,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00270,CUST00351,POL00583,2025-09-07,Water Damage,24752.59,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00271,CUST00351,POL00584,2024-12-17,Collision,1798.95,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00272,CUST00354,POL00589,2023-01-17,Hospitalization,560.38,Rejected,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00273,CUST00357,POL00592,2026-07-01,Death Benefit,121531.82,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00274,CUST00357,POL00592,2025-01-05,Terminal Illness Rider,55118.61,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00275,CUST00358,POL00594,2024-09-07,Hit and Run,3132.30,Rejected,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00276,CUST00359,POL00595,2022-07-29,Diagnostic Test,30192.95,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00277,CUST00359,POL00595,2021-08-11,Hospitalization,68814.33,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00278,CUST00360,POL00596,2023-07-31,Fire Damage,21447.72,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00279,CUST00361,POL00598,2025-02-28,Terminal Illness Rider,191240.43,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00280,CUST00362,POL00601,2025-08-03,Hospitalization,63617.15,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00281,CUST00363,POL00602,2019-02-11,Outpatient Treatment,3137.68,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00282,CUST00364,POL00604,2020-08-16,Liability,120714.65,Approved,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00283,CUST00365,POL00606,2019-11-08,Liability,4277.23,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00284,CUST00366,POL00608,2021-08-06,Hit and Run,1130.13,Paid,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00285,CUST00366,POL00608,2019-03-23,Vandalism,10323.91,Rejected,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00286,CUST00369,POL00611,2023-05-18,Terminal Illness Rider,92810.04,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00287,CUST00370,POL00612,2025-11-10,Hospitalization,12236.34,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00288,CUST00371,POL00613,2019-01-31,Terminal Illness Rider,16434.18,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00289,CUST00372,POL00615,2022-07-09,Diagnostic Test,8066.35,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00290,CUST00372,POL00617,2024-04-16,Death Benefit,235268.99,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00291,CUST00372,POL00617,2025-04-09,Terminal Illness Rider,210175.66,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00292,CUST00374,POL00621,2023-04-20,Water Damage,11606.34,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00293,CUST00375,POL00622,2025-12-06,Liability,32130.44,Under Review,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00294,CUST00378,POL00627,2023-07-17,Outpatient Treatment,46868.71,Under Review,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00295,CUST00378,POL00627,2022-05-01,Outpatient Treatment,9766.12,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00296,CUST00381,POL00631,2025-08-14,Surgery,41136.44,Under Review,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00297,CUST00383,POL00635,2021-07-27,Terminal Illness Rider,73286.81,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00298,CUST00384,POL00636,2021-10-12,Collision,2036.93,Paid,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00299,CUST00385,POL00637,2019-08-03,Surgery,33877.16,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00300,CUST00387,POL00639,2023-09-19,Windshield Damage,2730.49,Pending Documents,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00301,CUST00388,POL00640,2023-01-05,Theft,976.60,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00302,CUST00388,POL00641,2020-02-16,Hit and Run,2383.31,Paid,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00303,CUST00389,POL00643,2023-04-01,Hospitalization,22651.54,Under Review,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00304,CUST00390,POL00644,2025-06-30,Theft,9493.60,Under Review,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00305,CUST00391,POL00647,2022-10-01,Water Damage,6501.29,Under Review,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00306,CUST00395,POL00652,2025-05-06,Vandalism,11059.44,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00307,CUST00397,POL00655,2019-06-05,Windshield Damage,12294.13,Rejected,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00308,CUST00401,POL00662,2023-07-12,Fire Damage,12715.49,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00309,CUST00402,POL00663,2019-03-17,Hospitalization,27413.35,Rejected,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00310,CUST00402,POL00664,2024-01-03,Storm Damage,46263.34,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00311,CUST00403,POL00665,2022-09-21,Collision,920.79,Pending Documents,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00312,CUST00403,POL00666,2022-04-06,Fire Damage,69588.99,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00313,CUST00403,POL00666,2024-04-17,Fire Damage,161049.51,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00314,CUST00404,POL00668,2024-11-28,Hospitalization,14291.30,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00315,CUST00407,POL00674,2025-02-24,Fire Damage,140199.21,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00316,CUST00407,POL00674,2025-04-14,Water Damage,25658.96,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00317,CUST00409,POL00677,2024-05-13,Theft,5913.38,Rejected,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00318,CUST00409,POL00678,2023-06-17,Water Damage,8160.58,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00319,CUST00409,POL00678,2022-05-20,Theft,210724.02,Rejected,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00320,CUST00410,POL00680,2022-03-08,Fire Damage,4433.46,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00321,CUST00411,POL00681,2022-02-25,Theft,115350.02,Pending Documents,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00322,CUST00413,POL00684,2025-03-11,Death Benefit,90536.82,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00323,CUST00414,POL00687,2020-03-07,Liability,6148.57,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00324,CUST00414,POL00687,2020-08-19,Liability,2725.51,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00325,CUST00417,POL00692,2025-10-21,Surgery,64671.29,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00326,CUST00419,POL00694,2021-02-25,Collision,14808.47,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00327,CUST00419,POL00695,2018-05-31,Diagnostic Test,24047.62,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00328,CUST00419,POL00696,2020-06-15,Death Benefit,7908.14,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00329,CUST00419,POL00696,2019-07-11,Death Benefit,27276.79,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00330,CUST00422,POL00702,2019-07-01,Terminal Illness Rider,48755.23,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00331,CUST00423,POL00703,2023-01-10,Theft,84582.47,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00332,CUST00424,POL00705,2025-06-21,Theft,14294.22,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00333,CUST00424,POL00705,2024-03-30,Fire Damage,2903.07,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00334,CUST00425,POL00706,2018-06-27,Diagnostic Test,71372.92,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00335,CUST00426,POL00707,2024-09-09,Hit and Run,4871.55,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00336,CUST00427,POL00708,2024-03-05,Fire Damage,8360.78,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00337,CUST00430,POL00713,2022-05-02,Water Damage,48412.95,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00338,CUST00430,POL00713,2021-08-12,Theft,4153.80,Pending Documents,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00339,CUST00431,POL00715,2025-12-09,Windshield Damage,5021.45,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00340,CUST00432,POL00716,2023-06-13,Terminal Illness Rider,32492.56,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00341,CUST00432,POL00716,2023-04-02,Terminal Illness Rider,113821.20,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00342,CUST00433,POL00717,2024-12-09,Diagnostic Test,17234.85,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00343,CUST00434,POL00718,2025-01-15,Windshield Damage,712.04,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00344,CUST00435,POL00719,2024-01-10,Fire Damage,107450.91,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00345,CUST00435,POL00719,2025-12-19,Liability,15144.62,Under Review,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00346,CUST00435,POL00720,2021-05-19,Terminal Illness Rider,77291.92,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00347,CUST00436,POL00721,2022-10-06,Collision,12995.08,Under Review,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00348,CUST00437,POL00724,2023-10-25,Hospitalization,75250.97,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00349,CUST00439,POL00726,2025-01-24,Death Benefit,34987.01,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00350,CUST00439,POL00726,2023-08-02,Death Benefit,203985.57,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00351,CUST00443,POL00732,2024-12-15,Water Damage,12455.94,Under Review,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00352,CUST00443,POL00732,2026-04-09,Liability,10517.60,Under Review,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00353,CUST00445,POL00737,2022-09-14,Vandalism,2958.95,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00354,CUST00447,POL00739,2021-03-16,Surgery,119450.67,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00355,CUST00447,POL00739,2020-05-27,Surgery,62980.54,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00356,CUST00451,POL00744,2020-09-30,Diagnostic Test,50065.37,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00357,CUST00452,POL00746,2019-03-18,Surgery,87838.67,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00358,CUST00452,POL00746,2019-01-01,Outpatient Treatment,25724.43,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00359,CUST00454,POL00749,2021-10-11,Surgery,17989.34,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00360,CUST00454,POL00749,2021-03-11,Diagnostic Test,9164.14,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00361,CUST00455,POL00752,2018-12-20,Vandalism,11395.98,Approved,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00362,CUST00459,POL00756,2024-12-26,Surgery,3958.60,Rejected,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00363,CUST00462,POL00760,2021-09-18,Theft,13812.27,Approved,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00364,CUST00465,POL00767,2020-04-11,Terminal Illness Rider,206364.80,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00365,CUST00465,POL00767,2021-01-06,Terminal Illness Rider,113512.82,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00366,CUST00466,POL00768,2024-10-23,Hospitalization,97198.02,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00367,CUST00467,POL00769,2023-06-15,Theft,1270.66,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00368,CUST00467,POL00769,2022-05-25,Fire Damage,2873.80,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00369,CUST00470,POL00773,2024-04-18,Terminal Illness Rider,35886.22,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00370,CUST00470,POL00774,2024-04-29,Vandalism,7156.16,Pending Documents,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00371,CUST00471,POL00776,2020-12-05,Water Damage,18765.38,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00372,CUST00472,POL00777,2026-06-09,Water Damage,3694.47,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00373,CUST00477,POL00785,2018-03-14,Water Damage,2135.70,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00374,CUST00477,POL00785,2018-04-20,Theft,8322.12,Under Review,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00375,CUST00477,POL00786,2026-02-05,Water Damage,63639.86,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00376,CUST00477,POL00786,2024-09-30,Theft,74788.33,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00377,CUST00479,POL00788,2018-09-10,Theft,145596.21,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00378,CUST00479,POL00788,2018-07-10,Water Damage,222313.78,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00379,CUST00479,POL00789,2024-04-24,Diagnostic Test,66107.74,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00380,CUST00483,POL00796,2020-03-22,Hospitalization,58417.53,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00381,CUST00483,POL00797,2021-05-20,Terminal Illness Rider,220004.70,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00382,CUST00484,POL00798,2025-10-19,Fire Damage,33252.68,Rejected,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00383,CUST00485,POL00801,2019-10-19,Theft,17775.73,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00384,CUST00486,POL00802,2023-09-28,Outpatient Treatment,10075.57,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00385,CUST00488,POL00805,2021-04-01,Windshield Damage,9774.25,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00386,CUST00491,POL00810,2026-06-23,Windshield Damage,2233.42,Pending Documents,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00387,CUST00491,POL00811,2020-02-10,Death Benefit,198052.21,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00388,CUST00494,POL00814,2022-10-20,Fire Damage,31569.41,Pending Documents,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00389,CUST00494,POL00814,2023-07-28,Liability,17078.38,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00390,CUST00494,POL00816,2020-01-28,Hospitalization,41790.13,Pending Documents,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00391,CUST00497,POL00819,2021-08-12,Outpatient Treatment,3211.95,Pending Documents,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00392,CUST00497,POL00820,2025-04-30,Terminal Illness Rider,141001.01,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00393,CUST00499,POL00825,2024-08-08,Diagnostic Test,92176.63,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00394,CUST00499,POL00825,2024-08-18,Hospitalization,111614.90,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00395,CUST00501,POL00828,2018-03-08,Outpatient Treatment,5352.76,Under Review,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00396,CUST00503,POL00830,2020-02-22,Windshield Damage,1195.08,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00397,CUST00503,POL00830,2021-05-21,Theft,4377.03,Rejected,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00398,CUST00504,POL00832,2024-12-24,Liability,6159.46,Pending Documents,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00399,CUST00504,POL00832,2025-08-09,Liability,11549.05,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00400,CUST00507,POL00837,2018-01-24,Fire Damage,178882.10,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00401,CUST00508,POL00838,2024-08-31,Diagnostic Test,69669.48,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00402,CUST00509,POL00839,2021-12-15,Windshield Damage,1086.97,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00403,CUST00512,POL00843,2024-06-07,Theft,663.60,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00404,CUST00513,POL00845,2018-10-07,Water Damage,2048.73,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00405,CUST00515,POL00848,2021-05-17,Diagnostic Test,45475.92,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00406,CUST00515,POL00848,2021-11-23,Surgery,26022.98,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00407,CUST00516,POL00850,2018-06-09,Storm Damage,160601.45,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00408,CUST00517,POL00853,2018-12-02,Water Damage,36956.57,Rejected,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00409,CUST00518,POL00854,2022-05-25,Hit and Run,2053.39,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00410,CUST00519,POL00857,2023-12-26,Surgery,30882.79,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00411,CUST00519,POL00857,2021-05-23,Outpatient Treatment,822.79,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00412,CUST00520,POL00860,2019-06-03,Diagnostic Test,23340.38,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00413,CUST00521,POL00861,2019-03-29,Liability,5193.65,Pending Documents,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00414,CUST00523,POL00864,2024-05-24,Diagnostic Test,118581.19,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00415,CUST00524,POL00865,2024-04-15,Fire Damage,20505.14,Pending Documents,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00416,CUST00524,POL00865,2023-08-24,Theft,62041.43,Rejected,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00417,CUST00525,POL00867,2024-08-11,Collision,915.77,Paid,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00418,CUST00525,POL00867,2026-08-10,Hit and Run,3176.13,Pending Documents,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00419,CUST00525,POL00868,2024-11-29,Fire Damage,10989.33,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00420,CUST00528,POL00871,2019-08-15,Theft,7186.96,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00421,CUST00530,POL00874,2022-01-02,Storm Damage,160882.38,Rejected,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00422,CUST00531,POL00877,2019-07-29,Theft,97737.88,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00423,CUST00532,POL00878,2018-06-30,Liability,6922.73,Pending Documents,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00424,CUST00533,POL00879,2022-08-17,Windshield Damage,2507.04,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00425,CUST00534,POL00881,2023-03-17,Fire Damage,24614.90,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00426,CUST00535,POL00883,2025-05-29,Hit and Run,3939.99,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00427,CUST00537,POL00885,2022-02-27,Fire Damage,5661.24,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00428,CUST00542,POL00893,2020-07-19,Windshield Damage,11439.74,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00429,CUST00543,POL00897,2026-05-10,Theft,14831.30,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00430,CUST00548,POL00904,2021-08-29,Theft,2725.13,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00431,CUST00550,POL00909,2025-07-07,Vandalism,16717.13,Pending Documents,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00432,CUST00551,POL00910,2019-05-22,Vandalism,3623.31,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00433,CUST00551,POL00911,2024-06-05,Diagnostic Test,42965.13,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00434,CUST00551,POL00911,2024-03-06,Surgery,1963.56,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00435,CUST00553,POL00915,2023-10-05,Fire Damage,175869.16,Pending Documents,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00436,CUST00554,POL00917,2018-09-16,Windshield Damage,11459.62,Rejected,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00437,CUST00556,POL00919,2021-12-11,Surgery,36074.85,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00438,CUST00557,POL00920,2023-08-16,Death Benefit,125055.95,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00439,CUST00559,POL00923,2019-08-29,Water Damage,5273.30,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00440,CUST00559,POL00924,2022-01-01,Outpatient Treatment,104912.63,Under Review,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00441,CUST00559,POL00924,2022-06-24,Diagnostic Test,67777.84,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00442,CUST00561,POL00926,2021-09-07,Diagnostic Test,52051.90,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00443,CUST00561,POL00926,2022-10-18,Surgery,28816.22,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00444,CUST00562,POL00927,2024-06-16,Theft,4748.07,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00445,CUST00563,POL00929,2026-01-13,Surgery,47514.41,Under Review,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00446,CUST00563,POL00930,2024-04-05,Theft,90733.15,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00447,CUST00565,POL00934,2022-08-03,Collision,2137.37,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00448,CUST00571,POL00942,2026-01-04,Outpatient Treatment,51889.69,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00449,CUST00573,POL00945,2024-02-02,Surgery,111396.24,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00450,CUST00574,POL00946,2020-03-29,Diagnostic Test,29068.49,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00451,CUST00576,POL00948,2019-06-09,Theft,4680.05,Pending Documents,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00452,CUST00578,POL00953,2025-05-11,Theft,3917.33,Under Review,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00453,CUST00579,POL00955,2024-10-23,Death Benefit,54363.23,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00454,CUST00579,POL00955,2023-01-18,Terminal Illness Rider,18358.32,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00455,CUST00579,POL00956,2018-01-28,Storm Damage,73458.33,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00456,CUST00582,POL00960,2025-04-06,Storm Damage,27550.29,Pending Documents,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00457,CUST00582,POL00960,2024-01-17,Storm Damage,66011.25,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00458,CUST00584,POL00964,2018-08-26,Liability,2103.25,Rejected,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00459,CUST00590,POL00976,2021-01-01,Liability,45611.60,Approved,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00460,CUST00593,POL00980,2020-01-06,Terminal Illness Rider,77366.92,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00461,CUST00593,POL00982,2023-03-23,Theft,1758.89,Under Review,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00462,CUST00595,POL00985,2025-04-05,Death Benefit,84219.53,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00463,CUST00595,POL00985,2021-06-03,Death Benefit,184639.90,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00464,CUST00596,POL00986,2020-11-27,Death Benefit,105001.16,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00465,CUST00596,POL00987,2025-01-23,Outpatient Treatment,22560.30,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00466,CUST00596,POL00988,2025-08-08,Fire Damage,16399.82,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00467,CUST00597,POL00989,2023-07-31,Storm Damage,141328.29,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00468,CUST00597,POL00990,2024-04-12,Collision,6256.11,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00469,CUST00597,POL00990,2024-01-25,Theft,10986.13,Rejected,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00470,CUST00599,POL00994,2022-05-31,Water Damage,2471.00,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00471,CUST00603,POL01000,2025-05-02,Outpatient Treatment,89105.19,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00472,CUST00604,POL01002,2025-07-22,Hit and Run,1172.64,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00473,CUST00606,POL01004,2019-02-26,Hit and Run,655.82,Rejected,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00474,CUST00610,POL01013,2021-03-30,Hospitalization,96485.79,Under Review,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00475,CUST00610,POL01013,2020-01-28,Outpatient Treatment,94034.17,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00476,CUST00611,POL01015,2024-02-19,Water Damage,2717.78,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00477,CUST00611,POL01016,2020-02-02,Outpatient Treatment,30355.25,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00478,CUST00612,POL01017,2022-09-05,Diagnostic Test,8581.17,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00479,CUST00613,POL01018,2018-12-04,Hit and Run,2293.09,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00480,CUST00618,POL01027,2020-04-01,Theft,98159.49,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00481,CUST00618,POL01028,2023-05-09,Terminal Illness Rider,15432.96,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00482,CUST00619,POL01031,2020-12-23,Hospitalization,2410.55,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00483,CUST00620,POL01032,2019-07-06,Liability,1949.42,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00484,CUST00621,POL01033,2022-02-06,Death Benefit,120199.37,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00485,CUST00625,POL01038,2023-06-09,Vandalism,1064.61,Pending Documents,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00486,CUST00626,POL01040,2023-04-16,Diagnostic Test,39383.63,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00487,CUST00630,POL01047,2024-10-07,Water Damage,10047.06,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00488,CUST00632,POL01050,2023-12-11,Liability,8338.42,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00489,CUST00632,POL01051,2024-03-01,Theft,71941.78,Paid,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00490,CUST00633,POL01054,2025-11-23,Death Benefit,33523.60,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00491,CUST00637,POL01058,2021-02-10,Fire Damage,2959.77,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00492,CUST00637,POL01058,2021-01-27,Theft,9140.26,Pending Documents,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00493,CUST00638,POL01061,2018-10-26,Liability,129831.04,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00494,CUST00638,POL01063,2022-04-27,Surgery,2000.19,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00495,CUST00639,POL01064,2023-08-17,Terminal Illness Rider,50924.95,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00496,CUST00640,POL01065,2025-04-28,Storm Damage,12398.91,Under Review,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00497,CUST00641,POL01068,2020-10-09,Hospitalization,62933.38,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00498,CUST00642,POL01069,2020-12-09,Windshield Damage,4602.43,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00499,CUST00645,POL01072,2023-03-14,Hit and Run,11206.43,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00500,CUST00647,POL01074,2023-09-05,Vandalism,1505.73,Under Review,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00501,CUST00652,POL01079,2019-03-09,Storm Damage,42348.00,Rejected,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00502,CUST00653,POL01082,2026-06-08,Theft,783.38,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00503,CUST00653,POL01083,2021-07-08,Theft,50953.75,Under Review,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00504,CUST00658,POL01090,2024-09-23,Death Benefit,107212.82,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00505,CUST00661,POL01093,2021-05-22,Liability,9735.01,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00506,CUST00661,POL01093,2020-11-04,Theft,649.72,Under Review,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00507,CUST00662,POL01094,2024-08-16,Vandalism,2674.38,Rejected,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00508,CUST00663,POL01095,2021-02-11,Theft,25499.78,Pending Documents,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00509,CUST00663,POL01095,2020-08-16,Theft,23532.16,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00510,CUST00665,POL01097,2021-01-27,Outpatient Treatment,33241.18,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00511,CUST00666,POL01098,2019-01-30,Diagnostic Test,100259.76,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00512,CUST00667,POL01099,2018-08-13,Surgery,57631.78,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00513,CUST00669,POL01102,2026-04-11,Water Damage,5096.27,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00514,CUST00671,POL01105,2020-09-02,Collision,3815.89,Under Review,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00515,CUST00673,POL01109,2022-10-12,Terminal Illness Rider,10878.59,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00516,CUST00675,POL01111,2019-06-27,Death Benefit,55496.78,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00517,CUST00675,POL01111,2018-06-29,Terminal Illness Rider,59608.79,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00518,CUST00677,POL01113,2024-03-16,Water Damage,2378.13,Pending Documents,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00519,CUST00681,POL01120,2018-12-20,Surgery,60407.85,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00520,CUST00681,POL01120,2020-06-16,Hospitalization,85117.57,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00521,CUST00682,POL01122,2025-05-19,Diagnostic Test,1115.92,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00522,CUST00684,POL01124,2023-10-29,Diagnostic Test,100263.89,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00523,CUST00684,POL01125,2022-01-03,Storm Damage,151008.49,Rejected,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00524,CUST00685,POL01127,2023-01-04,Terminal Illness Rider,40639.74,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00525,CUST00686,POL01128,2020-06-07,Fire Damage,2269.62,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00526,CUST00687,POL01129,2022-06-06,Storm Damage,179911.28,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00527,CUST00687,POL01130,2020-12-18,Fire Damage,2562.97,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00528,CUST00689,POL01132,2018-05-25,Surgery,60609.01,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00529,CUST00689,POL01133,2022-06-07,Death Benefit,251118.61,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00530,CUST00689,POL01133,2021-01-14,Death Benefit,121995.73,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00531,CUST00690,POL01134,2018-03-08,Theft,160352.46,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00532,CUST00694,POL01139,2025-04-07,Theft,4091.06,Approved,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00533,CUST00698,POL01144,2019-06-03,Fire Damage,13719.60,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00534,CUST00698,POL01144,2019-01-30,Fire Damage,9453.56,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00535,CUST00701,POL01148,2020-03-05,Theft,132083.00,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00536,CUST00710,POL01161,2022-06-18,Hit and Run,10214.22,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00537,CUST00711,POL01162,2020-05-20,Hit and Run,8899.78,Paid,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00538,CUST00711,POL01163,2019-03-02,Terminal Illness Rider,91928.23,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00539,CUST00713,POL01167,2019-07-16,Fire Damage,5451.49,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00540,CUST00715,POL01170,2026-01-06,Theft,992.37,Approved,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00541,CUST00720,POL01178,2026-07-31,Water Damage,76452.52,Pending Documents,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00542,CUST00720,POL01179,2022-11-22,Hospitalization,77853.07,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00543,CUST00722,POL01182,2019-08-30,Water Damage,3839.22,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00544,CUST00723,POL01183,2023-04-21,Theft,6237.87,Paid,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00545,CUST00724,POL01185,2019-05-29,Water Damage,9005.51,Pending Documents,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00546,CUST00724,POL01185,2020-07-17,Theft,9552.70,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00547,CUST00727,POL01191,2024-03-07,Death Benefit,5803.68,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00548,CUST00727,POL01191,2024-11-26,Death Benefit,76650.91,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00549,CUST00731,POL01195,2023-05-12,Liability,4106.98,Pending Documents,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00550,CUST00732,POL01197,2019-06-28,Storm Damage,62704.57,Pending Documents,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00551,CUST00732,POL01197,2019-07-01,Fire Damage,34211.09,Under Review,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00552,CUST00736,POL01202,2021-04-27,Water Damage,154744.11,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00553,CUST00740,POL01208,2019-01-27,Outpatient Treatment,53773.97,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00554,CUST00742,POL01211,2021-01-08,Terminal Illness Rider,117752.24,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00555,CUST00744,POL01215,2024-06-19,Vandalism,8783.25,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00556,CUST00745,POL01217,2025-12-27,Outpatient Treatment,13461.40,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00557,CUST00746,POL01218,2023-12-21,Water Damage,27125.51,Rejected,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00558,CUST00748,POL01221,2025-08-29,Windshield Damage,7176.27,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00559,CUST00752,POL01227,2020-11-14,Diagnostic Test,43065.01,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00560,CUST00753,POL01229,2020-06-26,Vandalism,2389.40,Approved,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00561,CUST00753,POL01229,2020-08-09,Hit and Run,1525.67,Pending Documents,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00562,CUST00754,POL01231,2026-01-10,Theft,112876.87,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00563,CUST00754,POL01231,2026-07-12,Theft,42795.12,Rejected,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00564,CUST00754,POL01232,2025-04-20,Hit and Run,7825.41,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00565,CUST00754,POL01232,2024-07-11,Collision,1373.40,Paid,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00566,CUST00754,POL01233,2024-01-07,Water Damage,15213.60,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00567,CUST00754,POL01233,2023-10-17,Theft,3363.62,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00568,CUST00755,POL01235,2024-09-27,Diagnostic Test,2154.70,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00569,CUST00755,POL01236,2025-08-02,Water Damage,8283.15,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00570,CUST00756,POL01238,2022-02-25,Diagnostic Test,12258.35,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00571,CUST00758,POL01241,2023-08-25,Water Damage,21841.61,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00572,CUST00758,POL01242,2021-01-24,Outpatient Treatment,3085.19,Approved,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00573,CUST00759,POL01243,2024-11-20,Surgery,42195.76,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00574,CUST00760,POL01244,2022-01-30,Terminal Illness Rider,155544.87,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00575,CUST00761,POL01246,2025-02-26,Terminal Illness Rider,19376.18,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00576,CUST00761,POL01246,2025-10-14,Death Benefit,9263.52,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00577,CUST00762,POL01248,2019-03-19,Liability,5560.44,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00578,CUST00762,POL01249,2021-06-03,Fire Damage,146073.67,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00579,CUST00764,POL01252,2022-06-14,Hospitalization,40917.22,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00580,CUST00764,POL01252,2019-11-22,Hospitalization,29270.52,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00581,CUST00765,POL01253,2025-03-30,Liability,3786.37,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00582,CUST00765,POL01253,2025-01-11,Theft,5880.95,Rejected,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00583,CUST00766,POL01254,2021-05-20,Diagnostic Test,15882.44,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00584,CUST00766,POL01255,2021-07-17,Fire Damage,85233.81,Pending Documents,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00585,CUST00770,POL01261,2020-09-12,Vandalism,2212.96,Pending Documents,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00586,CUST00770,POL01261,2020-04-26,Windshield Damage,2125.82,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00587,CUST00771,POL01263,2025-01-08,Surgery,29653.79,Pending Documents,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00588,CUST00772,POL01265,2022-06-27,Outpatient Treatment,3203.80,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00589,CUST00773,POL01268,2023-08-06,Theft,11556.39,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00590,CUST00774,POL01270,2025-05-02,Terminal Illness Rider,14772.25,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00591,CUST00775,POL01271,2025-10-06,Fire Damage,60066.26,Pending Documents,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00592,CUST00775,POL01271,2023-03-01,Storm Damage,57649.38,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00593,CUST00775,POL01273,2025-08-07,Terminal Illness Rider,76922.16,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00594,CUST00777,POL01277,2023-11-22,Outpatient Treatment,66178.54,Rejected,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00595,CUST00780,POL01280,2018-11-21,Fire Damage,41721.17,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00596,CUST00781,POL01281,2019-07-21,Liability,21094.40,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00597,CUST00782,POL01282,2020-02-26,Windshield Damage,2666.41,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00598,CUST00783,POL01283,2022-05-16,Hospitalization,8761.01,Pending Documents,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00599,CUST00784,POL01284,2023-03-23,Liability,4501.29,Pending Documents,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00600,CUST00785,POL01286,2026-03-12,Fire Damage,175429.47,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00601,CUST00785,POL01286,2025-03-17,Water Damage,156273.24,Rejected,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00602,CUST00786,POL01289,2023-07-20,Terminal Illness Rider,25056.45,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00603,CUST00786,POL01289,2024-05-02,Death Benefit,11414.17,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00604,CUST00787,POL01290,2020-10-20,Terminal Illness Rider,27948.31,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00605,CUST00789,POL01292,2025-08-17,Theft,64859.70,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00606,CUST00789,POL01292,2026-03-08,Fire Damage,26777.78,Paid,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00607,CUST00789,POL01293,2024-05-02,Theft,13189.17,Pending Documents,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00608,CUST00790,POL01294,2022-03-12,Windshield Damage,8632.33,Paid,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00609,CUST00792,POL01297,2020-04-03,Vandalism,9231.78,Under Review,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00610,CUST00793,POL01300,2019-04-02,Collision,8186.68,Paid,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00611,CUST00794,POL01301,2024-11-26,Theft,13938.37,Pending Documents,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00612,CUST00795,POL01305,2020-01-31,Water Damage,16614.23,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00613,CUST00798,POL01310,2024-01-15,Liability,29594.68,Pending Documents,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00614,CUST00798,POL01312,2026-03-27,Hit and Run,5101.64,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00615,CUST00798,POL01312,2026-03-25,Collision,3506.12,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00616,CUST00799,POL01313,2026-02-12,Fire Damage,6866.29,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00617,CUST00800,POL01314,2022-01-03,Vandalism,1758.41,Approved,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00618,CUST00802,POL01317,2026-08-01,Liability,12895.50,Under Review,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00619,CUST00804,POL01320,2025-02-10,Hospitalization,26467.76,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00620,CUST00807,POL01323,2025-04-03,Hospitalization,32712.49,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00621,CUST00807,POL01324,2023-12-30,Storm Damage,81638.63,Under Review,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00622,CUST00811,POL01331,2021-05-06,Death Benefit,8023.73,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00623,CUST00812,POL01332,2022-05-23,Terminal Illness Rider,207345.64,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00624,CUST00812,POL01332,2022-08-03,Death Benefit,57361.97,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00625,CUST00813,POL01333,2019-12-21,Death Benefit,949.99,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00626,CUST00815,POL01336,2024-05-06,Storm Damage,41511.37,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00627,CUST00817,POL01339,2020-05-23,Death Benefit,70088.35,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00628,CUST00818,POL01340,2024-04-21,Liability,13838.40,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00629,CUST00818,POL01341,2025-06-04,Surgery,1992.40,Approved,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00630,CUST00819,POL01342,2018-09-25,Hit and Run,1459.47,Under Review,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00631,CUST00822,POL01346,2020-08-03,Theft,24652.03,Pending Documents,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00632,CUST00824,POL01348,2021-03-22,Hospitalization,36648.96,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00633,CUST00824,POL01348,2020-10-09,Diagnostic Test,60837.79,Pending Documents,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00634,CUST00825,POL01350,2022-05-16,Death Benefit,33229.19,Under Review,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00635,CUST00825,POL01352,2025-03-08,Hospitalization,141126.61,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00636,CUST00826,POL01353,2023-05-06,Theft,8475.36,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00637,CUST00828,POL01355,2023-08-07,Fire Damage,3994.68,Approved,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00638,CUST00829,POL01356,2021-12-31,Hospitalization,18284.03,Rejected,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00639,CUST00833,POL01363,2023-01-13,Theft,3836.77,Approved,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00640,CUST00833,POL01364,2020-12-08,Water Damage,91030.34,Paid,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00641,CUST00836,POL01370,2020-09-11,Collision,3719.78,Pending Documents,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00642,CUST00838,POL01376,2026-03-11,Theft,23127.84,Paid,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00643,CUST00838,POL01377,2021-06-12,Hospitalization,624.40,Pending Documents,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00644,CUST00840,POL01380,2024-01-14,Collision,6108.58,Approved,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00645,CUST00843,POL01386,2024-04-18,Terminal Illness Rider,28297.45,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00646,CUST00846,POL01391,2020-11-16,Theft,57373.56,Rejected,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00647,CUST00848,POL01394,2019-11-26,Theft,68674.88,Under Review,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00648,CUST00848,POL01394,2019-07-29,Water Damage,96700.29,Under Review,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00649,CUST00849,POL01395,2023-07-23,Hospitalization,25417.57,Under Review,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00650,CUST00851,POL01398,2020-07-01,Water Damage,8516.90,Rejected,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00651,CUST00851,POL01398,2019-12-15,Water Damage,15240.62,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00652,CUST00851,POL01399,2023-03-13,Terminal Illness Rider,31058.76,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00653,CUST00852,POL01402,2026-04-30,Storm Damage,3840.71,Rejected,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00654,CUST00857,POL01409,2025-06-01,Death Benefit,78207.44,Pending Documents,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00655,CUST00858,POL01412,2020-09-07,Liability,115239.74,Paid,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00656,CUST00860,POL01414,2025-07-11,Diagnostic Test,50057.04,Pending Documents,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00657,CUST00860,POL01415,2021-08-08,Terminal Illness Rider,77949.33,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00658,CUST00860,POL01415,2020-04-09,Terminal Illness Rider,100008.13,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00659,CUST00863,POL01418,2018-02-16,Outpatient Treatment,45690.79,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00660,CUST00863,POL01418,2018-07-06,Diagnostic Test,78986.22,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00661,CUST00864,POL01420,2025-05-12,Fire Damage,2524.80,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00662,CUST00865,POL01422,2022-10-03,Fire Damage,11258.03,Under Review,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00663,CUST00865,POL01423,2023-03-28,Diagnostic Test,90453.63,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00664,CUST00865,POL01423,2023-04-07,Hospitalization,142664.55,Pending Documents,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00665,CUST00867,POL01425,2022-01-24,Vandalism,10819.71,Approved,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00666,CUST00869,POL01427,2025-08-05,Hospitalization,35837.89,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00667,CUST00869,POL01427,2025-07-06,Diagnostic Test,50757.13,Pending Documents,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00668,CUST00870,POL01429,2022-07-06,Hit and Run,12197.70,Paid,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00669,CUST00871,POL01431,2021-09-24,Windshield Damage,1360.51,Pending Documents,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00670,CUST00871,POL01432,2018-11-30,Terminal Illness Rider,118255.20,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00671,CUST00872,POL01433,2021-02-19,Theft,2240.24,Rejected,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00672,CUST00872,POL01435,2021-02-06,Water Damage,15943.98,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00673,CUST00873,POL01436,2024-11-06,Death Benefit,88641.68,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00674,CUST00874,POL01438,2022-08-08,Death Benefit,20758.04,Approved,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00675,CUST00875,POL01441,2022-04-11,Death Benefit,3961.77,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00676,CUST00876,POL01442,2019-09-18,Diagnostic Test,103528.79,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00677,CUST00877,POL01445,2025-12-26,Liability,3745.12,Rejected,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00678,CUST00877,POL01446,2022-08-05,Liability,100874.71,Rejected,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00679,CUST00877,POL01446,2024-07-19,Water Damage,52280.46,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00680,CUST00880,POL01452,2021-04-20,Death Benefit,197325.58,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00681,CUST00881,POL01453,2025-07-24,Collision,7518.44,Rejected,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00682,CUST00882,POL01454,2019-04-22,Water Damage,8276.23,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00683,CUST00883,POL01457,2023-03-20,Death Benefit,58081.81,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00684,CUST00889,POL01465,2022-10-03,Water Damage,143923.13,Approved,Customer reported water damage incident related to home policy. Claim filed for assessment and processing.
+CLM00685,CUST00891,POL01468,2019-04-13,Hit and Run,4127.82,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00686,CUST00892,POL01469,2025-10-17,Hit and Run,2031.71,Pending Documents,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00687,CUST00893,POL01472,2021-01-15,Collision,4012.47,Under Review,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00688,CUST00898,POL01479,2023-10-07,Surgery,130999.52,Under Review,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00689,CUST00901,POL01485,2023-12-22,Fire Damage,22846.83,Under Review,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00690,CUST00901,POL01485,2021-02-10,Fire Damage,22345.13,Under Review,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00691,CUST00901,POL01486,2022-02-19,Surgery,27043.87,Pending Documents,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00692,CUST00904,POL01489,2020-07-27,Liability,734.06,Pending Documents,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00693,CUST00909,POL01498,2024-09-11,Fire Damage,5737.97,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00694,CUST00909,POL01499,2024-05-05,Diagnostic Test,24172.22,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00695,CUST00910,POL01501,2022-03-19,Storm Damage,38525.63,Pending Documents,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00696,CUST00912,POL01504,2019-01-09,Outpatient Treatment,4362.18,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00697,CUST00913,POL01505,2025-04-26,Death Benefit,100379.28,Paid,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00698,CUST00915,POL01508,2024-07-05,Liability,7408.35,Approved,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00699,CUST00923,POL01518,2021-04-01,Fire Damage,3839.00,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00700,CUST00924,POL01520,2019-04-25,Terminal Illness Rider,140080.11,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00701,CUST00927,POL01525,2021-10-16,Fire Damage,1074.75,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00702,CUST00927,POL01525,2022-04-15,Fire Damage,13546.94,Approved,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00703,CUST00927,POL01526,2018-09-22,Hit and Run,4867.95,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00704,CUST00928,POL01528,2024-04-29,Terminal Illness Rider,65687.42,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00705,CUST00931,POL01531,2020-07-07,Theft,1248.68,Pending Documents,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00706,CUST00932,POL01532,2019-08-09,Terminal Illness Rider,151705.30,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00707,CUST00932,POL01532,2020-04-26,Death Benefit,180419.40,Rejected,Customer reported death benefit incident related to life policy. Claim filed for assessment and processing.
+CLM00708,CUST00942,POL01550,2021-07-11,Hospitalization,33359.60,Rejected,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00709,CUST00942,POL01550,2021-09-28,Surgery,23351.75,Under Review,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00710,CUST00945,POL01554,2021-02-27,Theft,5662.32,Under Review,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00711,CUST00946,POL01555,2020-08-17,Terminal Illness Rider,98700.07,Paid,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00712,CUST00948,POL01558,2019-08-13,Hit and Run,6534.70,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00713,CUST00949,POL01559,2023-09-28,Liability,828.43,Paid,Customer reported liability incident related to renters policy. Claim filed for assessment and processing.
+CLM00714,CUST00951,POL01561,2022-02-06,Surgery,11965.38,Under Review,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00715,CUST00951,POL01562,2021-03-05,Liability,74032.33,Under Review,Customer reported liability incident related to home policy. Claim filed for assessment and processing.
+CLM00716,CUST00952,POL01563,2022-01-22,Theft,4261.04,Approved,Customer reported theft incident related to renters policy. Claim filed for assessment and processing.
+CLM00717,CUST00954,POL01568,2021-11-03,Diagnostic Test,26737.58,Paid,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00718,CUST00954,POL01568,2022-08-11,Diagnostic Test,97938.47,Approved,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00719,CUST00955,POL01571,2019-08-15,Terminal Illness Rider,189634.93,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00720,CUST00957,POL01573,2021-05-11,Terminal Illness Rider,35496.10,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00721,CUST00957,POL01574,2022-07-21,Theft,1917.42,Under Review,Customer reported theft incident related to auto policy. Claim filed for assessment and processing.
+CLM00722,CUST00957,POL01575,2025-08-27,Fire Damage,6324.85,Pending Documents,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00723,CUST00959,POL01577,2022-07-31,Water Damage,12149.90,Paid,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00724,CUST00959,POL01578,2024-06-04,Diagnostic Test,80783.58,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00725,CUST00960,POL01579,2021-07-13,Theft,97341.41,Approved,Customer reported theft incident related to home policy. Claim filed for assessment and processing.
+CLM00726,CUST00961,POL01584,2022-01-30,Fire Damage,6994.19,Paid,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00727,CUST00962,POL01585,2020-02-24,Windshield Damage,6631.48,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00728,CUST00963,POL01587,2018-03-23,Outpatient Treatment,51038.81,Under Review,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00729,CUST00965,POL01590,2021-12-27,Windshield Damage,3675.45,Rejected,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00730,CUST00965,POL01590,2021-05-30,Vandalism,4960.17,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00731,CUST00968,POL01594,2026-07-26,Storm Damage,143907.48,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00732,CUST00972,POL01602,2024-03-29,Diagnostic Test,14128.21,Rejected,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00733,CUST00973,POL01603,2025-06-16,Terminal Illness Rider,15392.07,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00734,CUST00977,POL01607,2026-01-26,Vandalism,1888.50,Paid,Customer reported vandalism incident related to auto policy. Claim filed for assessment and processing.
+CLM00735,CUST00977,POL01608,2022-03-28,Terminal Illness Rider,8705.59,Under Review,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00736,CUST00978,POL01609,2018-11-14,Terminal Illness Rider,13622.78,Approved,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00737,CUST00979,POL01612,2024-09-12,Windshield Damage,10602.89,Approved,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00738,CUST00980,POL01613,2022-01-09,Terminal Illness Rider,122482.53,Pending Documents,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00739,CUST00980,POL01613,2022-02-10,Terminal Illness Rider,62359.50,Rejected,Customer reported terminal illness rider incident related to life policy. Claim filed for assessment and processing.
+CLM00740,CUST00981,POL01614,2019-08-03,Surgery,19803.47,Paid,Customer reported surgery incident related to health policy. Claim filed for assessment and processing.
+CLM00741,CUST00982,POL01615,2021-06-07,Windshield Damage,4059.53,Rejected,Customer reported windshield damage incident related to auto policy. Claim filed for assessment and processing.
+CLM00742,CUST00985,POL01618,2025-02-17,Hospitalization,35523.93,Paid,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00743,CUST00987,POL01621,2019-01-04,Hit and Run,3665.99,Approved,Customer reported hit and run incident related to auto policy. Claim filed for assessment and processing.
+CLM00744,CUST00989,POL01623,2024-03-31,Hospitalization,12611.81,Approved,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00745,CUST00991,POL01627,2021-04-11,Hospitalization,20944.07,Pending Documents,Customer reported hospitalization incident related to health policy. Claim filed for assessment and processing.
+CLM00746,CUST00991,POL01627,2022-02-28,Outpatient Treatment,5343.37,Paid,Customer reported outpatient treatment incident related to health policy. Claim filed for assessment and processing.
+CLM00747,CUST00993,POL01630,2018-01-16,Fire Damage,27616.84,Rejected,Customer reported fire damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00748,CUST00993,POL01630,2019-06-21,Water Damage,11019.45,Approved,Customer reported water damage incident related to renters policy. Claim filed for assessment and processing.
+CLM00749,CUST00995,POL01634,2024-01-15,Fire Damage,36041.07,Under Review,Customer reported fire damage incident related to home policy. Claim filed for assessment and processing.
+CLM00750,CUST00995,POL01635,2023-06-20,Diagnostic Test,8004.71,Under Review,Customer reported diagnostic test incident related to health policy. Claim filed for assessment and processing.
+CLM00751,CUST00998,POL01638,2019-03-26,Collision,11147.73,Paid,Customer reported collision incident related to auto policy. Claim filed for assessment and processing.
+CLM00752,CUST01000,POL01642,2023-04-30,Storm Damage,55850.97,Approved,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
+CLM00753,CUST01000,POL01642,2026-05-14,Storm Damage,52514.08,Paid,Customer reported storm damage incident related to home policy. Claim filed for assessment and processing.
